@@ -1,8 +1,3 @@
----
-title: bob
----
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,10 +56,56 @@ title: bob
 <!--  </div><!-- closes the header div -->
 <!--</header>-->
 
-{{content}}
+<header class="grid-spaceBetween">
+    <h1 class="logo">Eyes of a Nomad</h1>
+    <nav>
+      <a href="/index.html">Home</a>
+      <a href="/about.html">About</a>
+      <a href="/portfolio.html">Portfolio</a>
+      <a href="/work-with-me.html">Work with Me</a>
+      <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section class="blog">
+    
+    <article> <!-- Blog Excert -->
+        <a class="grid blog-snippet" href="/2016/07/01/first-post.html">
+          <div class="col-2_sm-0_xs-0 right horiz-padded">
+              <span class="info date"> 1 July </span>
+          </div>
+          <div class="col-5_sm-6_xs-12" style="background-position:center;background-image:url('/images/ eyesl-2.jpg')">
+                  <!-- <svg class="arrow-right right" x="0px" y="0px"
+  	 viewBox="0 0 100 600" enable-background="new 0 0 100 600">
+          <polygon class="white" points="100,600 100,0 0,0 78,300 0,600"/>
+  </svg> -->
+          </div>
+          <div class="col-5_sm-6_xs-12 horiz-padded">
+              <h2> Joshua Tree National Park</h2>
+              <h4 class="small-heading"> <i class="fa fa-map-marker" aria-hidden="true"></i>  Bali, Indonesia </h4>
+              <p> People generally don’t like to fail. In fact, it can be one overwhelming fears in someone's life. However, you can overcome this by reevaluating what you define as success. </p>
+          </div>
+        </a>
+    </article>
+    
 
 
-{% include instagram.html %}
+</section>
+<section class="igfeed no-padding">
+  <div class="igfeed-div">
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/3391d1fac62c5c489be9da74ab9aaea9.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+  </div><!-- closes igfeed-div -->
+</section><!-- closes the igfeed section -->
+
+
+
+
+<section class="igfeed no-padding">
+  <div class="igfeed-div">
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/3391d1fac62c5c489be9da74ab9aaea9.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+  </div><!-- closes igfeed-div -->
+</section><!-- closes the igfeed section -->
+
 
 <section class="contact">
   <div class="contact-div pgwdth">

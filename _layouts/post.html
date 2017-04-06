@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<meta property="og:type" content="article" />
+<meta property="og:author" content="{{page.author}}" />
+
+{% include header.html %}
+
+<section class="post-intro">
+
+    <div class="grid">
+      <div class="col-3_sm-0_xs-0 location-bio circles mob-hide">
+          <img src="{{page.map_path}}">
+          <h4 class="small-heading"> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{page.location}} </h4>
+      </div><!--
+      --><div class="col-9_sm-12 horiz-padded">
+              <h1> {{page.title}}</h1>
+              <h4 class="small-heading mob-show"> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{page.location}} </h4>
+          <p class="post-info"> {{page.date | date: '%B %d, %Y'}}  | By Emilio Kuzma-Floyd </p>
+          {{page.first-content}}
+      </div>
+    </div>
+</section>
+<section class="no-padding">
+  <div class="bg-image" style="background-image:url('{{page.banner-image_path}}');">
+    <div class="bg-text mob-hide">
+      <p> {{page.banner-image-blurb}} </p>
+    </div>
+  </div>
+</section>
+<section class="post">
+    {{content}}
+
+    <div class="share-page centered post-info">
+            <hr>
+            <h4> Share on ... </h4>
+            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">TWITTER</a>
+            <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">FACEBOOK</a>
+            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">GOOGLE+</a>
+    </div>
+</section>
+
+{% include instagram.html %}
+
+<!-- This gives you a pinterest hover on images -->
+<script type="text/javascript" async  data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>

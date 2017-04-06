@@ -3,13 +3,13 @@
   margin:0;
   padding:0;
   box-sizing: border-box;
-  transition: 1s;
+  transition: 0.5s;
 }
 
 /* ----- Universial ----- */
 
 body {
-  /*font-family: 'Old Standard TT', serif;*/
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
 }
 
@@ -25,8 +25,8 @@ a {
 
 }
 
-h1, h2, h3, p, .nav-bar {
-  font-family: 'Montserrat', sans-serif;
+h1, h2, h3, .nav-bar {
+
   text-transform: uppercase;
 }
 
@@ -42,6 +42,23 @@ li {
   list-style: none;
 }
 
+section {
+  padding: 5vh 5%;
+}
+
+.padded {
+  padding: 3%;
+}
+
+.horiz-padded {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.no-padding {
+  padding: 0;
+}
+
 /* ----- Masonry ----- */
 
 .grid-item {
@@ -54,31 +71,21 @@ li {
 
 .grid-item-tall {
     height: 600px;
-    
+
 }
 
 /* ----- Header ----- */
-
 header {
-  background-color: rgba(244, 240, 241, 1);
-  min-height: 5vh;
-  position: fixed;
-  width: 100%;
-  border-bottom: 2px solid;
-  z-index: 999;
+  padding: 5vh 5%;
+  border-bottom: 1px solid rgb(240,240,240);
 }
 
-.header ul {
-  min-height: 5vh;
-  text-align: center;
-  margin-bottom: 0;
-}
 
-.header li {
-  display: inline-block;
-  padding: 10px 25px;
-  letter-spacing: 4px;
-  font-size: 10px;
+header nav a {
+  padding: 0.5em;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
 }
 
 /* ----- Main ----- */
@@ -94,11 +101,11 @@ header {
   padding: 100px 0 0;
 }
 
-.main .title-area h1 {
+h1.logo  {
   letter-spacing: 9px;
-  padding-top: 40px;
-  font-size: 2.25rem;
+  font-size: 1.5rem;
   display: inline-block;
+  margin: 0;
 }
 
 .main .nav-bar ul {
@@ -107,19 +114,13 @@ header {
 
 .main .nav-bar li {
   display: inline-block;
-  font-size: 1rem;
-  padding: 30px 24px;
+  padding: 1rem;
   letter-spacing: 5px;
-}
-
-.nav-bar a:hover {
-  font-size: 1.25rem;
 }
 
 .main .headline h2{
   display: inline-block;
   padding: 11px 33px;
-  font-size: 2rem;
   border: 2px solid #333;
   letter-spacing: 4px;
 }
@@ -133,11 +134,9 @@ header {
 
 .portfolio h2 {
   letter-spacing: 4px;
-  font-size: 2rem;
 }
 
 .portfolio h3 {
-  font-size: 1.25rem;
   letter-spacing: 2px;
 }
 
@@ -208,22 +207,12 @@ ul#filter li {
   padding-bottom: 10px;
 }
 
-.about h2 {
-  font-size: 2rem;
-  letter-spacing: 4px;
-}
-
-.about h3 {
-  font-size: 1.25rem;
-  letter-spacing: 2px;
-}
 
 .about p {
-  font-family: Verdana, sans-serif;
   text-transform: none;
-  font-size: 1rem;
 }
 
+/* FIX */
 .about button {
     border: 2px solid #000;
     border-radius: 0;
@@ -235,6 +224,7 @@ ul#filter li {
 
 .igfeed {
   min-height: 25vh;
+  padding-top: 5vh;
 }
 
 /* ----- Contact ----- */
@@ -245,15 +235,6 @@ ul#filter li {
   padding-bottom: 10px;
 }
 
-.contact h2 {
-  font-size: 2rem;
-  letter-spacing: 4px;
-}
-
-.contact h3 {
-  font-size: 1.25rem;
-  letter-spacing: 2px;
-}
 
 .contact-form {
   padding-top: 50px;
@@ -264,11 +245,11 @@ ul#filter li {
 }
 
 .contact-form .form-comments {
-  height: 250px;
+  min-height:150px;
 }
 
 .contact-form input {
-    border: 2px solid #000;
+    border: 2px solid rgb(60,60,60);;
     border-radius: 0;
 }
 
@@ -292,151 +273,33 @@ footer a {
 }
 
 
+.mob-show {
+  display: none;
+}
+
 /* ---------- Resolution Styles ----------*/
 
 /* ------ Large Tablet Styles ------ */
 
 @media screen and (max-width:900px) {
 
-  .main .title-area h1 {
-    font-size: 2rem;
+  .mob-show {
+    display: block;
   }
 
-  .main .nav-bar li {
-    font-size: 0.75rem;
-  }
-
-  .nav-bar a:hover {
-    font-size: 1rem;
-  }
-
-  .main .headline h2{
-    font-size: 1.75rem;
-  }
-
-  .portfolio h2 {
-    font-size: 1.75rem;
-  }
-
-  .portfolio h3 {
-    font-size: 1rem;
-  }
-
-  .about h2 {
-    font-size: 1.75rem;
-  }
-
-  .about h3 {
-    font-size: 1rem;
-  }
-
-  .about p {
-    font-size: 0.75rem;
-  }
-
-  .contact h2 {
-    font-size: 1.75rem;
-  }
-
-  .contact h3 {
-    font-size: 1rem;
-  }
 }
 
 /* ------ Small Tablet Styles ------ */
 
 @media screen and (max-width:650px) {
 
-    .main .title-area h1 {
-      font-size: 1.75rem;
-    }
-
-    .main .nav-bar li {
-      font-size: 0.5rem;
-    }
-
-    .nav-bar a:hover {
-      font-size: 0.75rem;
-    }
-
-    .main .headline h2{
-      font-size: 1.5rem;
-    }
-
-    .portfolio h2 {
-      font-size: 1.5rem;
-    }
-
-    .portfolio h3 {
-      font-size: 0.75rem;
-    }
-
-    .about h2 {
-      font-size: 1.5rem;
-    }
-
-    .about h3 {
-      font-size: 0.75rem;
-    }
-
-    .about p {
-      font-size: 0.5rem;
-    }
-
-    .contact h2 {
-      font-size: 1.5rem;
-    }
-
-    .contact h3 {
-      font-size: 0.75rem;
-    }
+  .mob-hide {
+    display:none!important;
+  }
   }
 
 /* -------- Phone Styles -------- */
 
 @media screen and (max-width:450px) {
 
-  .main .title-area h1 {
-    font-size: 1.5rem;
-  }
-
-  .main .nav-bar li {
-    font-size: 0.25rem;
-  }
-
-  .nav-bar a:hover {
-    font-size: 0.5rem;
-  }
-
-  .main .headline h2{
-    font-size: 1.25rem;
-  }
-
-  .portfolio h2 {
-    font-size: 1.25rem;
-  }
-
-  .portfolio h3 {
-    font-size: 0.5rem;
-  }
-
-  .about h2 {
-    font-size: 1.25rem;
-  }
-
-  .about h3 {
-    font-size: 0.5rem;
-  }
-
-  .about p {
-    font-size: 0.25rem;
-  }
-
-  .contact h2 {
-    font-size: 1.25rem;
-  }
-
-  .contact h3 {
-    font-size: 0.5rem;
-  }
 }

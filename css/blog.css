@@ -1,0 +1,198 @@
+/* ----------------------- BLOG ------------------------------ */
+section.blog,
+section.post-intro {
+  max-width: 1100px;
+  margin: auto;
+}
+
+
+.blog p,
+.post p,
+.post-intro p {
+  text-transform: none;
+}
+
+
+.blog div {
+  background-size: cover;
+  min-height: 15em;
+  position: relative;
+}
+
+hr {
+  margin : 1em 0 2em;
+  border : 2px solid rgb(120,120,125);
+}
+
+.blog .date,
+.blog .month {
+  padding    : 0 10px;
+  text-align : right;
+}
+
+.blog .date {
+  display   : block;
+}
+
+a.blog-snippet:hover {
+  color: inherit;
+  filter: grayscale();
+}
+
+.blog-snippet .info {
+  border-right: 2px solid grey;
+  text-transform: uppercase;
+  min-height: 5rem;
+  font-size: 1.2rem;
+  padding-right: 1rem;
+}
+
+.blog h2 {
+  line-height : 1.3em;
+}
+
+.blog article {
+  margin : 1em 0;
+}
+
+.blog-post h1 {
+    text-align: center;
+    font-size: 3rem; }
+
+.blog-post p {
+  font-size: 1.1rem;
+}
+.blog-post a {
+  color: #00A9BF; }
+
+.blog-post a:hover {
+  color: #CC0C4C; }
+
+.blog-post .intro {
+    font-size: 1.5rem;
+}
+/* POST Page */
+
+section.post {
+  padding-bottom: 5%;
+  max-width: 1080px;
+  margin: auto;
+}
+
+.post hr {
+  border: 1px solid rgb(200,200,200);
+  margin: 3rem 0;
+}
+
+.post h2,
+.post h3 {
+  margin: 1.5em 0 0.8em;
+}
+
+
+/* -- Author Bio --*/
+.location-bio {
+  text-align: center;
+}
+.location-bio h4 {
+  font-size: 1rem;
+  margin: 2rem 0 0;
+}
+
+.location-bio p {
+  font-size: 0.9rem;
+}
+
+.location-bio img {
+  border-radius: 100%;
+}
+
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.post ul {
+  list-style: circle inside;
+}
+.post ol {
+  list-style: decimal inside;
+}
+.post ol,
+.post ul {
+  padding-left: 0;
+  margin-top: 0;
+}
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin: 1rem 0 1rem 2rem;
+  font-size: 90%;
+}
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Post Page */
+.share-page {
+  padding-bottom: 3rem;
+
+}
+
+.post-info p,
+.post-info a {
+  font-size: 0.8rem;
+  letter-spacing: 0.1rem;
+  color: rgb(90,90,95);
+}
+.share-page a {
+  padding: 0.2rem 2rem;
+  margin: 0.5rem;
+  border: 1px solid grey;
+  border-radius: 2em;
+  display: inline-block;
+}
+.share-page a:hover {
+  color: #00A9BF;
+}
+
+.post h1 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+/* This styles the large banner image in the blog */
+.bg-image {
+    background-size: cover;
+    background-position: center;
+    height: 40vw;
+    width: 100%;
+    padding: 2rem;
+}
+
+.bg-text {
+  background-color: white;
+  padding: 1rem 1.5rem;
+  width: 200px;
+  min-height: 180px;
+}
+
+.bg-text p {
+    text-transform: none;
+    font-size: 0.9rem;
+}
+
+.post:first-of-type {
+  border-top:1px solid rgb(220,220,220);
+}
+
+.intro {
+  font-size: 1.3rem;
+}
+
+blockquote {
+    font-family: "Lora";
+    font-size: 1.5rem;
+    border-top: 1px solid rgb(200,200,200);
+    border-bottom: 1px solid rgb(200,200,200);
+    padding: 0.8em 0 1em;
+    margin: 1em 0;
+    font-weight: bold;
+}
