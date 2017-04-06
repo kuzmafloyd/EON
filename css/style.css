@@ -1,0 +1,442 @@
+/* ----- CSS RESET ----- */
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  transition: 1s;
+}
+
+/* ----- Universial ----- */
+
+body {
+  /*font-family: 'Old Standard TT', serif;*/
+  font-weight: 400;
+}
+
+.pgwdth {
+  max-width: 980px;
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+
+}
+
+h1, h2, h3, p, .nav-bar {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+img {
+  max-width: 100%;
+}
+
+.dropdown-content {
+  display: none;
+}
+
+li {
+  list-style: none;
+}
+
+/* ----- Masonry ----- */
+
+.grid-item {
+  width: 300px;
+  margin-bottom: 10px;
+  height: 194px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.grid-item-tall {
+    height: 600px;
+    
+}
+
+/* ----- Header ----- */
+
+header {
+  background-color: rgba(244, 240, 241, 1);
+  min-height: 5vh;
+  position: fixed;
+  width: 100%;
+  border-bottom: 2px solid;
+  z-index: 999;
+}
+
+.header ul {
+  min-height: 5vh;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.header li {
+  display: inline-block;
+  padding: 10px 25px;
+  letter-spacing: 4px;
+  font-size: 10px;
+}
+
+/* ----- Main ----- */
+
+.main {
+  min-height: 100vh;
+  background-image: url("../images/bgmainimg.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.main .title-area {
+  padding: 100px 0 0;
+}
+
+.main .title-area h1 {
+  letter-spacing: 9px;
+  padding-top: 40px;
+  font-size: 2.25rem;
+  display: inline-block;
+}
+
+.main .nav-bar ul {
+  text-align: center;
+}
+
+.main .nav-bar li {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 30px 24px;
+  letter-spacing: 5px;
+}
+
+.nav-bar a:hover {
+  font-size: 1.25rem;
+}
+
+.main .headline h2{
+  display: inline-block;
+  padding: 11px 33px;
+  font-size: 2rem;
+  border: 2px solid #333;
+  letter-spacing: 4px;
+}
+
+/* ----- Portfolio ----- */
+
+.portfolio {
+  min-height: 100vh;
+  margin-top: 100px;
+}
+
+.portfolio h2 {
+  letter-spacing: 4px;
+  font-size: 2rem;
+}
+
+.portfolio h3 {
+  font-size: 1.25rem;
+  letter-spacing: 2px;
+}
+
+.portfolio-buttons {
+  padding-top: 50px;
+  display: inline-block;
+  margin: auto;
+  margin-bottom: 0;
+}
+
+.portfolio-buttons ul {
+  margin-bottom: 0;
+}
+
+ul#filter {
+  float: left;
+  list-style: none;
+  margin-left: 0;
+  width: 100%;
+}
+
+ul#filter li {
+  float: left;
+  line-height: 16px;
+  margin-right: 10px;
+  padding-right: 10px;
+}
+
+/*ul#portfolio a {*/
+/*  display: block; width: 100%;*/
+/*}*/
+
+/*#portfolio li {*/
+/*  display: none;*/
+/*}*/
+
+/*#portfolio .grid-item {*/
+/*  width: 300px;*/
+/*  height: 150px;*/
+/*  display: inline-block;*/
+/*}*/
+
+
+
+.portfolio button {
+  border: 2px solid #333;
+  border-radius: 0;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.portfolio button:hover {
+  color: #333;
+  border-color: #888;
+  outline: 0;
+}
+
+.portfolio .current button {
+  background-color: rgba(237, 244, 244, 1);
+}
+
+/* ----- About ----- */
+
+.about {
+  min-height: 60vh;
+  background-color: rgba(237, 244, 244, 1);
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+
+.about h2 {
+  font-size: 2rem;
+  letter-spacing: 4px;
+}
+
+.about h3 {
+  font-size: 1.25rem;
+  letter-spacing: 2px;
+}
+
+.about p {
+  font-family: Verdana, sans-serif;
+  text-transform: none;
+  font-size: 1rem;
+}
+
+.about button {
+    border: 2px solid #000;
+    border-radius: 0;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+/* ----- IGFeed ----- */
+
+.igfeed {
+  min-height: 25vh;
+}
+
+/* ----- Contact ----- */
+
+.contact {
+  min-height: 100vh;
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  letter-spacing: 4px;
+}
+
+.contact h3 {
+  font-size: 1.25rem;
+  letter-spacing: 2px;
+}
+
+.contact-form {
+  padding-top: 50px;
+}
+
+.contact-form .form-element {
+  width: 100%;
+}
+
+.contact-form .form-comments {
+  height: 250px;
+}
+
+.contact-form input {
+    border: 2px solid #000;
+    border-radius: 0;
+}
+
+/* ----- Footer ----- */
+
+footer {
+  position: fixed;
+  min-height: 10vh;
+  width: 100%;
+  bottom: 0;
+}
+
+footer a {
+    border: 2px solid #333;
+    border-radius: 0;
+    float: right;
+    margin-right: 5rem;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 0.1rem 2rem;
+}
+
+
+/* ---------- Resolution Styles ----------*/
+
+/* ------ Large Tablet Styles ------ */
+
+@media screen and (max-width:900px) {
+
+  .main .title-area h1 {
+    font-size: 2rem;
+  }
+
+  .main .nav-bar li {
+    font-size: 0.75rem;
+  }
+
+  .nav-bar a:hover {
+    font-size: 1rem;
+  }
+
+  .main .headline h2{
+    font-size: 1.75rem;
+  }
+
+  .portfolio h2 {
+    font-size: 1.75rem;
+  }
+
+  .portfolio h3 {
+    font-size: 1rem;
+  }
+
+  .about h2 {
+    font-size: 1.75rem;
+  }
+
+  .about h3 {
+    font-size: 1rem;
+  }
+
+  .about p {
+    font-size: 0.75rem;
+  }
+
+  .contact h2 {
+    font-size: 1.75rem;
+  }
+
+  .contact h3 {
+    font-size: 1rem;
+  }
+}
+
+/* ------ Small Tablet Styles ------ */
+
+@media screen and (max-width:650px) {
+
+    .main .title-area h1 {
+      font-size: 1.75rem;
+    }
+
+    .main .nav-bar li {
+      font-size: 0.5rem;
+    }
+
+    .nav-bar a:hover {
+      font-size: 0.75rem;
+    }
+
+    .main .headline h2{
+      font-size: 1.5rem;
+    }
+
+    .portfolio h2 {
+      font-size: 1.5rem;
+    }
+
+    .portfolio h3 {
+      font-size: 0.75rem;
+    }
+
+    .about h2 {
+      font-size: 1.5rem;
+    }
+
+    .about h3 {
+      font-size: 0.75rem;
+    }
+
+    .about p {
+      font-size: 0.5rem;
+    }
+
+    .contact h2 {
+      font-size: 1.5rem;
+    }
+
+    .contact h3 {
+      font-size: 0.75rem;
+    }
+  }
+
+/* -------- Phone Styles -------- */
+
+@media screen and (max-width:450px) {
+
+  .main .title-area h1 {
+    font-size: 1.5rem;
+  }
+
+  .main .nav-bar li {
+    font-size: 0.25rem;
+  }
+
+  .nav-bar a:hover {
+    font-size: 0.5rem;
+  }
+
+  .main .headline h2{
+    font-size: 1.25rem;
+  }
+
+  .portfolio h2 {
+    font-size: 1.25rem;
+  }
+
+  .portfolio h3 {
+    font-size: 0.5rem;
+  }
+
+  .about h2 {
+    font-size: 1.25rem;
+  }
+
+  .about h3 {
+    font-size: 0.5rem;
+  }
+
+  .about p {
+    font-size: 0.25rem;
+  }
+
+  .contact h2 {
+    font-size: 1.25rem;
+  }
+
+  .contact h3 {
+    font-size: 0.5rem;
+  }
+}
