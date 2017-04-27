@@ -5,7 +5,41 @@ title: Work with me | Eyes of a Nomad
 
 {% include header.html %}
 
-<section>
-  <h1> Work with me </h1>
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-</section>
+<section class="portfolio center">
+    <h2>Portfolio</h2>
+    <h3>A collection of images I've taken from my adventures around the world.</h3>
+
+    <!-- <div class="portfolio-buttons">
+      <ul id="portfolio-filter">
+        <li class="current"><a class="button" href="">All</a></li>
+        <li><a class="button" href="">Landscape</a></li>
+        <li><a class="button" href="">Lifestyle</a></li>
+        <li><a class="button" href="">Events</a></li>
+        <li><a class="button" href="">Product</a></li>
+      </ul>
+    </div> --->
+    <!-- closes portfolio-buttons -->
+
+    <div class="portfolio-images left">
+      <div id="new-portfolio">
+          {% for project in site.projects %}
+            <div class="portfolio-item {% for item in project.category %} {{item}} {% endfor %}">
+              <a href="{{project.url}}" class="grid">
+                    <div class="col-3 horiz-padded ">
+                      <h3> No. {{project.number}} </h3>
+                      <h4 class="uppercase"> {{project.title}} </h4>
+                      {% for category in project.categories %} <span class="tag"> {{category}}</span> {% endfor %}
+                    </div>
+                    <div class="col-6 no-padding">
+                      <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
+                    </div>
+                    <div class="col-3 no-padding">
+                      <div class="sm-image" style="background-image:url('{{project.image2_path}}');"></div>
+                      <div class="sm-image" style="background-image:url('{{project.image3_path}}');"></div>
+                    </div>
+              </a>
+            </div>
+          {% endfor %}
+      </div>
+    </div> <!-- closes the portfolio-images div -->
+</section> <!-- closes the portfolio section -->

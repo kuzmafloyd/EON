@@ -1,11 +1,9 @@
 ---
 layout: post
-date: 2016-07-01 11:00:00
-title: Joshua Tree National Park
+date: 2016-07-06 11:00:00
+title: Hello Sam my friend
 description: "Fear of failure isn't the only thing keeping many aspiring entrepreneurs from starting their own business. Stepping out in confidence with an adaptive mindset will ease the transition to becoming a successful business owner."
-image_path: /images/ eyesl-2.jpg
-alt: Fears of starting a business
-excerpt: "People generally don’t like to fail. In fact, it can be one overwhelming fears in someone's life. However, you can overcome this by reevaluating what you define as success."
+image_path: /images/ eyesl.jpg
 map_path: /images/maps/joshua-tree.png
 location: Bali, Indonesia
 first-content: '<p> In fact, it can be one of the most nerve racking things you’ll ever do in your life, but it also might be one of the most rewarding. Being something we have actually experienced ourselves, we decided to create a summary of six of the most common fears people may experience when starting a business and strategies available to help overcome them.</p>'
