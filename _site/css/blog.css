@@ -13,6 +13,9 @@ section.post-intro,
   text-transform: none;
 }
 
+.post img {
+  margin: 5px 0; /* top & bottom then left & right */
+}
 
 .blog div {
   background-size: cover;
