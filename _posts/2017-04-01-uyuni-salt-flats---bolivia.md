@@ -27,7 +27,9 @@ The town of Uyuni is pretty small and quiet, you're in the middle of the desert 
 
 So we took a 3 day tour which took us much further than just the salt flats, into some of the most dramatic places on earth! More about the experience further down!
 
-Finally, ITS SO BLOODY COLD ON THE TOUR, like I'm talking below freezing, like ice on the ground, so pack warm, really bloody warm, but also pack some shorts, its &nbsp;
+Another important note on the tour before I get into the experience, ITS SO BLOODY COLD ON THE TOUR, like I'm talking below freezing, like ice on the ground, so pack warm, really bloody warm, but also pack some shorts, the start of the first day and end of the last day when your closer to the outskirts of the main desert area can start to get a little warmer in the sun is out!&nbsp;
+
+&nbsp;
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
 
