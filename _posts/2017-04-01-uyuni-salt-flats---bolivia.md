@@ -25,7 +25,9 @@ Now more about the Uyuni and the Salt Flat tour-&nbsp;
 
 The town of Uyuni is pretty small and quiet, you're in the middle of the desert so picture dusty roads and not many options for food and drink! Like a lot of tours anywhere in the world, you can more often than not score a waaay better deal by organising it on the ground, not over the internet. With a quick search of the internet (found the names of the top 3 agencies), followed by a little bit of friendly negotiating, we found ourselves on a tour the very next day. There is a word of warning when it comes to which tour operator to go with - there is usually a few cars from each tour agency in a convoy and they love to have a drink or 10 together, sometimes during the day (which we saw happening with another group following us), so make sure you find yourself a more reputable company if you can to avoid finding yourself flooring it across the desert in an unstable 4WD!&nbsp;
 
-&nbsp;
+So we took a 3 day tour which took us much further than just the salt flats, into some of the most dramatic places on earth! More about the experience further down!
+
+Finally, ITS SO BLOODY COLD ON THE TOUR, like I'm talking below freezing, like ice on the ground, so pack warm, really bloody warm, but also pack some shorts, its &nbsp;
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
 
