@@ -19,17 +19,17 @@ banner-image-blurb: 'If there were a place on earth that represented a life on a
 ---
 
 
-Uyuni is located just over 500km south of La Paz (Bolivias' bustling capital - GO THERE!) and according to google takes 7 hours to get there... don't trust google! This trip is epic, its closer to 10 hours, its' often run through the middle of the night, in a bus thats colder than an Eskimos outhouse, on a road so bumpy, it will shatter your frozen bones... when the travel agent offers you a good price to fly, take it! At the end of the day this is what travel is all about and as much as I carry on, it was worth every second to see this incredible part of the world!&nbsp;
+Uyuni is located just over 500km south of La Paz (Bolivias' bustling capital - GO THERE!) and according to google takes 7 hours to get there... don't trust google! This trip is epic, it's closer to 10 hours, its' often run through the middle of the night, on a bus that's colder than an Eskimos outhouse, on a road so bumpy, it will shatter your frozen bones... when the travel agent offers you a good price to fly, take it! At the end of the day this is what travel is all about and as much as I carry on, it was worth every second to see this incredible part of the world!&nbsp;
 
 Now more about the Uyuni and the Salt Flat tour-&nbsp;
 
 The town of Uyuni is pretty small and quiet, you're in the middle of the desert so picture dusty roads and not many options for food and drink! Like a lot of tours anywhere in the world, you can more often than not score a waaay better deal by organising it on the ground, not over the internet. With a quick search of the internet (found the names of the top 3 agencies), followed by a little bit of friendly negotiating, we found ourselves on a tour the very next day. There is a word of warning when it comes to which tour operator to go with - there is usually a few cars from each tour agency in a convoy and they love to have a drink or 10 together, sometimes during the day (which we saw happening with another group following us), so make sure you find yourself a more reputable company if you can to avoid finding yourself flooring it across the desert in an unstable 4WD!&nbsp;
 
-So we took a 3 day tour which took us much further than just the salt flats, into some of the most dramatic places on earth! More about the experience further down!
+So we took a 3-day tour which took us much further than just the salt flats, into some of the most dramatic places on earth! More about the experience further down!
 
 Another important note on the tour before I get into the experience, ITS SO BLOODY COLD ON THE TOUR, like I'm talking below freezing, like ice on the ground, so pack warm, really bloody warm, but also pack some shorts, the start of the first day and end of the last day when your closer to the outskirts of the main desert area can start to get a little warmer when the sun is out!&nbsp;
 
-Finally, before you head off on your amazing adventure, make sure you head just a few minuets out of town to the train graveyard. Here you will find some beautiful old rusty relics from the steam train era with some pretty decent graffiti plastered all over them!&nbsp;
+Finally, before you head off on your amazing adventure, make sure you head just a few minutes out of town to the train graveyard. Here you will find some beautiful old rusty relics from the steam train era with some pretty decent graffiti plastered all over them!&nbsp;
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
 
