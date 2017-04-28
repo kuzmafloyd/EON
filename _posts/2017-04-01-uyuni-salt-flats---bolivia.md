@@ -19,7 +19,11 @@ banner-image-blurb: 'If there were a place on earth that represented a life on a
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Uyuni is located just over 500km south of La Paz (Bolivias' bustling capital - GO THERE!) and according to google takes 7 hours to get there... don't trust google! This trip is epic, its closer to 10 hours, its' often run through the middle of the night, in a bus thats colder than an Eskimos outhouse, on a road so bumpy, it will shatter your frozen bones... when the travel agent offers you a good price to fly, take it! At the end of the day this is what travel is all about and as much as I carry on, it was worth every second to see this incredible part of the world!&nbsp;
+
+Now more about the Uyuni and the Salt Flat tour-&nbsp;
+
+The town of Uyuni is pretty small and quiet with a couple of pretty good options for food and an ice-cold cerveza!&nbsp;
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
 
