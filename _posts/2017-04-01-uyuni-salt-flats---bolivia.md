@@ -29,7 +29,7 @@ So we took a 3-day tour, which took us much further than just the salt flats, in
 
 Another important note on the tour before I get into the experience, ITS SO BLOODY COLD ON THE TOUR, like I'm talking below freezing, like ice on the ground, so pack warm, really bloody warm (break out the birkenstock and sock combo)! But also pack some shorts, the start of the first day and end of the last day when your closer to the outskirts of the main desert, can start to get a little warmer when the sun is out.&nbsp;
 
-Finally, before you head off on your amazing adventure, make sure you head just a few minutes out of town to the train graveyard. Here you will find some beautiful old rusty relics from the steam train era with some pretty decent graffiti plastered all over them!&nbsp;
+Finally, before you head off on your amazing adventure, make sure you head just a few minutes out of town to the train graveyard (some tours take you here as the first stop, so check first). Here you will find some beautiful old rusty relics from the steam train era with some pretty decent graffiti plastered all over them!&nbsp;
 
 READ ON AND ENJOY THE PHOTOS!
 
