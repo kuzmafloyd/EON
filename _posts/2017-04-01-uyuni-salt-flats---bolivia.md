@@ -23,7 +23,9 @@ Uyuni is located just over 500km south of La Paz (Bolivias' bustling capital - G
 
 Now more about the Uyuni and the Salt Flat tour-&nbsp;
 
-The town of Uyuni is pretty small and quiet with a couple of pretty good options for food and drinks, your in the middle of the desert so picture dusty roads! So it may have changed since we were there but like a lot of tours anywhere in the world, you can more often than not score a waaay better deal by organising it on the ground, not over the internet. A quick search of the internet found the names of the top 3 agencies and a little bit of negotiating and we found ourselves on the next tour starting&nbsp;
+The town of Uyuni is pretty small and quiet, your in the middle of the desert so picture dusty roads and not many options for food and drink! Like a lot of tours anywhere in the world, you can more often than not score a waaay better deal by organising it on the ground, not over the internet. A quick search of the internet found the names of the top 3 agencies, followed by a little bit of negotiating and we found ourselves on a tour the very next day. There is a word of warning when it comes to which tour operator to go with - the drivers are usually all friends and they love to have a drink or 10, sometimes during the day (which we witnessed first hand), so make sure you find yourself a more reputable company if you can and avoid finding yourself flooring across the desert!&nbsp;
+
+&nbsp;
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
 
