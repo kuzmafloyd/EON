@@ -19,7 +19,7 @@ banner-image-blurb: 'If there were a place on earth that represented a life on a
 ---
 
 
-Uyuni is located just over 500km south of La Paz (Bolivias' bustling capital - GO THERE!) and according to google takes 7 hours to get there... don't trust google! This trip is epic, it's closer to 10 hours, its' often run through the middle of the night, on a bus that's colder than an Eskimos outhouse, on a road so bumpy, it will shatter your frozen bones... when the travel agent offers you a good price to fly, take it! At the end of the day this is what travel is all about and as much as I carry on, it was worth every second to see this incredible part of the world!&nbsp;
+Uyuni is located just over 500km south of La Paz (Bolivias' bustling capital - GO THERE!) and according to google takes 7 hours to get there… don't trust google! This trip is epic, it's closer to 10 hours, its' often run through the middle of the night, on a bus that's colder than an Eskimos outhouse, on a road so bumpy, it will shatter your frozen bones… when the travel agent offers you a good price to fly, take it! At the end of the day this is what travel is all about and as much as I carry on, it was worth every second to see this incredible part of the world!&nbsp;
 
 Now more about the Uyuni and the Salt Flat tour-&nbsp;
 
@@ -35,7 +35,7 @@ READ ON AND ENJOY THE PHOTOS!
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
 
-After some time exploring the train graveyard and a short drive you find yourself standing on the the blinding white salt that makes up the Salar de Uyuni, a once expansive inland ocean of close to 11,000km2.&nbsp;
+After some time exploring the train graveyard and a short drive you'll find yourself standing on the the blinding white salt that makes up the Salar de Uyuni, a once expansive inland ocean of close to 11,000km2. The salt is still harvested today and the local government has placed restrictions over its' harvesting, allowing permits to locals only. The salt flats are best visited in the wet season, with a thin layer of water covering the salt, creating an almost perfect mirror effect. We were here during the dry season which kinda of took away a bit of the magic, but meant that we got to see the harvesting of the salt, either way its beautiful so don't fret! Once you finish up playing around on the salt, you have some morning tea at a now abandoned hotel made entirely of bricks of solid salt (apparently is was abandoned due to a high level of toxins found in the salt and was unsuitable for human occupation!)
 
 ![](/uploads/versions/eon-bolivia-58302---x----2560-1707x---.jpg)![](/uploads/versions/eon-bolivia-5843---x----2560-1707x---.jpg)![](/uploads/versions/eon-bolivia-5888---x----2560-1707x---.jpg)![](/uploads/versions/eon-bolivia-5867---x----2560-1707x---.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5866.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5875.jpg)
 
