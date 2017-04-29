@@ -27,7 +27,7 @@ The town of Uyuni is pretty small and quiet, you're in the middle of the desert 
 
 We took a 3-day tour, which took us much further than just the salt flats, into some of the most dramatic places on earth! More about the experience further down!
 
-Another important note on the tour, ITS SO BLOODY COLD, like I'm talking below freezing, like ice on the ground, so pack warm, really bloody warm (add those fat socks to the birkenstocks)! But also pack some shorts, the start of the first day and end of the last day when your closer to the outskirts of the main desert, can start to get a little warmer when the sun is out.&nbsp;
+Another important note on the tour, ITS SO BLOODY COLD, I'm talking below freezing, like ice on the ground, so pack warm, really bloody warm (add those fat socks to the birkenstocks)! But also pack some shorts, the start of the first day and end of the last day when your closer to the outskirts of the main desert, can start to get a little warmer when the sun is out.&nbsp;
 
 Finally, before you head off on your amazing adventure, make sure you head just a few minutes out of town to the train graveyard (some tours take you here as the first stop, so check first). Here you will find some beautiful old rusty relics from the steam train era with some pretty decent graffiti plastered all over them!&nbsp;
 
@@ -35,7 +35,7 @@ READ ON AND ENJOY THE PHOTOS!
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+After some time exploring the train graveyard and a short drive you find yourself standing on the the blinding white salt that makes up the Salar de Uyuni, a once expansive inland ocean of close to 11,000km2.&nbsp;
 
 ![](/uploads/versions/eon-bolivia-58302---x----2560-1707x---.jpg)![](/uploads/versions/eon-bolivia-5843---x----2560-1707x---.jpg)![](/uploads/versions/eon-bolivia-5888---x----2560-1707x---.jpg)![](/uploads/versions/eon-bolivia-5867---x----2560-1707x---.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5866.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5875.jpg)
 
