@@ -178,6 +178,7 @@ li {
 .bg-image {
     background-size: cover;
     background-position: center;
+    background-color: rgb(240,240,240);
     height: 40vw;
     width: 100%;
     padding: 2rem;
