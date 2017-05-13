@@ -6,7 +6,7 @@ description: A look back at one of the most jaw dropping experiences of my life 
 image_path: /images/bolivia-salt-flats/eon-bolivia-6048.jpg
 map_path: /images/maps/eon-bolivia-saltflats.png
 location: 'Uyuni, Bolivia'
-first-content: >
+first-content: |
   <p>Have you ever found yourself staring out onto a landscape and felt as though
   you could be anywhere but Earth? During my second trip through South America,
   I had my eyes and my mind twisted by some of the most dramatic, alien-like
