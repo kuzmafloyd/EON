@@ -2,12 +2,12 @@
 layout: post
 date: 2016-07-06 11:00:00
 title: Searching for temples and waterfalls in beautiful Bali
-description: "Fear of failure isn't the only thing keeping many aspiring entrepreneurs from starting their own business. Stepping out in confidence with an adaptive mindset will ease the transition to becoming a successful business owner."
+description: "Dont go chasing waterfalls.. or do. This is a photo essay of our journey through northern Bali, with description to come!"
 image_path: /images/bali-sam/eon-bolivia-1423.jpg
 map_path: /images/maps/bali-indonesia.png
 location: Bali, Indonesia
 first-content: |
-  <p> In fact, it can be one of the most nerve racking things you’ll ever do in your life, but it also might be one of the most rewarding. Being something we have actually experienced ourselves, we decided to create a summary of six of the most common fears people may experience when starting a business and strategies available to help overcome them.</p>
+  <p> Dont go chasing waterfalls.. or do. This is a photo essay of our journey through northern Bali, with description to come! </p>
 banner-image_path: /images/bali-sam/eon-bali-.jpg
 banner-image-blurb: Getting up at 3am to see the sunrise over this beautiful lake was more than worth it!
 ---
