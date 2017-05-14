@@ -5,6 +5,7 @@ title: Uyuni Salt Flats - Bolivia
 description: A look back at one of the most jaw dropping experiences of my life in the desolate landscape of the Uyuni Salt Flats.
 image_path: /images/bolivia-salt-flats/eon-bolivia-6048.jpg
 map_path: /images/maps/eon-bolivia-saltflats.png
+map_url: https://goo.gl/maps/EUhYd7eA46B2
 location: 'Uyuni, Bolivia'
 first-content: |
   <p>Have you ever found yourself staring out onto a landscape and felt as though

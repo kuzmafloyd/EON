@@ -5,6 +5,7 @@ title: Searching for temples and waterfalls in beautiful Bali
 description: "Dont go chasing waterfalls.. or do. This is a photo essay of our journey through northern Bali, with description to come!"
 image_path: /images/bali-sam/eon-bolivia-1423.jpg
 map_path: /images/maps/bali-indonesia.png
+map_url: https://goo.gl/maps/EUhYd7eA46B2
 location: Bali, Indonesia
 first-content: |
   <p> Dont go chasing waterfalls.. or do. This is a photo essay of our journey through northern Bali, with description to come! </p>

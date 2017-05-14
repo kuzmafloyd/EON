@@ -270,3 +270,21 @@ blockquote {
 .sm-image {
     padding-bottom: calc(60% - 2px);
 }
+
+
+/* Post Navigation */
+
+.post-navigation a {
+  font-size: 0.8rem;
+  padding: 1rem;
+  border: 2px solid rgb(60,60,60);
+}
+
+.post-navigation h5 {
+  letter-spacing: 0;
+  margin-bottom: 0;
+}
+
+.post-navigation img {
+  margin: 10px 0 0;
+}

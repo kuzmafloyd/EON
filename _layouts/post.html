@@ -11,7 +11,9 @@ layout: default
 
     <div class="grid">
       <div class="col-3_sm-0_xs-0 location-bio circles mob-hide">
-          <img src="{{page.map_path}}">
+          <a href="{{page.map_url}}" target="_blank">
+            <img src="{{page.map_path}}">
+          </a>
           <h4 class="small-heading"> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{page.location}} </h4>
       </div><!--
       --><div class="col-9_sm-12 horiz-padded">
@@ -39,6 +41,26 @@ layout: default
             <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">FACEBOOK</a>
             <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">GOOGLE+</a>
     </div>
+    <hr>
+    <nav class="post-navigation">
+      <div class="grid-spaceBetween">
+        {% if page.previous.url %}
+          <a class="col-4" href="{{ page.previous.url }}">
+            &laquo; PREVIOUS POST <br>
+            <h5> {{ page.previous.title }} </h5>
+            <img src='{{page.previous.image_path}}'>
+          </a>
+        {% endif %}
+        {% if page.next.url %}
+          <a class="col-4 right" href="{{ page.next.url }}">
+              NEXT POST &raquo; <br>
+            <h5> {{ page.next.title }} </h5>
+            <img src='{{page.next.image_path}}'>
+          </a>
+        {% endif %}
+
+      </div>
+    </nav>
 </section>
 
 <!-- This gives you a pinterest hover on images -->
