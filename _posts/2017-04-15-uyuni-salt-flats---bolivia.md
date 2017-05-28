@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-04-01 11:00:00
+date: 2017-04-15 11:00:00
 title: Uyuni Salt Flats - Bolivia
 description: A look back at one of the most jaw dropping experiences of my life in the desolate landscape of the Uyuni Salt Flats.
 image_path: /images/bolivia-salt-flats/eon-bolivia-6048.jpg

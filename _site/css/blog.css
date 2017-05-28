@@ -16,6 +16,9 @@ section.post-intro,
 .post img {
   margin: 20px 0; /* top & bottom then left & right */
 }
+.post figure img {
+  margin:0;
+}
 
 .blog div {
   background-size: cover;
