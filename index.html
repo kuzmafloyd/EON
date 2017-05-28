@@ -23,10 +23,10 @@ contact: true
   <div class="headline pgwdth">
     <h2>Photography From around the world</h2>
   </div><!-- closes the headline div -->
-  <a class="down-arrow" href="#portfolio"> <img src="/images/icons/008-arrows-1.svg" alt="down-arrow"></a>
+  <a class="down-arrow" href="#blog"> <img src="/images/icons/008-arrows-1.svg" alt="down-arrow"></a>
 </section><!-- closes the main section -->
 
-<section class="blog">
+<section class="blog" id="blog">
   <h2 class="center"> Latest Blog Posts </h2>
   <hr>
     {% for post in site.posts %}
@@ -84,10 +84,10 @@ contact: true
                     <div class="sm-image" style="background-image:url('{{project.image3_path}}');"></div>
                   </div>
                   <div class="col-6 no-padding">
-                    <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
+                    <div class="big-image" style="background-image:url('{{project.image4_path}}');"></div>
                   </div>
                   <div class="col-6 no-padding">
-                    <div class="sm-image" style="background-image:url('{{project.image2_path}}');"></div>
+                    <div class="sm-image" style="background-image:url('{{project.image5_path}}');"></div>
                   </div>
                 </div>
           </a>

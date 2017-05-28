@@ -6,6 +6,8 @@ number: 1
 image1_path: /images/bolivia-salt-flats/eon-bolivia-6054.jpg
 image2_path: /images/bolivia-salt-flats/eon-bolivia-6064.jpg
 image3_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
+image4_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
+image5_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
 categories:
   - travel
   - landscape

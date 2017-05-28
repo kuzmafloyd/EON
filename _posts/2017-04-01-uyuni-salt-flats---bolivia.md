@@ -34,7 +34,11 @@ Finally, before you head off on your amazing adventure, make sure you head just 
 
 READ ON AND ENJOY THE PHOTOS!
 
-![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg) ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5819.jpg)
+![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5815.jpg)
+![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5770.jpg)
+![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5774.jpg)
+
+<figure><img src='/images/bolivia-salt-flats/eon-bolivia-5819.jpg' alt='Uyuni Salt Flats'><figcaption>Uyuni Salt Flats Bum bum</figcaption></figure>
 
 After some time exploring the train graveyard and a short drive you'll find yourself standing on the the blinding white salt that makes up the Salar de Uyuni, a once expansive inland ocean of close to 11,000km2. The salt is still harvested today and the local government has placed restrictions over its' harvesting, allowing permits to locals only. The salt flats are best visited in the wet season, with a thin layer of water covering the salt, creating an almost perfect mirror effect. We were here during the dry season which kinda of took away a bit of the magic, but meant that we got to see the harvesting of the salt, either way its beautiful so don't fret! Once you finish up playing around on the salt, you have some morning tea at a now abandoned hotel made entirely of bricks of solid salt (apparently is was abandoned due to a high level of toxins found in the salt and was unsuitable for human occupation!)
 

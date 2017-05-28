@@ -9,7 +9,10 @@ layout: default
     <div class="col-8_sm-12">
       {% for image in page.images %}
 
-      <img src="{{image.image_path}}" alt="{{image.alt}}">
+      <figure>
+        <img src='{{image.image_path}}' alt='{{image.alt}}'>
+        <figcaption>{{image.alt}}</figcaption>
+      </figure>
 
       {% endfor %}
     </div>
