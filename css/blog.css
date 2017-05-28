@@ -24,8 +24,9 @@ section.post-intro,
 }
 
 hr {
-  margin : 1em 0 2em;
-  border : 2px solid rgb(120,120,125);
+  margin: 1em auto 3em;
+  border:1px solid rgb(60, 60, 60);
+  width: 50px;
 }
 
 .blog .date,
@@ -196,9 +197,9 @@ li {
     font-size: 0.9rem;
 }
 
-.post:first-of-type {
+/*.post:first-of-type {
   border-top:1px solid rgb(220,220,220);
-}
+}*/
 
 .intro {
   font-size: 1.3rem;
@@ -223,7 +224,7 @@ blockquote {
 
 .portfolio-item {
   max-width: 1100px;
-  margin: 5vh auto;
+  margin: 8vh auto;
   transition: all 0.5s;
 }
 
@@ -287,4 +288,49 @@ blockquote {
 
 .post-navigation img {
   margin: 10px 0 0;
+}
+
+.three-lines {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   line-height: 1.1rem;     /* fallback */
+   max-height: 3.3rem;      /* fallback */
+   -webkit-line-clamp: 3; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+
+h3.three-lines {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  font-size: 1.5rem;
+  line-height: 1.5rem;     /* fallback */
+  max-height: 4.5rem;      /* fallback */
+  -webkit-line-clamp: 3; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+/* Captions on Images */
+figure {
+  margin-bottom: -0.5rem;
+}
+
+figure img {
+  width: 100%;
+}
+
+figcaption {
+  position: relative;
+  top: -4.5rem;
+  font-size: 0.8rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 0.8rem;
+  opacity: 0;
+  transition: 1s;
+}
+
+figure:hover figcaption {
+  opacity: 1;
 }

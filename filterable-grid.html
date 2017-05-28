@@ -1,0 +1,26 @@
+<section class="portfolio" id="portfolio">
+  <div class="portfolio-div pgwdth">
+    <div class="portfolio-headings">
+      <h2>Featured Gallery</h2>
+      <h3>A selection of my favorite images from this months feature gallery</h3>
+    </div><!-- closes the porfolio-headings div hello -->
+    <!-- <div class="portfolio-buttons">
+      <ul id="filter">
+        <li class="current"><a class="button" href="">All</a></li>
+        <!--<li><a class="button" href="">Animals</a></li>
+        <li><a class="button" href="">Landscape</a></li>
+        <li><a class="button" href="">Portrait</a></li>
+      </ul>
+    </div> closes portfolio-buttons -->
+
+    <div class="portfolio-images pgwdth">
+      <ul id="portfolio">
+          {% for pic in site.photo %}
+            <li class="grid-item {% for item in pic.class %} {{item}} {% endfor %}">
+              <a href="{{pic.image_path}}" data-lightbox="image-1" data-title="{{pic.caption}}"><img src="{{pic.image_path}}" /></a>
+            </li>
+          {% endfor %}
+      </ul>
+    </div><!-- closes the portfolio-images div -->
+  </div><!-- closes portfolio-div -->
+</section><!-- closes the portfolio section -->
