@@ -1,82 +1,58 @@
 ---
 layout: project
 title: A Day At The Beach
-description: This was a pretty epic trip to the Salt Flats in Bolivia, where I explored blah blah
-number: 2
-image1_path: /images/bolivia-salt-flats/eon-bolivia-6054.jpg
-image2_path: /images/bolivia-salt-flats/eon-bolivia-6064.jpg
-image3_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
-image4_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
-image5_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
+description: Average surf led to a fun day at the beach on the Mornington Peninsular, Victoria, Australia.
+number: 1
+image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
+image2_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
+image3_path: /images/a-day-at-the-beach/eon-bolivia-0852.jpg
+image4_path: /images/a-day-at-the-beach/eon-bolivia-0695.jpg
+image5_path: /images/a-day-at-the-beach/eon-bolivia-0533.jpg
 categories:
   - travel
   - landscape
-location: Uyuni, Bolivia
+location: Mornington Peninsular, Australia
 images:
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6054.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6064.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6068.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6076.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6078.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6080.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6082.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6086.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6090.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6139.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6140.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6141.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6151.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6152.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6157.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6236.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6241.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6246.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5770.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5774.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5815.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5819.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5866.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5875.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5945.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5956.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5962.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5979.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-5993.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6025.jpg
-    alt: Uyuni Salt Flats in Bolivia
-  - image_path: /images/bolivia-salt-flats/eon-bolivia-6048.jpg
-    alt: Uyuni Salt Flats in Bolivia
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0351.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0358.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0409.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0423.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0492.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0533.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0559.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0593.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0624.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0685.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0695.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0749.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0851.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0852.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0859.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0865.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0875.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0915.jpg
+    alt: Somewhere near Rye Beach, Victoria
+  - image_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
+    alt: Somewhere near Rye Beach, Victoria
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+What started out on a quest to find some waves down on the Mornington Peninsular, turned into a fun day at one of its more hidden beaches. Ive dreamed of taking pictures here since my first visit many years ago. I love that it stays a little hidden from the throb of tourists that decend on the Mornington Peninsular every summer, as it hasnt changed a bit. The long grass, black pebble beach and towering amphitheater-like cliffs make it one of the most stunning places just outside of Melbourne.

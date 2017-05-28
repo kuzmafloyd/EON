@@ -2,7 +2,7 @@
 layout: project
 title: Uyuni Salt Flats in Bolivia
 description: This was a pretty epic trip to the Salt Flats in Bolivia, where I explored blah blah
-number: 1
+number: 2
 image1_path: /images/bolivia-salt-flats/eon-bolivia-6054.jpg
 image2_path: /images/bolivia-salt-flats/eon-bolivia-6064.jpg
 image3_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg

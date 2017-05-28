@@ -61,14 +61,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 {% include fig.html src='/images/bali-sam/eon-bolivia-1530.jpg' alt='TIBUMANA WATERFALL | Sam looking like a photography boss with the tripod' %}
 
-{% include fig.html src='/images/bali-sam/eon-bolivia-.jpg' alt='TIBUMANA WATERFALL | Paradise found… the perfect waterfall' %}
+{% include fig.html src='/images/bali-sam/eon-bolivia--11.jpg' alt='TIBUMANA WATERFALL | Paradise found… the perfect waterfall' %}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![joshua tree national park](/images/bali-sam/eon-bolivia-1173.jpg)
-![joshua tree national park](/images/bali-sam/eon-bolivia-1190.jpg)
-![joshua tree national park](/images/bali-sam/eon-bolivia-1227.jpg)
-![joshua tree national park](/images/bali-sam/eon-bali-3025.jpg)
-![joshua tree national park](/images/bali-sam/eon-bolivia-4368.jpg)
+{% include fig.html src='/images/bali-sam/eon-bolivia-1173.jpg' alt='MUNDUK WATERFALL | Jane of the jungle' %}
+
+{% include fig.html src='/images/bali-sam/eon-bolivia-1190.jpg' alt='MUNDUK WATERFALL | When you find a vine in the jungle its hard not to try and swing on it!' %}
+
+{% include fig.html src='/images/bali-sam/eon-bolivia-1227.jpg' alt='MUNDUK WATERFALL | Getting this shot of the waterfall wasnt easy, the power of the water hitting the shallow rocks created its own wind/rain storm.' %}
+
+{% include fig.html src='/images/bali-sam/eon-bali-3025.jpg' alt='MOUNT AGUNG VOLVANO | “Hey sam, you should defiantly walk along that rickety fence”' %}
+
+{% include fig.html src='/images/bali-sam/eon-bolivia-4368.jpg' alt='TUKAD CEPUNG WATERFALL | Defiantly not a trek in, for the faint hearted, but the canyon and waterfall wont disappoint!' %}
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
