@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-05-01 11:00:00
+date: 2017-05-01 11:00:00
 title: Searching for temples and waterfalls in beautiful Bali
 description: "Dont go chasing waterfalls.. or do. This is a photo essay of our journey through northern Bali, with description to come!"
 image_path: /images/bali-sam/eon-bolivia-1423.jpg

@@ -29,7 +29,7 @@ contact: true
 <section class="blog" id="blog">
   <h2 class="center"> Latest Blog Posts </h2>
   <hr>
-    {% for post in site.posts %}
+    {% for post in site.posts  limit:3 %}
     <article> <!-- Blog Excert -->
         <a class="grid blog-snippet" href="{{ post.url }}">
           <div class="col-2_sm-0_xs-0 right horiz-padded">
@@ -66,7 +66,7 @@ contact: true
   <hr>
   <div class="portfolio-images left">
   <div id="new-portfolio">
-      {% for project in site.projects | limit:2 %}
+      {% for project in site.projects limit:2 %}
         <div class="portfolio-item {% for item in project.category %} {{item}} {% endfor %}">
           <a href="{{project.url}}" class="grid">
                 <div class="col-3 horiz-padded ">
