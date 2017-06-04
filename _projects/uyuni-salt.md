@@ -3,11 +3,11 @@ layout: project
 title: Uyuni Salt Flats in Bolivia
 description: This was a pretty epic trip to the Salt Flats in Bolivia. The photos look like they have been heavily photoshoped but I promise you this place is just that CRAZY!
 number: 2
-image1_path: /images/bolivia-salt-flats/eon-bolivia-6054.jpg
-image2_path: /images/bolivia-salt-flats/eon-bolivia-6064.jpg
-image3_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
-image4_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
-image5_path: /images/bolivia-salt-flats/eon-bolivia-6067.jpg
+image1_path: /images/bolivia-salt-flats/eon-bolivia-5993.jpg
+image2_path: /images/bolivia-salt-flats/eon-bolivia-6025.jpg
+image3_path: /images/bolivia-salt-flats/eon-bolivia-6048.jpg
+image4_path: /images/bolivia-salt-flats/eon-bolivia-6064.jpg
+image5_path: /images/bolivia-salt-flats/eon-bolivia-6068.jpg
 categories:
   - travel
   - landscape
