@@ -49,7 +49,7 @@ After some time exploring the train graveyard and a short drive you'll find your
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5866.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5875.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5945.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-5956.jpg)
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6025.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6040.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6048.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6054.jpg)
@@ -67,7 +67,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6067.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6068.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6078.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6080.jpg)
@@ -80,16 +79,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6152.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6157.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6187.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6193.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6194.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6236.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6241.jpg)
 ![Uyuni Salt Flats Bolivia](/images/bolivia-salt-flats/eon-bolivia-6246.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

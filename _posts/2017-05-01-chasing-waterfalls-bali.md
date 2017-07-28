@@ -39,7 +39,7 @@ Sitting right on the shores of the lake, the temple itself was beautiful in the 
 
 {% include fig.html src='/images/bali-sam/eon-bolivia-222.jpg' alt='TAMBLINGAN LAKE TEMPLE | The small floating platform made of trees and planks had Sam jumping for joy.' %}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 {% include fig.html src='/images/bali-sam/eon-bali-3146.jpg' alt='BESAKIH TEMPLE | The first steps of many to the top of Bali’s greatest temple. ' %}
 
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 {% include fig.html src='/images/bali-sam/eon-bali-3779.jpg' alt='BESAKIH TEMPLE | The final steps to the high temple. ' %}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 {% include fig.html src='/images/bali-sam/eon-bali-1386.jpg' alt='LEMPUYANG TEMPLE | It pays to pay a guide so you dont walk up 100 stairs to find a locked gate!' %}
 
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 {% include fig.html src='/images/bali-sam/eon-bolivia-1423.jpg' alt='LEMPUYANG TEMPLE | Looking out onto the clouds through the outside Mandala Gate ' %}
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 {% include fig.html src='/images/bali-sam/eon-bolivia-1522.jpg' alt='TIBUMANA WATERFALL | On the hunt for the hidden waterfall' %}
 
@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 {% include fig.html src='/images/bali-sam/eon-bolivia--11.jpg' alt='TIBUMANA WATERFALL | Paradise found… the perfect waterfall' %}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 {% include fig.html src='/images/bali-sam/eon-bolivia-1173.jpg' alt='MUNDUK WATERFALL | Jane of the jungle' %}
 
@@ -81,6 +81,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 {% include fig.html src='/images/bali-sam/eon-bali-3025.jpg' alt='MOUNT AGUNG VOLVANO | “Hey sam, you should defiantly walk along that rickety fence”' %}
 
 {% include fig.html src='/images/bali-sam/eon-bolivia-4368.jpg' alt='TUKAD CEPUNG WATERFALL | Defiantly not a trek in, for the faint hearted, but the canyon and waterfall wont disappoint!' %}
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
