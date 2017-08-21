@@ -85,6 +85,10 @@ p a {
   border-bottom: 1px solid rgb(60,60,60);
 }
 
+.border-top {
+  border-bottom: 1px solid rgb(240,240,240);
+}
+
 /* ----- Masonry ----- */
 
 .grid-item {
