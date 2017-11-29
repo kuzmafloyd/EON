@@ -4,7 +4,7 @@ title: A Day At The Beach
 description: >-
   Average surf led to a fun day at the beach on the Mornington Peninsular,
   Victoria, Australia.
-number: 3
+number: 1
 image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
 image2_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
 image3_path: /images/a-day-at-the-beach/eon-bolivia-0852.jpg
