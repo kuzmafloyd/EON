@@ -108,6 +108,11 @@ section.post {
   margin: 1.5em 0 0.8em;
 }
 
+.post ul {
+    list-style: inside;
+    font-size: 0.9rem;
+}
+
 
 /* -- Author Bio --*/
 .location-bio {
