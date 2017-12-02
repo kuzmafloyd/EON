@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-05-01 11:00:00
+date: 2017-12-02 11:00:00
 title: >-
   How to help the families fleeing their homes because of the Mount Agung
   eruption in Bali
@@ -71,7 +71,7 @@ We asked Anthony about this possibility and he said that while it wasn't somethi
 
 ![](/uploads/versions/eonblog-48312---x----1440-960x---.jpg)
 
-### 4.&nbsp; Donate money or help the fundraising campaigns
+### 4.  Donate money or help the fundraising campaigns
 
 &lt;&lt; Anything that you can do to help raise awareness of the critical work these groups are doing and help them raise funds to help sustain the efforts of these groups &gt;&gt;&gt;. The situation on the ground changes instantly, and money gives them the flexibility to buy what they need when they need it.
 
@@ -100,7 +100,7 @@ We also put a call-out to the Facebook group Canggu Community and they recommend
 
 I've been living in Bali (mostly Canggu) on and off for the last 2 years, running study abroad trips from Australia with my startup, The Institute of Code. I also have a deep love for photography and have spent the last year and half working hard at this passion. This passion for photography led me to capture one of the “viral” photos and time-lapses of the eruption which as been seen by millions of people around the world.
 
-Over my time here I have made many Balinese friends and have fallen in love with their culture and generosity. Over the years I have done little bits and pieces to help my friends and their communities, but I admit that it hasn’t been as much as I could have been doing. So when I was unexpectedly thrown into the media spotlight I wanted to try and leverage that to help support the relief efforts.&nbsp;
+Over my time here I have made many Balinese friends and have fallen in love with their culture and generosity. Over the years I have done little bits and pieces to help my friends and their communities, but I admit that it hasn’t been as much as I could have been doing. So when I was unexpectedly thrown into the media spotlight I wanted to try and leverage that to help support the relief efforts.
 
 ![](/uploads/versions/eonblog-48397---x----1440-960x---.jpg)
 
@@ -108,32 +108,32 @@ Over my time here I have made many Balinese friends and have fallen in love with
 
 After my photo started taking off on social media, I had a few NGOs reach out and ask if they could use the photo to help promote their efforts. We started chatting and soon we were on the phone to a number of people on the ground to ask how we could help, and their urgent need was supplies of food.
 
-Michelle from Team Action for Amed filled us in on the situation and their urgent need for help as they were expecting close to 6,000 refugees to come down off the mountain that night after the Indonesian government had issued a higher level warning. So we jumped in the car and set up a somewhat mobile office in the back, with my partner Tina on one phone and laptop and me on the other working as fast as we could to coordinate where to buy supplies, what to bring and the best/safest route to get to Amed. We set up a [fundraising campaign page](www.youcaring.com/mountagungbali)&nbsp; but it would take time for donations to flow in so we dipped into our own account and filled the car with medical supplies, food and basic life necessities, like soap, bug spray and bleach (for toilets). We made it to Amed at nightfall and made contact with one of the team members Anthony, and dropped off our supplies at the food bank they had started there.&nbsp;
+Michelle from Team Action for Amed filled us in on the situation and their urgent need for help as they were expecting close to 6,000 refugees to come down off the mountain that night after the Indonesian government had issued a higher level warning. So we jumped in the car and set up a somewhat mobile office in the back, with my partner Tina on one phone and laptop and me on the other working as fast as we could to coordinate where to buy supplies, what to bring and the best/safest route to get to Amed. We set up a [fundraising campaign page](www.youcaring.com/mountagungbali)  but it would take time for donations to flow in so we dipped into our own account and filled the car with medical supplies, food and basic life necessities, like soap, bug spray and bleach (for toilets). We made it to Amed at nightfall and made contact with one of the team members Anthony, and dropped off our supplies at the food bank they had started there.
 
-Being so close to everything suddenly made it all real. We were hearing that up to 6000 people were on their way, listened to the sound of a storm rolling in and staring at a store room that had enough food for maybe 2 days with that many people.&nbsp;
+Being so close to everything suddenly made it all real. We were hearing that up to 6000 people were on their way, listened to the sound of a storm rolling in and staring at a store room that had enough food for maybe 2 days with that many people.
 
 ### Whats actually happening and how you can help.
 
-After the eruption of Mount Agung an exclusion zone has been set, varying at times, between 6km and 12km from the center of the volcano, and hundreds of thousands of families have been told to leave their homes. They have been evacuated to nearby areas and offered temporary residence in evacuation camps.&nbsp;<br><br>There are a few different types of camps. There are ones run by locals that have some space in their house; then there are ‘private’ camps run by NGOs or Non-Profits that organise make-shift camps in whatever spaces they can find, from community halls to empty plots of land; and finally there are government camps where large areas of land, usually sports grounds, are set up with big military style tents.
+After the eruption of Mount Agung an exclusion zone has been set, varying at times, between 6km and 12km from the center of the volcano, and hundreds of thousands of families have been told to leave their homes. They have been evacuated to nearby areas and offered temporary residence in evacuation camps. <br><br>There are a few different types of camps. There are ones run by locals that have some space in their house; then there are ‘private’ camps run by NGOs or Non-Profits that organise make-shift camps in whatever spaces they can find, from community halls to empty plots of land; and finally there are government camps where large areas of land, usually sports grounds, are set up with big military style tents.
 
-While various community groups, government and NGOs are all trying hard to look after the families in the camps from the reports we have heard the situation is often far from ideal -- some camps have a lack of plumbing or draining, inadequate sanitation, are over-crowded and don't have enough basic supplies (food, water, gas masks, etc) for everyone.&nbsp;<br><br>Many are also struggling with the spread of illness that happens when you combine big groups in small spaces with poor sanitation.&nbsp;&nbsp;
+While various community groups, government and NGOs are all trying hard to look after the families in the camps from the reports we have heard the situation is often far from ideal – some camps have a lack of plumbing or draining, inadequate sanitation, are over-crowded and don't have enough basic supplies (food, water, gas masks, etc) for everyone. <br><br>Many are also struggling with the spread of illness that happens when you combine big groups in small spaces with poor sanitation.
 
 ![](/uploads/versions/eonblog-48224---x----1440-960x---.jpg)
 
 ### What are the camps and how many people are in there?
 
-The size of the camps varies, both from area to area and based on the current status of the volcano and time of day -- the camps that I visited were home to about 100-200 people on average (and some of the camps are holding thousands) and are located in community halls, covered sports areas and some other government buildings. The first night that we were there, they hadn't had time to assemble more tents for the influx of people, so many would be sleeping open air in the rain.&nbsp;<br><br>It's hard to get an accurate gauge on how many people are there, because for the locals affected, their crops and livestock are their entire livelihood. Despite the danger, the men and boys (and some women too) will often will leave the camp during the day to tend to their land and return at night to sleep. This has made it incredibly hard for the relief effort as they are struggling to know which camps need their attention most, and it's heartbreaking knowing that the people you are trying to help are putting their lives in danger to protect their homes.&nbsp;
+The size of the camps varies, both from area to area and based on the current status of the volcano and time of day – the camps that I visited were home to about 100-200 people on average (and some of the camps are holding thousands) and are located in community halls, covered sports areas and some other government buildings. The first night that we were there, they hadn't had time to assemble more tents for the influx of people, so many would be sleeping open air in the rain. <br><br>It's hard to get an accurate gauge on how many people are there, because for the locals affected, their crops and livestock are their entire livelihood. Despite the danger, the men and boys (and some women too) will often will leave the camp during the day to tend to their land and return at night to sleep. This has made it incredibly hard for the relief effort as they are struggling to know which camps need their attention most, and it's heartbreaking knowing that the people you are trying to help are putting their lives in danger to protect their homes.
 
 ### What do the NGOs/Non-profits do?
 
-We worked with two non-profits while we were in the Amed area. One was dedicated to providing basic necessities, like food, clean water and medical supplies and the other was dedicated solely to medical care. In Amed, the local businesses and community set up a food bank in a donated building, had a truck donated which is being run by[ **Team Action for Amed**](https://web.facebook.com/teamactionforamed/). They have also been tasked with the data collection and analysis to better understand where to direct efforts and where everyone is. The second, run by **Rumah Sehat Humanitarian Project**&nbsp;aided by&nbsp;**[Amed Bali First Aid P3K](https://web.facebook.com/AmedBaliFirstAidP3K/),**&nbsp;has a team of nurses and a rotating doctor that does medical check ups and provides medicine and masks. The two work hand in hand to maximise their efforts. Most of the time, it's a case of visiting the camps, checking in on everyone, talking to them, delivering information on the situation and collecting data, such as how many people, how much food is left and what the conditions are like. Once they have analysed the data, they organise food drops and medical care.
+We worked with two non-profits while we were in the Amed area. One was dedicated to providing basic necessities, like food, clean water and medical supplies and the other was dedicated solely to medical care. In Amed, the local businesses and community set up a food bank in a donated building, had a truck donated which is being run by[ **Team Action for Amed**](https://web.facebook.com/teamactionforamed/). They have also been tasked with the data collection and analysis to better understand where to direct efforts and where everyone is. The second, run by **Rumah Sehat Humanitarian Project** aided by **[Amed Bali First Aid P3K](https://web.facebook.com/AmedBaliFirstAidP3K/),** has a team of nurses and a rotating doctor that does medical check ups and provides medicine and masks. The two work hand in hand to maximise their efforts. Most of the time, it's a case of visiting the camps, checking in on everyone, talking to them, delivering information on the situation and collecting data, such as how many people, how much food is left and what the conditions are like. Once they have analysed the data, they organise food drops and medical care.
 
 ![](/uploads/versions/eonblog-48010---x----1440-960x---.jpg)
 
-Finally I want give my sincere gratitude to the hard working volunteers who have been involved since the first eruption or before. Its amazing to see the community galvanised together and see so many people come together to offer their time and/or money to the relief efforts. But the real heros are the ones working hard in the background, most of whom you'll never know.&nbsp;
+Finally I want give my sincere gratitude to the hard working volunteers who have been involved since the first eruption or before. Its amazing to see the community galvanised together and see so many people come together to offer their time and/or money to the relief efforts. But the real heros are the ones working hard in the background, most of whom you'll never know.
 
-Cheers,&nbsp;
+Cheers,
 
-Emilio&nbsp;
+Emilio
 
 *\* This information was collected from a variety of sources, but if anyone reading this who is working in the field has additional information to add or perspectives that haven't been added here, please get in touch*
