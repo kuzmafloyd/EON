@@ -10,7 +10,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  overflow-y:hidden;
+  overflow-x:hidden;
 }
 
 .pgwdth {
