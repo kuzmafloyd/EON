@@ -121,3 +121,11 @@ So the camps that I visited were home to about 100-200 people on average and are
 We worked with two non-profits while we were in the Amed area. One was dedicated to providing basic necessities, like food, clean water and medical supplies and the other was dedicated solely to medical care. In Amed, the local business and community set up a food bank in a donated building, had a truck donated which is being run by[ **Team Action for Amed**](https://web.facebook.com/teamactionforamed/). They have also been tasked with the data collection and analysis to better understand where to direct efforts and where everyone is. The second, run by **Rumah Sehat Humanitarian Project**&nbsp;aided by&nbsp;**[Amed Bali First Aid P3K](https://web.facebook.com/AmedBaliFirstAidP3K/),**&nbsp;has a team of nurses and a rotating doctor that does medical check ups and provides medicine and masks. The two work hand in hand to maximise their efforts. Most of the time, it's a case of visiting the camps, checking in on everyone, talking to them, delivering information on the situation and collecting data, such as how many people, how much food is left and what the conditions are like. Once they have analysed the data, they organise food drops and medical care.
 
 ![](/uploads/versions/eonblog-48010---x----1440-960x---.jpg)
+
+Finally I want give my sincere gratitude to the hard working volunteers who have been involved since the first eruption or before. Its amazing to see the community galvanised together and see so many people come together to offer their time and/or money to the relief efforts. But the real heros are the ones working hard in the background, most of whom you'll never know.&nbsp;
+
+*Cheers,&nbsp;*
+
+Emilio&nbsp;
+
+"...this information was collected from a variety of sources, but if anyone reading this who is working in the field has additional information to add or perspectives that haven't been added here, please get in touch"
