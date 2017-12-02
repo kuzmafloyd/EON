@@ -112,6 +112,7 @@ section.post {
 .post li {
     list-style: inside;
     font-size: 0.9rem;
+    margin-left: 0.5rem;
 }
 
 
