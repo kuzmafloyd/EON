@@ -78,12 +78,12 @@ We’ve currently got a fundraising campaign running that is supporting two orga
 
 Alternatively you can support the groups directly – just be patient, they are so busy on the ground that answering emails can be a bit of a struggle.
 
-* [**Bali Street Kids Project**](www.ykpa.org) protects vulnerable children in Indonesia with shelter, healthcare, and more. Since Mt Agung became active in September 2017, BSPK has taken in refugees providing support with food, housing, and other necessities.
+* [**Bali Street Kids Project**](http://www.ykpa.org) protects vulnerable children in Indonesia with shelter, healthcare, and more. Since Mt Agung became active in September 2017, BSPK has taken in refugees providing support with food, housing, and other necessities.
 * [**Team Action for Amed**](https://web.facebook.com/teamactionforamed/) & [**Amed Bali First Aid P3K**](https://web.facebook.com/AmedBaliFirstAidP3K/)
 
 We also put a call-out to the Facebook group Canggu Community and they recommended the following organisations. I can’t personally recommend them but they would be a good place to start if you want to do your own research:
 
-* [Solomen Indonesia](www.solemen.org)
+* [Solomen Indonesia](http://www.solemen.org)
 * [East Bali Poverty Project](http://www.eastbalipovertyproject.org/)
 * [Indonesia Aid](https://www.facebook.com/INDOAID/)
 * [Agung Siaga Community Hub](https://www.facebook.com/agungsiaga.ubud/?fref=gc&amp;dti=455504027879878&amp;hc_location=ufi)
@@ -105,7 +105,7 @@ Over my time here I have made many Balinese friends and have fallen in love with
 
 After my photo started taking off on social media, I had a few NGOs reach out and ask if they could use the photo to help promote their efforts. We started chatting and soon we were on the phone to a number of people on the ground to ask how we could help, and their urgent need was supplies of food.
 
-Michelle from Team Action for Amed filled us in on the situation and their urgent need for help as they were expecting close to 6,000 refugees to come down off the mountain that night after the Indonesian government had issued a higher level warning. So we jumped in the car and set up a somewhat mobile office in the back, with my partner Tina on one phone and laptop and me on the other working as fast as we could to coordinate where to buy supplies, what to bring and the best/safest route to get to Amed. We set up a [fundraising campaign page](www.youcaring.com/mountagungbali)&nbsp; but it would take time for donations to flow in so we dipped into our own account and filled the car with medical supplies, food and basic life necessities, like soap, bug spray and bleach (for toilets). We made it to Amed at nightfall and made contact with one of the team members Anthony, and dropped off our supplies at the food bank they had started there.
+Michelle from Team Action for Amed filled us in on the situation and their urgent need for help as they were expecting close to 6,000 refugees to come down off the mountain that night after the Indonesian government had issued a higher level warning. So we jumped in the car and set up a somewhat mobile office in the back, with my partner Tina on one phone and laptop and me on the other working as fast as we could to coordinate where to buy supplies, what to bring and the best/safest route to get to Amed. We set up a [fundraising campaign page](http://www.youcaring.com/mountagungbali)&nbsp; but it would take time for donations to flow in so we dipped into our own account and filled the car with medical supplies, food and basic life necessities, like soap, bug spray and bleach (for toilets). We made it to Amed at nightfall and made contact with one of the team members Anthony, and dropped off our supplies at the food bank they had started there.
 
 Being so close to everything suddenly made it all real. We were hearing that up to 6000 people were on their way, listened to the sound of a storm rolling in and staring at a store room that had enough food for maybe 2 days with that many people.
 
