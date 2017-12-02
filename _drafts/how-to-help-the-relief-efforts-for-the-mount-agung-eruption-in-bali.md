@@ -5,8 +5,8 @@ title: >-
   How to help the families fleeing their homes because of the Mount Agung
   eruption in Bali
 description: >-
-  Dont go chasing waterfalls.. or do. This is a photo essay of our journey
-  through Northern Bali.
+  A how-to guide for helping the people displaced by Mount Agung, compiled
+  through interviews with non-profits on the ground.
 image_path: /images/agung/eonblog-48354.jpg
 map_path: /images/maps/bali-indonesia.png
 map_url: 'https://goo.gl/maps/EUhYd7eA46B2'
