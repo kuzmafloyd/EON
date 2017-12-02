@@ -25,7 +25,7 @@ banner-image-blurb: >-
 
 ## Part 1 - How to Help
 
-*Note: I am baby no means an expert, but after visiting some of the camps to drop off a car load of supplies and speaking to the volunteers on the ground of the organisations we have been donating to I interviewed each of them and offered to put together a post.&nbsp;*
+*Note: I am by no means an expert, but after visiting some of the camps and speaking to the volunteers on the ground of the organisations supporting the relief effort, I interviewed each of them and offered to put together a post.&nbsp;*
 
 ### 1. If you want to donate or directly deliver supplies &nbsp;
 
@@ -38,7 +38,7 @@ Many people are gathering&nbsp; or purchasing donations of goods to directly del
 
 ## 2. If you want to volunteer your time.&nbsp;
 
-For various reasons, many people would prefer to volunteer their time. When we asked Anthony, one of the coordinators for &lt;&lt;‘Amed First Aid …’&gt;&gt; whether they needed more volunteers the answer was a very qualified yes. They are absolutely stretched thin, and do need volunteers but they need the right volunteers.&nbsp;
+For various reasons, many people would prefer to volunteer their time. When we asked Anthony, one of the coordinators for **Amed Bali First Aid P3K**&nbsp;whether they needed more volunteers the answer was a very qualified yes. They are absolutely stretched thin, and do need volunteers but they need the right volunteers.&nbsp;
 
 Back when Mount Agung first reared its head in September, chaos followed. The NGOs/Non-Profits were inundated with people wanting to volunteer, however many of them weren’t really prepared for the realities of a volunteer role.&nbsp;
 
@@ -71,18 +71,22 @@ If you are worried about operational overheads, or the money being misused do a 
 
 We’ve currently got a fundraising campaign running that is supporting two organisations helping in the relief effort, which you can [donate to here](http://www.youcaring.com/MountAgungBali). I'll be personally making sure that every dollar donated here will reach these groups, and happy to share very receipt with full transparency.&nbsp;
 
-Alternatively you can support the groups directly -- just be patient, they are so busy on the ground that answering emails can be a bit of a struggle.&nbsp;
+Alternatively you can support the groups directly – just be patient, they are so busy on the ground that answering emails can be a bit of a struggle.&nbsp;
 
-* Bali Street Kids Project &lt;&lt;&lt; ..... &gt;&gt;&gt;&gt;
-* Action for Amed & Amed First Aid &lt;&lt;&lt;&lt;... &gt;&gt;&gt;&gt;
+* Bali Street Kids Project protects vulnerable children in Indonesia with shelter, healthcare, and more. Since &nbsp;Mt Agung became active in September 2017, BSPK has taken in refugees providing support with food, housing, and other necessities.
+* Action for Amed & Amed Bali First Aid P3K&nbsp;
 
 We also put a call-out to the Facebook group Canggu Community and they recommended the following organisations. I can’t personally recommend them but they would be a good place to start if you want to do your own research:&nbsp;
 
-&nbsp;- (COPY FROM CANGGU COMMUNITY)
+* [Solomen Indonesia](www.solemen.org)&nbsp;
+* [East Bali Poverty Project](http://www.eastbalipovertyproject.org/)
+* [Indonesia Aid](https://www.facebook.com/INDOAID/)
+* [Agung Siaga Community Hub](https://www.facebook.com/agungsiaga.ubud/?fref=gc&amp;dti=455504027879878&amp;hc_location=ufi)
+* [Kopernik](https://www.facebook.com/thekopernik/?hc_ref=ARTxo0UigwZOzbP-MDE7ZIFRXkC9TdWfR_iKdnfhB5feOxmlgQXniZWoU-IDb1_5S-s&amp;fref=nf&amp;hc_location=ufi)
 
-## Part 2 - A little bit of background&nbsp;
+Part 2 - A little bit of background&nbsp;
 
-After some of my photos of Mount Agung went viral I have been so overwhelmed by all of the offers to help, and questions about how people can best help with the relief efforts. It has truly made my heart full, knowing that so many strangers out there are willing to donate time, money and skills to those in need.<br><br>Im writing this article to try and clarify some of the questions around this issue. Until yesterday I didn’t have a clear understanding of the situation, but after visiting some refugee camps in the area surrounding Amed (coastal town situated 14km from the volcano in the far west of Bali) and speaking to some of the NGOs and Non-Profits working hard in the area, I thought it might be helpful to combine it all into one post.&nbsp;
+After some of my photos of Mount Agung went viral I have been so overwhelmed by all of the offers to help, and questions about how people can best help with the relief efforts. It has truly made my heart full, knowing that so many strangers out there are willing to donate time, money and skills to those in need.<br><br>I'm writing this article to try and clarify some of the questions around this issue. Until yesterday I didn’t have a clear understanding of the situation, but after visiting some refugee camps in the area surrounding Amed (coastal town situated 14km from the volcano in the far west of Bali) and speaking to some of the NGOs and Non-Profits working hard in the area, I thought it might be helpful to combine it all into one post.&nbsp;
 
 I want to first acknowledge that I am by no means an expert, and that in writing this article I relied on both first hand experience this week and the conversations with volunteers working diligently in local non-profits and NGOs. When we were there in person I asked them what they wished that more people understood about the situation and how to help, and this article is based on those thoughts.
 
