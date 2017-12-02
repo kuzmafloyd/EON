@@ -10,22 +10,21 @@ map_path: /images/maps/bali-indonesia.png
 map_url: 'https://goo.gl/maps/EUhYd7eA46B2'
 location: 'Bali, Indonesia'
 first-content: >-
-  <p> Note: I am by no means an expert, but after visiting some of the camps and
-  speaking to the volunteers on the ground of the organisations supporting the
-  relief effort, I interviewed each of them and offered to put together a post. 
-  After some of my photos of Mount Agung went viral I have been so overwhelmed
-  by all of the offers to help, and questions about how people can best help
-  with the relief efforts. It has truly made my heart full, knowing that so many
-  strangers out there are willing to donate time, money and skills to those in
-  need. </p>
+  <h2>Part 1 - How to help the families fleeing their homes because of the Mount
+  Agung eruption </h2><p> Note: I am by no means an expert, but after visiting
+  some of the camps and speaking to the volunteers on the ground of the
+  organisations supporting the relief effort, I interviewed each of them and
+  offered to put together a post.  After some of my photos of Mount Agung went
+  viral I have been so overwhelmed by all of the offers to help, and questions
+  about how people can best help with the relief efforts. It has truly made my
+  heart full, knowing that so many strangers out there are willing to donate
+  time, money and skills to those in need. </p>
 banner-image_path: /images/agung/eonbanner-15.jpg
 banner-image-blurb: Mount Agung Volcano Erupting at sunrise...
 ---
 
 
-## Part 1 - How to help the families fleeing their homes because of the Mount Agung eruption
-
-<br>I'm writing this article to try and clarify some of the questions around this issue. Until yesterday I didn’t have a clear understanding of the situation, but after visiting some refugee camps in the area surrounding Amed (coastal town situated 14km from the volcano in the far east of Bali) and speaking to some of the NGOs and Non-Profits working hard in the area, I thought it might be helpful to combine it all into one post.
+I'm writing this article to try and clarify some of the questions around this issue. Until yesterday I didn’t have a clear understanding of the situation, but after visiting some refugee camps in the area surrounding Amed (coastal town situated 14km from the volcano in the far east of Bali) and speaking to some of the NGOs and Non-Profits working hard in the area, I thought it might be helpful to combine it all into one post.
 
 ### 1. If you want to donate or directly deliver supplies
 
