@@ -1,9 +1,7 @@
 ---
 layout: post
 date: 2017-12-02 11:00:00
-title: >-
-  How to help the families fleeing their homes because of the Mount Agung
-  eruption in Bali
+title: Bali Volcano Relief Efforts - How to help
 description: >-
   A how-to guide for helping the people displaced by Mount Agung, compiled
   through interviews with non-profits on the ground.
@@ -25,7 +23,7 @@ banner-image-blurb: Mount Agung Volcano Erupting at sunrise...
 ---
 
 
-## Part 1 - How to Help
+## Part 1 - How to help the families fleeing their homes because of the Mount Agung eruption
 
 <br>I'm writing this article to try and clarify some of the questions around this issue. Until yesterday I didn’t have a clear understanding of the situation, but after visiting some refugee camps in the area surrounding Amed (coastal town situated 14km from the volcano in the far east of Bali) and speaking to some of the NGOs and Non-Profits working hard in the area, I thought it might be helpful to combine it all into one post.
 
@@ -123,6 +121,8 @@ While various community groups, government and NGOs are all trying hard to look 
 ### What are the camps and how many people are in there?
 
 The size of the camps varies, both from area to area and based on the current status of the volcano and time of day – the camps that I visited were home to about 100-200 people on average (and some of the camps are holding thousands) and are located in community halls, covered sports areas and some other government buildings. The first night that we were there, they hadn't had time to assemble more tents for the influx of people, so many would be sleeping open air in the rain.&nbsp;<br><br>It's hard to get an accurate gauge on how many people there are, because for the locals affected, their crops and livestock are their entire livelihood. Despite the danger, the men and boys (and some women too) will often will leave the camp during the day to tend to their land and return at night to sleep. This has made it incredibly hard for the relief effort as they are struggling to know which camps need their attention most, and it's heartbreaking knowing that the people you are trying to help are putting their lives in danger to protect their homes.
+
+![](/uploads/versions/eonblog-48354---x----1440-960x---.jpg)
 
 ### What do the NGOs/Non-profits do?
 
