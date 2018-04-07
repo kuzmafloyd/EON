@@ -26,41 +26,6 @@ contact: true
   <a class="down-arrow" href="#blog"> <img src="/images/icons/008-arrows-1.svg" alt="down-arrow"></a>
 </section><!-- closes the main section -->
 
-<section class="blog" id="blog">
-  <h2 class="center"> Latest Blog Posts </h2>
-  <hr>
-    {% for post in site.posts  limit:3 %}
-    <article> <!-- Blog Excert -->
-        <a class="grid blog-snippet" href="{{ post.url }}">
-          <div class="col-2_sm-0_xs-0 right horiz-padded">
-              <span class="info date"> {{post.date | date: "%-d %B" }} </span>
-          </div>
-          <div class="col-5_sm-6_xs-12" style="background-position:center;background-image:url('{{post.image_path}}')">
-                  <!-- <svg class="arrow-right right" x="0px" y="0px"
-  	 viewBox="0 0 100 600" enable-background="new 0 0 100 600">
-          <polygon class="white" points="100,600 100,0 0,0 78,300 0,600"/>
-  </svg> -->
-          </div>
-          <div class="col-5_sm-6_xs-12 horiz-padded">
-              <h3 class="three-lines"> {{ post.title }}</h3>
-              <h4 class="small-heading"> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{post.location}} </h4>
-              <p class="three-lines"> {{post.description}} </p>
-          </div>
-        </a>
-    </article>
-    {% endfor %}
-</section>
-
-<section class="about editable" id="about">
-  <div class="about-div pgwdth">
-    <h2>THE STORY OF A SIMPLE NOMAD</h2>
-    <hr>
-    <h3>A entrepreneur, a traveller, a photographer - with a love for adventure in this big wide world</h3>
-    <P/>Photography has always been a passion in my life, starting when I was a toddler, grabbing my father’s camera, emptying his entire roll of film aimlessly in a few short minutes and loving every minute of it. However, it wasn’t until I began to travel the world that my love for capturing a fraction of a second, something breathtakingly beautiful or a little crazy became an obsession. Since then, I have been working towards taking a passion and forming it into more of a career. As I move towards my goal, I'm hoping to document the transition through my blog, looking at the highs and lows that come with such a dramatic career shift and just the adventure that is life. If you find my work captivating, emotive and fun and would like to work with me, come on an adventure or just have a beer, then drop me a line <a href="work-with-me"> here </a>. <P/>
-    <a class="button" href="/about.html">Read More</a>
-  </div><!-- closes about-div -->
-</section><!-- closes the about section -->
-
 <section>
   <h2 class="center"> Featured Projects </h2>
   <hr>
@@ -95,4 +60,41 @@ contact: true
       {% endfor %}
   </div>
 </div> <!-- closes the portfolio-images div -->
+</section>
+
+<section class="about editable" id="about">
+  <div class="about-div pgwdth">
+    <h2>THE STORY OF A SIMPLE NOMAD</h2>
+    <hr>
+    <h3>A entrepreneur, a traveller, a photographer - with a love for adventure in this big wide world</h3>
+    <P/>Photography has always been a passion in my life, starting when I was a toddler, grabbing my father’s camera, emptying his entire roll of film aimlessly in a few short minutes and loving every minute of it. However, it wasn’t until I began to travel the world that my love for capturing a fraction of a second, something breathtakingly beautiful or a little crazy became an obsession. Since then, I have been working towards taking a passion and forming it into more of a career. As I move towards my goal, I'm hoping to document the transition through my blog, looking at the highs and lows that come with such a dramatic career shift and just the adventure that is life. If you find my work captivating, emotive and fun and would like to work with me, come on an adventure or just have a beer, then drop me a line <a href="work-with-me"> here </a>. <P/>
+    <a class="button" href="/about.html">Read More</a>
+  </div><!-- closes about-div -->
+</section><!-- closes the about section -->
+
+
+
+<section class="blog" id="blog">
+  <h2 class="center"> Latest Blog Posts </h2>
+  <hr>
+    {% for post in site.posts  limit:3 %}
+    <article> <!-- Blog Excert -->
+        <a class="grid blog-snippet" href="{{ post.url }}">
+          <div class="col-2_sm-0_xs-0 right horiz-padded">
+              <span class="info date"> {{post.date | date: "%-d %B" }} </span>
+          </div>
+          <div class="col-5_sm-6_xs-12" style="background-position:center;background-image:url('{{post.image_path}}')">
+                  <!-- <svg class="arrow-right right" x="0px" y="0px"
+  	 viewBox="0 0 100 600" enable-background="new 0 0 100 600">
+          <polygon class="white" points="100,600 100,0 0,0 78,300 0,600"/>
+  </svg> -->
+          </div>
+          <div class="col-5_sm-6_xs-12 horiz-padded">
+              <h3 class="three-lines"> {{ post.title }}</h3>
+              <h4 class="small-heading"> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{post.location}} </h4>
+              <p class="three-lines"> {{post.description}} </p>
+          </div>
+        </a>
+    </article>
+    {% endfor %}
 </section>
