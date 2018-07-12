@@ -6,10 +6,10 @@ description: >-
   Victoria, Australia.
 number: 1
 image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
-image2_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
-image3_path: /images/a-day-at-the-beach/eon-bolivia-0852.jpg
-image4_path: /images/a-day-at-the-beach/eon-bolivia-0695.jpg
-image5_path: /images/a-day-at-the-beach/eon-bolivia-0533.jpg
+image2_path:
+image3_path:
+image4_path:
+image5_path:
 categories:
   - travel
   - landscape
@@ -67,3 +67,4 @@ images:
       SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Walking home with salty skin,
       bare-feet and all that ocean energy.
 ---
+
