@@ -23,5 +23,11 @@ images:
     alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
   - image_path: /images/joshua-district/eonport-44124.jpg
     alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
+  - image_path: /images/joshua-district/eonport-44146.jpg
+    alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
+  - image_path: /images/joshua-district/eonport-44166.jpg
+    alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
+  - image_path: /images/joshua-district/eonport-44207.jpg
+    alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
 ---
 
