@@ -6,66 +6,22 @@ description: >-
   container villas on the coast just north west of Canggu to capture some
   lifestyle photography for them.
 number: 4
-image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
-image2_path:
-image3_path:
-image4_path:
-image5_path:
+image1_path: /images/joshua-district/eonport-44050.jpg
+image2_path: /images/joshua-district/eonport-44207.jpg
+image3_path: /images/joshua-district/eonport-45498.jpg
+image4_path: /images/joshua-district/eonport-44093.jpg
+image5_path: /images/joshua-district/eonport-44342.jpg
 categories:
-  - travel
-  - landscape
+  - Hotel
+  - Lifestyle
 type: work
-location: 'Mornington Peninsular, Australia'
+location: 'Bali, Indonesia'
 images:
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0533.jpg
-    alt: >-
-      SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | No carparks here, just a walk
-      through a locals paddock.
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0358.jpg
-    alt: >-
-      SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | The rolling hills of wild wheat
-      end at the beautiful blue ocean.
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0559.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0351.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | A perfect place for a picnic.
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0409.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0423.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
-    alt: >-
-      SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Wondering if its worth the trek
-      down to the beach.
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0492.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0593.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0685.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0695.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0749.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Shaka
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0851.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0852.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0859.jpg
-    alt: >-
-      SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Not much surf, but always time
-      for a swim in the crystal clear rockpools
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0865.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0875.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Sun goddess
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0915.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA |
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
-    alt: SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Soaking in that vitamin-sea.
-  - image_path: /images/a-day-at-the-beach/eon-bolivia-0624.jpg
-    alt: >-
-      SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Walking home with salty skin,
-      bare-feet and all that ocean energy.
+  - image_path: /images/joshua-district/eonport-44050.jpg
+    alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
+  - image_path: /images/joshua-district/eonport-44093.jpg
+    alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
+  - image_path: /images/joshua-district/eonport-44124.jpg
+    alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
 ---
 
