@@ -7,11 +7,10 @@ description: >-
   sped up to 10 seconds which shows the sheer volume of smoke erupting but the
   reality felt like a moment frozen in time.
 number: 3
+style: horizontal
 image1_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-5.jpg
 image2_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-3.jpg
 image3_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-6.jpg
-image4_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-7.jpg
-image5_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-4.jpg
 categories:
   - travel
   - landscape
