@@ -2,8 +2,9 @@
 layout: project
 title: Shiraz Riad
 description: >-
-  Average surf led to a fun day at the beach on the Mornington Peninsular,
-  Victoria, Australia.
+  I had an opportunity to work with this stunning traditional hotel in
+  Marrakech. Honestly, probably one of the most stunning places we visited in
+  Morocco.
 number: 1
 image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
 image2_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
@@ -67,3 +68,4 @@ images:
       SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Walking home with salty skin,
       bare-feet and all that ocean energy.
 ---
+
