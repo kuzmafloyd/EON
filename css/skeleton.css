@@ -25,6 +25,11 @@
 - Media Queries
 */
 
+html, body {
+  position:relative;
+  overflow-x:hidden;
+}
+
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
