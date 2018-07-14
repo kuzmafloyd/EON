@@ -323,7 +323,7 @@ h3.three-lines {
 
 /* Captions on Images */
 figure {
-  margin-bottom: -0.5rem;
+  position: relative;
 }
 
 figure img {
@@ -332,7 +332,7 @@ figure img {
 
 figcaption {
   position: relative;
-  top: -4.5rem;
+  bottom: 7px;
   font-size: 0.8rem;
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
