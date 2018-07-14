@@ -32,7 +32,7 @@ contact: true
   <div class="portfolio-images left">
   <div id="new-portfolio">
 
-    {% assign sorted_projects = site.projects | sort: 'number' %}
+    {% assign sorted_projects = site.projects | sort: 'number' | reverse %}
 
       {% for project in sorted_projects limit:4 %}
         <div class="portfolio-item {% for item in project.category %} {{item}} {% endfor %}">
