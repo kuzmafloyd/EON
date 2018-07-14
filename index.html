@@ -40,6 +40,22 @@ contact: true
                   <p> {{project.description}}</p>
                   {% for category in project.categories %} <span class="tag"> {{category}}</span> {% endfor %}
                 </div>
+                {% if project.style == 'vertical' %}
+                
+                <div class="grid col-9 no-padding">
+                  <div class="col-4 no-padding">
+                    <div class="vert-image" style="background-image:url('{{project.image1_path}}');"></div>
+                  </div>
+                  <div class="col-4 no-padding">
+                    <div class="vert-image" style="background-image:url('{{project.image2_path}}');"></div>
+                  </div>
+                  <div class="col-4 no-padding">
+                    <div class="vert-image" style="background-image:url('{{project.image4_path}}');"></div>
+                  </div>
+                </div>
+                
+                {% else %}
+                
                 <div class="grid col-9 no-padding">
                   <div class="col-8 no-padding">
                     <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
@@ -48,13 +64,9 @@ contact: true
                     <div class="sm-image" style="background-image:url('{{project.image2_path}}');"></div>
                     <div class="sm-image" style="background-image:url('{{project.image3_path}}');"></div>
                   </div>
-                  <div class="col-6 no-padding">
-                    <div class="big-image" style="background-image:url('{{project.image4_path}}');"></div>
-                  </div>
-                  <div class="col-6 no-padding">
-                    <div class="sm-image" style="background-image:url('{{project.image5_path}}');"></div>
-                  </div>
                 </div>
+                
+                {% endif %}
           </a>
         </div>
       {% endfor %}
