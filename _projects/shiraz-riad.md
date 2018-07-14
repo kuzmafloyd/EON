@@ -1,21 +1,21 @@
 ---
 layout: project
-title: Shiraz Riad
+title: 'Shiraz Riad, Morocco'
 description: >-
   I had an opportunity to work with this stunning traditional hotel in
   Marrakech. Honestly, probably one of the most stunning places we visited in
   Morocco.
-number: 1
-image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
-image2_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
-image3_path: /images/a-day-at-the-beach/eon-bolivia-0852.jpg
-image4_path: /images/a-day-at-the-beach/eon-bolivia-0695.jpg
-image5_path: /images/a-day-at-the-beach/eon-bolivia-0533.jpg
+number: 5
+image1_path: /images/riad-shiraz/eonport-45688.jpg
+image2_path: /images/riad-shiraz/eonport-45699.jpg
+image3_path: /images/riad-shiraz/eonport-45768.jpg
+image4_path: /images/riad-shiraz/eonport-45984.jpg
+image5_path: /images/riad-shiraz/eonport-45989.jpg
 categories:
-  - travel
-  - landscape
+  - Hotel
+  - Lifestyle
 type: work
-location: 'Mornington Peninsular, Australia'
+location: 'Marrakech, Morocco'
 images:
   - image_path: /images/a-day-at-the-beach/eon-bolivia-0533.jpg
     alt: >-
@@ -69,3 +69,4 @@ images:
       bare-feet and all that ocean energy.
 ---
 
+I had an opportunity to work with this stunning traditional hotel in Marrakech. Honestly, probably one of the most stunning places we visited in Morocco.
