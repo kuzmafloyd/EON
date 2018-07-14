@@ -37,7 +37,7 @@ contact: true
       {% for project in sorted_projects limit:4 %}
         <div class="portfolio-item {% for item in project.category %} {{item}} {% endfor %}">
           <a href="{{project.url}}" class="grid">
-                <div class="col-3 horiz-padded ">
+                <div class="col-3_sm-12 horiz-padded ">
                   <h3> No. {{project.number}} </h3>
                   <h4 class="uppercase"> {{project.title}} </h4>
                   <p> {{project.description}}</p>
@@ -45,7 +45,7 @@ contact: true
                 </div>
                 {% if project.style == 'vertical' %}
                 
-                <div class="grid col-9 no-padding">
+                <div class="grid col-9_sm-12 no-padding">
                   <div class="col-4 no-padding">
                     <div class="vert-image" style="background-image:url('{{project.image1_path}}');"></div>
                   </div>
@@ -59,7 +59,7 @@ contact: true
                 
                 {% else %}
                 
-                <div class="grid col-9 no-padding">
+                <div class="grid col-9_sm-12 no-padding">
                   <div class="col-8 no-padding">
                     <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
                   </div>
