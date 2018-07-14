@@ -5,7 +5,7 @@ description: >-
   The folks at Joshua District invited me to stay at two of their epic shipping
   container villas on the coast just north west of Canggu to capture some
   lifestyle photography for them.
-number: 4
+number: 5
 image1_path: /images/joshua-district/eonport-44050.jpg
 image2_path: /images/joshua-district/eonport-44207.jpg
 image3_path: /images/joshua-district/eonport-45498.jpg
