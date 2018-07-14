@@ -331,7 +331,7 @@ figure img {
 }
 
 figcaption {
-  position: relative;
+  position: absolute;
   bottom: 7px;
   font-size: 0.8rem;
   background-color: rgba(0, 0, 0, 0.5);
