@@ -55,8 +55,6 @@ images:
     alt: 'Shiraz Riad, Marrakesh'
   - image_path: /images/riad-shiraz/eonport-46058.jpg
     alt: 'Shiraz Riad, Marrakesh'
-  - image_path: /images/riad-shiraz/eonport-46058.jpg
-    alt: 'Shiraz Riad, Marrakesh'
   - image_path: /images/riad-shiraz/eonport-46061.jpg
     alt: 'Shiraz Riad, Marrakesh'
 ---
