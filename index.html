@@ -14,14 +14,14 @@ contact: true
       <a href="/index.html">Home</a>
       <a href="/about.html">About</a>
       <a href="/portfolio.html">Portfolio</a>
-      <a href="/blog.html">Blog</a>
+      <!--<a href="/blog.html">Blog</a>-->
       <a href="/work-with-me.html">Work with Me</a>
       <a href="#contact">Contact</a>
   </nav>
 </header>
   </div><!-- closes nav-bar -->
   <div class="headline pgwdth">
-    <h2 class="editable">Photography From around the world</h2>
+    <h2 class="editable">Photography by Emilio Kuzma-Floyd</h2>
   </div><!-- closes the headline div -->
   <a class="down-arrow" href="#blog"> <img src="/images/icons/008-arrows-1.svg" alt="down-arrow"></a>
 </section><!-- closes the main section -->
@@ -74,27 +74,27 @@ contact: true
 
 
 
-<section class="blog" id="blog">
-  <h2 class="center"> Latest Blog Posts </h2>
-  <hr>
-    {% for post in site.posts  limit:3 %}
-    <article> <!-- Blog Excert -->
-        <a class="grid blog-snippet" href="{{ post.url }}">
-          <div class="col-2_sm-0_xs-0 right horiz-padded">
-              <span class="info date"> {{post.date | date: "%-d %B" }} </span>
-          </div>
-          <div class="col-5_sm-6_xs-12" style="background-position:center;background-image:url('{{post.image_path}}')">
+<!--<section class="blog" id="blog">-->
+<!--  <h2 class="center"> Latest Blog Posts </h2>-->
+<!--  <hr>-->
+<!--    {% for post in site.posts  limit:3 %}-->
+<!--    <article> <!-- Blog Excert -->
+<!--        <a class="grid blog-snippet" href="{{ post.url }}">-->
+<!--          <div class="col-2_sm-0_xs-0 right horiz-padded">-->
+<!--              <span class="info date"> {{post.date | date: "%-d %B" }} </span>-->
+<!--          </div>-->
+<!--          <div class="col-5_sm-6_xs-12" style="background-position:center;background-image:url('{{post.image_path}}')">-->
                   <!-- <svg class="arrow-right right" x="0px" y="0px"
-  	 viewBox="0 0 100 600" enable-background="new 0 0 100 600">
-          <polygon class="white" points="100,600 100,0 0,0 78,300 0,600"/>
-  </svg> -->
-          </div>
-          <div class="col-5_sm-6_xs-12 horiz-padded">
-              <h3 class="three-lines"> {{ post.title }}</h3>
-              <h4 class="small-heading"> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{post.location}} </h4>
-              <p class="three-lines"> {{post.description}} </p>
-          </div>
-        </a>
-    </article>
-    {% endfor %}
-</section>
+<!--  	 viewBox="0 0 100 600" enable-background="new 0 0 100 600">-->
+<!--          <polygon class="white" points="100,600 100,0 0,0 78,300 0,600"/>-->
+<!--  </svg> -->
+<!--          </div>-->
+<!--          <div class="col-5_sm-6_xs-12 horiz-padded">-->
+<!--              <h3 class="three-lines"> {{ post.title }}</h3>-->
+<!--              <h4 class="small-heading"> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{post.location}} </h4>-->
+<!--              <p class="three-lines"> {{post.description}} </p>-->
+<!--          </div>-->
+<!--        </a>-->
+<!--    </article>-->
+<!--    {% endfor %}-->
+<!--</section>-->
