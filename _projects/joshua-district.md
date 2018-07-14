@@ -57,3 +57,4 @@ images:
     alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
 ---
 
+The folks at Joshua District invited me to stay at two of their epic shipping container villas on the coast just north west of Canggu to capture some lifestyle photography for them.
