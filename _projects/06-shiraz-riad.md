@@ -5,7 +5,7 @@ description: >-
   I had an opportunity to work with this stunning traditional hotel in
   Marrakech. Honestly, probably one of the most stunning places we visited in
   Morocco.
-number: 5
+number: 6
 image1_path: /images/riad-shiraz/eonport-45688.jpg
 image2_path: /images/riad-shiraz/eonport-45699.jpg
 image3_path: /images/riad-shiraz/eonport-45768.jpg
