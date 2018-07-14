@@ -32,7 +32,8 @@ contact: true
   <div class="portfolio-images left">
   <div id="new-portfolio">
 
-      {% for project in site.projects reversed limit:4 %}
+      {% assign sorted_projects = (site.projects | reversed) %}
+      {% for project in sorted_projects limit:4 %}
         <div class="portfolio-item {% for item in project.category %} {{item}} {% endfor %}">
           <a href="{{project.url}}" class="grid">
                 <div class="col-3 horiz-padded ">
