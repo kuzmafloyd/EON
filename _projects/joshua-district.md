@@ -2,9 +2,10 @@
 layout: project
 title: Joshua District
 description: >-
-  Average surf led to a fun day at the beach on the Mornington Peninsular,
-  Victoria, Australia.
-number: 1
+  The folks at Joshua District invited me to stay at two of their epic shipping
+  container villas on the coast just north west of Canggu to capture some
+  lifestyle photography for them.
+number: 4
 image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
 image2_path:
 image3_path:
