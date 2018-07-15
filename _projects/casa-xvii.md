@@ -15,6 +15,7 @@ categories:
   - Lifestyle
 type: work
 location: 'Seville, Spain'
+intro_html: 
 images:
   - image_path: /images/casa-xvii/eonport-44847.jpg
     alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
