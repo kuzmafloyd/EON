@@ -55,3 +55,4 @@ images:
 intro_html: <iframe width="100%" height="360" src="https://www.youtube.com/embed/PFTNqbuD46w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe>
 ---
 
+My sister Matia & I spent a week in Spain wandering around this gorgeous old little town and it was incredible to be able to call Casa XVII our home base. Apartments in Seville are pretty small, so it was fun to capture such a small but beautiful space in this photo & video campaign.&nbsp;
