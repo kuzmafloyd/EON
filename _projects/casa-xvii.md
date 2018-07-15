@@ -15,7 +15,6 @@ categories:
   - Lifestyle
 type: work
 location: 'Seville, Spain'
-intro_html: <iframe width="100%" height="360" src="https://www.youtube.com/embed/PFTNqbuD46w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe>
 images:
   - image_path: /images/casa-xvii/eonport-44847.jpg
     alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
@@ -53,5 +52,6 @@ images:
     alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
   - image_path: /images/casa-xvii/eonport-45350.jpg
     alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
+intro_html: <iframe width="100%" height="360" src="https://www.youtube.com/embed/PFTNqbuD46w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe>
 ---
 
