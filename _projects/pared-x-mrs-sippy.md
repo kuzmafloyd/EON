@@ -2,9 +2,10 @@
 layout: project
 title: Pared x Mrs Sippy
 description: >-
-  Average surf led to a fun day at the beach on the Mornington Peninsular,
-  Victoria, Australia.
-number: 1
+  This weekend I had chance to shoot for a collaboration between Pared Eyewear
+  and Mrs Sippy Pool Bar. We went for a tropical-luxe vibe with models
+  @hellotinamay and @tiffany_janes.
+number: 8
 image1_path: /images/a-day-at-the-beach/eon-bolivia-0437.jpg
 image2_path: /images/a-day-at-the-beach/eon-bolivia-0936.jpg
 image3_path: /images/a-day-at-the-beach/eon-bolivia-0852.jpg
@@ -67,3 +68,5 @@ images:
       SOMEWHERE NEAR FLINDERS BEACH - VICTORIA | Walking home with salty skin,
       bare-feet and all that ocean energy.
 ---
+
+This weekend I had chance to shoot for a collaboration between Pared Eyewear and Mrs Sippy Pool Bar. We went for a tropical-luxe vibe with models [@hellotinamay](http://www.instagram.com/hellotinamay){: target="_blank"} and [@tiffany\_janes](http://www.instagram.com/tiffany_janes){: target="_blank"}.&nbsp;
