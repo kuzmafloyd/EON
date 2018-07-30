@@ -35,10 +35,16 @@ images:
     alt: Pared x Mrs Sippy
   - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44401.jpg
     alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44634.jpg
-    alt: Pared x Mrs Sippy
   - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44985.jpg
     alt: Pared x Mrs Sippy
+  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44634.jpg
+    alt: Pared x Mrs Sippy
+  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM45427.jpg
+    alt: Pared x Mrs Sippy
+  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44678.jpg
+    alt: Pared x Mrs Sippy
+  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44696.jpg
+    alt:
 ---
 
 This weekend I had chance to shoot for a collaboration between Pared Eyewear and Mrs Sippy Pool Bar. We went for a tropical-luxe vibe with models [@hellotinamay](http://www.instagram.com/hellotinamay){: target="_blank"} and [@tiffany\_janes](http://www.instagram.com/tiffany_janes){: target="_blank"}.
