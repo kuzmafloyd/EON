@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work with me | Eyes of a Nomad
+title: Portfolio | Eyes of a Nomad
 ---
 
 {% include header.html %}
@@ -22,7 +22,7 @@ title: Work with me | Eyes of a Nomad
 
     <div class="portfolio-images left">
       <div id="new-portfolio">
-          {% for project in site.projects %}
+          {% for project in site.projects reversed %}
             <div class="portfolio-item {% for item in project.category %} {{item}} {% endfor %}">
               <a href="{{project.url}}" class="grid">
                     <div class="col-3 horiz-padded ">
