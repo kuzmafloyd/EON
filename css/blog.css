@@ -268,7 +268,8 @@ blockquote {
 }
 
 .big-image,
-.sm-image {
+.sm-image,
+.vert-image{
   background-size: cover;
   background-position: center;
   border: 2px solid white;
@@ -280,6 +281,10 @@ blockquote {
 
 .sm-image {
     padding-bottom: calc(60% - 2px);
+}
+
+.vert-image {
+    padding-bottom: calc(120% - 2px);
 }
 
 

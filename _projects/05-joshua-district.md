@@ -6,6 +6,7 @@ description: >-
   container villas on the coast just north west of Canggu to capture some
   lifestyle photography for them.
 number: 5
+style: vertical
 image1_path: /images/joshua-district/eonport-44050.jpg
 image2_path: /images/joshua-district/eonport-44207.jpg
 image3_path: /images/joshua-district/eonport-45498.jpg

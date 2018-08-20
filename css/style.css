@@ -130,6 +130,7 @@ header nav a {
   background-size: cover;
   background-attachment: fixed;
   color: white;
+  position: relative;
 }
 
 .main .title-area {

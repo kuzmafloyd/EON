@@ -6,6 +6,7 @@ description: >-
   Marrakech. Honestly, probably one of the most stunning places we visited in
   Morocco.
 number: 6
+style: vertical
 image1_path: /images/riad-shiraz/eonport-45688.jpg
 image2_path: /images/riad-shiraz/eonport-45699.jpg
 image3_path: /images/riad-shiraz/eonport-45768.jpg
