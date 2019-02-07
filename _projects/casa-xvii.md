@@ -11,8 +11,8 @@ image3_path: /images/casa-xvii/eonport-45049.jpg
 image4_path:
 image5_path:
 categories:
-  - Hotel
-  - Lifestyle
+  - hotel
+  - lifestyle
 type: work
 location: 'Seville, Spain'
 images:

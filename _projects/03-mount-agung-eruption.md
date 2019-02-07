@@ -13,8 +13,6 @@ image2_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-2.jpg
 image3_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-7-1.jpg
 categories:
   - travel
-  - landscape
-  - volcano
 type: work
 location: 'Mount Agung, Bali'
 images:

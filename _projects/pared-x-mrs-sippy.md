@@ -13,7 +13,6 @@ image4_path:
 image5_path:
 categories:
   - travel
-  - landscape
 type: work
 location: 'Bali, Indonesia'
 images:

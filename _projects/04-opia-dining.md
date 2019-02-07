@@ -12,7 +12,7 @@ image3_path: /images/opia-dining/eonport-42908.jpg
 image4_path: /images/opia-dining/eonport-43005.jpg
 image5_path: /images/opia-dining/eonport-43541.jpg
 categories:
-  - Lifestyle
+  - lifestyle
 type: work
 location: 'Jimbaran, Bali'
 images:

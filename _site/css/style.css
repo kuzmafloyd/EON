@@ -10,6 +10,9 @@
 body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
+  margin: 0;
+  max-width: 100%;
+  overflow-x: hidden !important;
 }
 
 .pgwdth {
@@ -17,6 +20,7 @@ body {
   margin: auto;
   text-align: center;
 }
+
 
 a {
   text-decoration: none;
@@ -122,9 +126,11 @@ header nav a {
 
 .main {
   min-height: 100vh;
-  background-image: url("../images/bgmainimg.jpeg");
+  background-image: url("../images/web-banner-eon.png");
   background-size: cover;
   background-attachment: fixed;
+  color: white;
+  position: relative;
 }
 
 .main .title-area {
@@ -152,7 +158,7 @@ h1.logo  {
 .main .headline h2{
   display: inline-block;
   padding: 11px 33px;
-  border: 2px solid #333;
+  border: 2px solid white;
   letter-spacing: 3px;
   font-size: 1.2rem;
 }

@@ -13,8 +13,8 @@ image3_path: /images/riad-shiraz/eonport-45768.jpg
 image4_path: /images/riad-shiraz/eonport-45984.jpg
 image5_path: /images/riad-shiraz/eonport-45989.jpg
 categories:
-  - Hotel
-  - Lifestyle
+  - hotel
+  - lifestyle
 type: work
 location: 'Marrakech, Morocco'
 images:

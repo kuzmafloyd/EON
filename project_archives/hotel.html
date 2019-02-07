@@ -1,0 +1,36 @@
+---
+layout: default
+title: Hotel Projects | Eyes of a Nomad
+categories:
+ - hotel
+---
+
+{% include header.html %}
+
+<section class="portfolio center">
+    <h2>Hotel Portfolio</h2>
+    <h3>A collection of images I've taken from my adventures around the world.</h3>
+
+    <!-- <div class="portfolio-buttons">
+      <ul id="portfolio-filter">
+        <li class="current"><a class="button" href="">All</a></li>
+        <li><a class="button" href="">Landscape</a></li>
+        <li><a class="button" href="">Lifestyle</a></li>
+        <li><a class="button" href="">Events</a></li>
+        <li><a class="button" href="">Product</a></li>
+      </ul>
+    </div> --->
+    <!-- closes portfolio-buttons -->
+
+    <div class="portfolio-images left">
+      <div id="new-portfolio">
+        {% for project in site.projects reversed %}
+        {% if project.categories contains 'hotel' %}
+
+          {% include project-item.html %}
+
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div> <!-- closes the portfolio-images div -->
+</section> <!-- closes the portfolio section -->
