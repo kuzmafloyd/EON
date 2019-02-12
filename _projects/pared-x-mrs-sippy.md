@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Pared x Mrs Sippy
+title: Pared Eyewear x Mrs Sippy
 description: >-
   This weekend I had chance to shoot for a collaboration between Pared Eyewear
   and Mrs Sippy Pool Bar. We went for a tropical-luxe vibe with models
@@ -12,7 +12,9 @@ image3_path: /images/pared-mrs-sippy/EONCLIENT_5DM44538.jpg
 image4_path:
 image5_path:
 categories:
-  - travel
+  - lifestyle
+  - Fashion
+  - Venue
 type: work
 location: 'Bali, Indonesia'
 images:
@@ -46,4 +48,4 @@ images:
     alt:
 ---
 
-This weekend I had chance to shoot for a collaboration between Pared Eyewear and Mrs Sippy Pool Bar. We went for a tropical-luxe vibe with models [@hellotinamay](http://www.instagram.com/hellotinamay){: target="_blank"} and [@tiffany\_janes](http://www.instagram.com/tiffany_janes){: target="_blank"}.
+This weekend I had chance to shoot a collaboration between Pared Eyewear and Mrs Sippy Pool Bar in Bali, Indonesia. We went for a tropical-luxe vibe with models [@hellotinamay](http://www.instagram.com/hellotinamay){: target="_blank"} and [@tiffany\_janes](http://www.instagram.com/tiffany_janes){: target="_blank"}. Showcasing both the sunglasses as a product & the venue.&nbsp;
