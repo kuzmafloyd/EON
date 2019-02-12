@@ -7,9 +7,9 @@ description: >-
   Morocco.
 number: 11
 style: vertical
-image1_path: /images/amita_villa/eonport-49018.jpg
-image2_path: /images/amita_villa/eonport-49021.jpg
-image3_path: /images/amita_villa/eonport-49021.jpg
+image1_path: /images/astor_tyne/eonport-41634.jpg
+image2_path: /images/astor_tyne/eonport-41650.jpg
+image3_path: /images/astor_tyne/eonport-41662.jpg
 categories:
   - hotel
   - lifestyle
