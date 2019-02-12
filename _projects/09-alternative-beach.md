@@ -16,7 +16,7 @@ categories:
   - hotel
   - lifestyle
 type: work
-location: 'Seville, Spain'
+location: 'Bali, Indonesia'
 images:
   − image_path: /images/alternative_beach/eonport-44902.jpg
 ---
