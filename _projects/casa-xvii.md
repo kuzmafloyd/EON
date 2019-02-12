@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Casa XVII
+title: Casa XVII Villa
 description: >-
   My sister Matia & I spent a week in Spain wandering around this gorgeous old
   little town and it was incredible to be able to call Casa XVII our home base.
