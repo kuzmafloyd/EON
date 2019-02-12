@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Casa XVII
+title: Casa XVII Villa
 description: >-
   My sister Matia & I spent a week in Spain wandering around this gorgeous old
   little town and it was incredible to be able to call Casa XVII our home base.
@@ -58,4 +58,4 @@ intro_html: >-
   allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 ---
 
-My sister Matia & I spent a week in Spain wandering around this gorgeous old little town and it was incredible to be able to call Casa XVII our home base. Apartments in Seville are pretty small, so it was fun to capture such a small but beautiful space in this photo & video campaign.
+A home away from home in Seville. My sister Matia & I spent a week in Spain wandering around this gorgeous little town and it was incredible to be able to call Casa XVII our home base. Apartments in Seville are pretty small, so it was fun to capture such a small but beautiful space in this photo & video campaign. The attention to detail in the the beautifully renovated century old home was breathtaking & we made the most of it when shooting!
