@@ -1,10 +1,7 @@
 ---
 layout: project
 title: Opia Bali Restaurant
-description: >-
-  Opia Bali Restaurant, a stunning cliff-top restaurant and wedding venue in
-  Jimbaran invited Sam (@samisfierce) and I to capture some lifestyle
-  photography and showcase everything it has to offer.
+description: "Opia Bali Restaurant, is a stunning cliff-top restaurant and wedding venue in Jimbaran with some of the most beautiful facilities/gardens in the area.\_I was asked to capture some lifestyle photography,\_showcasing the venue & its uniqueness\_as a wedding venue."
 number: 4
 image1_path: /images/opia-dining/eonport-42729.jpg
 image2_path: /images/opia-dining/eonport-42782.jpg
@@ -40,4 +37,4 @@ images:
     alt: Opia Restaurant in Jimbaran with Sam (@samisfierce)
 ---
 
-Opia Bali Restaurant, a stunning cliff-top restaurant and wedding venue in Jimbaran invited Sam (@samisfierce) and I to capture some lifestyle photography and showcase everything it has to offer.
+Opia Bali Restaurant, is a stunning cliff-top restaurant and wedding venue in Jimbaran with some of the most beautiful facilities/gardens in the area. I was asked to capture some lifestyle photography, showcasing the venue & its uniqueness as a wedding venue.&nbsp;
