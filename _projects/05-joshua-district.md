@@ -1,10 +1,7 @@
 ---
 layout: project
 title: Joshua District
-description: >-
-  The folks at Joshua District invited me to stay at two of their epic shipping
-  container villas on the coast just north west of Canggu to capture some
-  lifestyle photography for them.
+description: "The folks at Joshua District invited me to stay at two of their epic shipping container villas on the coast\_west of Canggu to capture some lifestyle photography for them. I've always loved the concept of reusing old shipping containers as homes & I did not expect to find them almost unrecognisable - a true reflection of how good the guys at Joshua District are at design!"
 number: 5
 style: vertical
 image1_path: /images/joshua-district/eonport-44050.jpg
@@ -58,4 +55,4 @@ images:
     alt: 'Model Rachel Bowler at Joshua District Villas in Bali, Indonesia'
 ---
 
-The folks at Joshua District invited me to stay at two of their epic shipping container villas on the coast just north west of Canggu to capture some lifestyle photography for them.
+The folks at Joshua District invited me to stay at two of their epic shipping container villas on the coast west of Canggu to capture some lifestyle photography for them. Ive always loved the concept of reusing old shipping containers as homes & I did not expect to find them almost unrecognisable - a true reflection of how good the guys at Joshua District are at design!&nbsp;
