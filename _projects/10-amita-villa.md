@@ -7,9 +7,9 @@ description: >-
   Morocco.
 number: 10
 style: vertical
-image1_path: /images/riad_shiraz/eonport-45688.jpg
-image2_path: /images/riad_shiraz/eonport-45699.jpg
-image3_path: /images/riad_shiraz/eonport-45768.jpg
+image1_path: /images/amita_villa/eonport-49018.jpg
+image2_path: /images/amita_villa/eonport-49021.jpg
+image3_path: /images/amita_villa/eonport-49021.jpg
 categories:
   - hotel
   - lifestyle
