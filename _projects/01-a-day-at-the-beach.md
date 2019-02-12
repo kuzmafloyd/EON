@@ -12,7 +12,6 @@ image4_path: /images/a-day-at-the-beach/eon-bolivia-0695.jpg
 image5_path: /images/a-day-at-the-beach/eon-bolivia-0533.jpg
 categories:
   - travel
-  - landscape
 type: work
 location: 'Mornington Peninsular, Australia'
 images:

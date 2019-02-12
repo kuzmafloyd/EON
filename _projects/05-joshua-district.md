@@ -13,8 +13,8 @@ image3_path: /images/joshua-district/eonport-45498.jpg
 image4_path: /images/joshua-district/eonport-44093.jpg
 image5_path: /images/joshua-district/eonport-44342.jpg
 categories:
-  - Hotel
-  - Lifestyle
+  - hotel
+  - lifestyle
 type: work
 location: 'Bali, Indonesia'
 images:

@@ -10,7 +10,6 @@ image4_path: /images/bolivia-salt-flats/eon-bolivia-6064.jpg
 image5_path: /images/bolivia-salt-flats/eon-bolivia-6068.jpg
 categories:
   - travel
-  - landscape'
 location: Uyuni, Bolivia
 images:
   - image_path: /images/bolivia-salt-flats/eon-bolivia-5875.jpg
