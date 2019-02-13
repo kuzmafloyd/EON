@@ -1,33 +1,21 @@
 ---
 layout: project
-title: 'Cstrums'
+title: Cstrums
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+  A fun lifestyle shoot at one of the most iconic venues in Bali, La Brisa Pool
+  Bar. Such a unique venue with all a tonne of interesting places to shoot and
+  the nautical theme made it the perfect location for swimwear.
 number: 16
 style: vertical
 image1_path: /images/cstrums/eonport-45298.jpg
 image2_path: /images/cstrums/eonport-44509.jpg
 image3_path: /images/cstrums/eonport-44577.jpg
 categories:
-  - hotel
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
-  − image_path: /images/cstrums/eonport-45298.jpg
-  − image_path: /images/cstrums/eonport-44509.jpg
-  − image_path: /images/cstrums/eonport-44511.jpg
-  − image_path: /images/cstrums/eonport-44577.jpg
-  − image_path: /images/cstrums/eonport-44603.jpg
-  − image_path: /images/cstrums/eonport-44683.jpg
-  − image_path: /images/cstrums/eonport-44699.jpg
-  − image_path: /images/cstrums/eonport-44850.jpg
-  − image_path: /images/cstrums/eonport-44872.jpg
-  − image_path: /images/cstrums/eonport-45042.jpg
-  − image_path: /images/cstrums/eonport-45043.jpg
-  − image_path: /images/cstrums/eonport-45066.jpg
-  − image_path: /images/cstrums/eonport-45166.jpg
   − image_path: /images/cstrums/eonport-45293.jpg
 ---
+
+A fun lifestyle shoot at one of the most iconic venues in Bali, La Brisa Pool Bar. Such a unique venue with all a tonne of interesting places to shoot, and the nautical theme made it the perfect location for swimwear.&nbsp;
