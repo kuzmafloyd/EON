@@ -18,7 +18,7 @@ categories:
 type: work
 location: 'Bali, Indonesia'
 images:
-  − image_path: /images/alternative_beach/eonport-44902.jpg
+  - image_path: /images/alternative_beach/eonport-44902.jpg
 ---
 
 Alternative Beach is the newest & arguably the most epic pool bar to open in Canggu! Not only is it a pool bar, but it offers boutique hotel rooms, dorm accommodation & a restaurant! The owner is an absolute champion & I was more than happy to help shoot their opening night.

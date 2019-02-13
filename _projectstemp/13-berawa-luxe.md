@@ -13,6 +13,6 @@ categories:
 type: work
 location: 'Marrakech, Morocco'
 images:
-  − image_path: /images/berawa_luxe/eonport-49396.jpg
+  - image_path: /images/berawa_luxe/eonport-49396.jpg
 ---
 

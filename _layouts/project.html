@@ -7,15 +7,12 @@ layout: default
 <section class="grid capped-width mob-reverse">
 
     <div class="col-8_sm-12">
-    
+
       <div>  {{page.intro_html}} </div>
-        
+
       {% for image in page.images %}
 
-      <figure>
-        <img src='{{image.image_path}}' alt='{{image.alt}}'>
-        <figcaption>{{image.alt}}</figcaption>
-      </figure>
+      <img src='{{image}}'>
 
       {% endfor %}
     </div>

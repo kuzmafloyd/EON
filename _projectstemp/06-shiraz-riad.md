@@ -15,7 +15,7 @@ categories:
 type: work
 location: 'Marrakech, Morocco'
 images:
-  − image_path: /images/riad_shiraz/eonport-44902.jpg
+  - /images/riad_shiraz/eonport-44902.jpg
 ---
 
 I had an opportunity to stay & shoot this recently renovated Riad (villa) in the heart of the old medina in Marrakech, Morocco. Similar to the villa I stayed & shot in Seville, the attention to detail here made it so photogenic. The light in Morocco is famous in the photography world & the way the architect has bought light into the building made shooting it a real pleasure.&nbsp;&nbsp;

@@ -2,10 +2,7 @@
 layout: project
 title: Mount Agung Eruption
 description: >-
-  As we approached the village where I took the photo, we could see the smoke
-  billowing from Mount Agung -- the video shows a timelapse of around 3 minutes
-  sped up to 10 seconds which shows the sheer volume of smoke erupting but the
-  reality felt like a moment frozen in time.
+  As we approached the village where I took the photo, we could see the smoke billowing from Mount Agung -- the video shows a timelapse of around 3 minutes sped up to 10 seconds which shows the sheer volume of smoke erupting but the reality felt like a moment frozen in time.
 number: 3
 style: horizontal
 image1_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-4-1.jpg
@@ -16,20 +13,13 @@ categories:
 type: work
 location: 'Mount Agung, Bali'
 images:
-  - image_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-4-1.jpg
-    alt: Mount Agung Eruption - 6am Nov 26 2017
-  - image_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-7-1.jpg
-    alt: Mount Agung Eruption - 6am Nov 26 2017
-  - image_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-3-1.jpg
-    alt: Mount Agung Eruption - 6am Nov 26 2017
-  - image_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-5-1.jpg
-    alt: Mount Agung Eruption - 6am Nov 26 2017
-  - image_path: /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-2.jpg
-    alt: Mount Agung Eruption - 6am Nov 26 2017
-  - image_path: /uploads/eoninstagram-dji-0031.jpg
-    alt: Mount Agung Eruption - 6am Nov 26 2017
-  - image_path: /uploads/ezgif-com-video-to-gif.gif
-    alt: Mount Agung Eruption - 6am Nov 26 2017 - For usage see storyful below.
+  - /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-4-1.jpg
+  - /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-7-1.jpg
+  - /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-3-1.jpg
+  - /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-5-1.jpg
+  - /uploads/eon-agung-volcano-press-2017-11-27-at-12-34-38-pm-2.jpg
+  - /uploads/eoninstagram-dji-0031.jpg
+  - /uploads/ezgif-com-video-to-gif.gif
 ---
 
 As we approached the village where I took the photo, we could see the smoke billowing from Mount Agung – the video shows a timelapse of around 3 minutes sped up to 10 seconds which shows the sheer volume of smoke erupting but the reality felt like a moment frozen in time.

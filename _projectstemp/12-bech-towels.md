@@ -17,7 +17,7 @@ categories:
 type: work
 location: 'Marrakech, Morocco'
 images:
-  − image_path: /images/bech_towel/eonport-48997.jpg
+  - image_path: /images/bech_towel/eonport-48997.jpg
 ---
 
 Bech towels is all about getting out into nature & traveling the world with the most luxurious Turkish cotton towel. We wanted to showcase just how versatile these towels really are & how perfect they are in just about any environment by shooting this campaign across the beautiful island of Bali.&nbsp;
