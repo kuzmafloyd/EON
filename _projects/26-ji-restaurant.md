@@ -16,27 +16,27 @@ categories:
 type: work
 location: 'Marrakech, Morocco'
 images:
-  − image_path: /images/ji_restaurant/eonport-48254.jpg
-  − image_path: /images/ji_restaurant/eonport-40414.jpg
-  − image_path: /images/ji_restaurant/eonport-40428.jpg
-  − image_path: /images/ji_restaurant/eonport-40441.jpg
-  − image_path: /images/ji_restaurant/eonport-40563.jpg
-  − image_path: /images/ji_restaurant/eonport-40567.jpg
-  − image_path: /images/ji_restaurant/eonport-40579.jpg
-  − image_path: /images/ji_restaurant/eonport-40590.jpg
-  − image_path: /images/ji_restaurant/eonport-40595.jpg
-  − image_path: /images/ji_restaurant/eonport-40599.jpg
-  − image_path: /images/ji_restaurant/eonport-40608.jpg
-  − image_path: /images/ji_restaurant/eonport-40625.jpg
-  − image_path: /images/ji_restaurant/eonport-40652.jpg
-  − image_path: /images/ji_restaurant/eonport-40706.jpg
-  − image_path: /images/ji_restaurant/eonport-40716.jpg
-  − image_path: /images/ji_restaurant/eonport-40758.jpg
-  − image_path: /images/ji_restaurant/eonport-40765.jpg
-  − image_path: /images/ji_restaurant/eonport-48224.jpg
-  − image_path: /images/ji_restaurant/eonport-48236.jpg
-  − image_path: /images/ji_restaurant/eonport-48240.jpg
-  − image_path: /images/ji_restaurant/eonport-48258.jpg
-  − image_path: /images/ji_restaurant/eonport-48290.jpg
-  − image_path: /images/ji_restaurant/eonport-48327.jpg
+  − /images/ji_restaurant/eonport-48254.jpg
+  − /images/ji_restaurant/eonport-40414.jpg
+  − /images/ji_restaurant/eonport-40428.jpg
+  − /images/ji_restaurant/eonport-40441.jpg
+  − /images/ji_restaurant/eonport-40563.jpg
+  − /images/ji_restaurant/eonport-40567.jpg
+  − /images/ji_restaurant/eonport-40579.jpg
+  − /images/ji_restaurant/eonport-40590.jpg
+  − /images/ji_restaurant/eonport-40595.jpg
+  − /images/ji_restaurant/eonport-40599.jpg
+  − /images/ji_restaurant/eonport-40608.jpg
+  − /images/ji_restaurant/eonport-40625.jpg
+  − /images/ji_restaurant/eonport-40652.jpg
+  − /images/ji_restaurant/eonport-40706.jpg
+  − /images/ji_restaurant/eonport-40716.jpg
+  − /images/ji_restaurant/eonport-40758.jpg
+  − /images/ji_restaurant/eonport-40765.jpg
+  − /images/ji_restaurant/eonport-48224.jpg
+  − /images/ji_restaurant/eonport-48236.jpg
+  − /images/ji_restaurant/eonport-48240.jpg
+  − /images/ji_restaurant/eonport-48258.jpg
+  − /images/ji_restaurant/eonport-48290.jpg
+  − /images/ji_restaurant/eonport-48327.jpg
 ---
