@@ -5,7 +5,7 @@ description: >-
   I had an opportunity to work with this stunning traditional hotel in
   Marrakech. Honestly, probably one of the most stunning places we visited in
   Morocco.
-number: 16
+number: 17
 style: vertical
 image1_path: /images/diamond_hotel/eonport-42513.jpg
 image2_path: /images/diamond_hotel/eonport-42526.jpg
