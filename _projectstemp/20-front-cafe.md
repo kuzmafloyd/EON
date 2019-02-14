@@ -16,36 +16,36 @@ categories:
 type: work
 location: 'Marrakech, Morocco'
 images:
-  - image_path: /images/front_cafe/eonport-42345.jpg
-  - image_path: /images/front_cafe/eonport-42426.jpg
-  - image_path: /images/front_cafe/eonport-42445.jpg
-  - image_path: /images/front_cafe/eonport-42547.jpg
-  - image_path: /images/front_cafe/eonport-42568.jpg
-  - image_path: /images/front_cafe/eonport-42614.jpg
-  - image_path: /images/front_cafe/eonport-42659.jpg
-  - image_path: /images/front_cafe/eonport-42794.jpg
-  - image_path: /images/front_cafe/eonport-42861.jpg
-  - image_path: /images/front_cafe/eonport-42923.jpg
-  - image_path: /images/front_cafe/eonport-42929.jpg
-  - image_path: /images/front_cafe/eonport-42944.jpg
-  - image_path: /images/front_cafe/eonport-42962.jpg
-  - image_path: /images/front_cafe/eonport-44976.jpg
-  - image_path: /images/front_cafe/eonport-45047.jpg
-  - image_path: /images/front_cafe/eonport-45065.jpg
-  - image_path: /images/front_cafe/eonport-45116.jpg
-  - image_path: /images/front_cafe/eonport-45131.jpg
-  - image_path: /images/front_cafe/eonport-45156.jpg
-  - image_path: /images/front_cafe/eonport-45198.jpg
-  - image_path: /images/front_cafe/eonport-45205.jpg
-  - image_path: /images/front_cafe/eonport-45210.jpg
-  - image_path: /images/front_cafe/eonport-46026.jpg
-  - image_path: /images/front_cafe/eonport-46097.jpg
-  - image_path: /images/front_cafe/eonport-46256.jpg
-  - image_path: /images/front_cafe/eonport-46275.jpg
-  - image_path: /images/front_cafe/eonport-46364.jpg
-  - image_path: /images/front_cafe/eonport-46385.jpg
-  - image_path: /images/front_cafe/eonport-46514.jpg
-  - image_path: /images/front_cafe/eonport-46539.jpg
-  - image_path: /images/front_cafe/eonport-46669.jpg
-  - image_path: /images/front_cafe/eonport-46794.jpg
+  -  /images/front_cafe/eonport-42345.jpg
+  -  /images/front_cafe/eonport-42426.jpg
+  -  /images/front_cafe/eonport-42445.jpg
+  -  /images/front_cafe/eonport-42547.jpg
+  -  /images/front_cafe/eonport-42568.jpg
+  -  /images/front_cafe/eonport-42614.jpg
+  -  /images/front_cafe/eonport-42659.jpg
+  -  /images/front_cafe/eonport-42794.jpg
+  -  /images/front_cafe/eonport-42861.jpg
+  -  /images/front_cafe/eonport-42923.jpg
+  -  /images/front_cafe/eonport-42929.jpg
+  -  /images/front_cafe/eonport-42944.jpg
+  -  /images/front_cafe/eonport-42962.jpg
+  -  /images/front_cafe/eonport-44976.jpg
+  -  /images/front_cafe/eonport-45047.jpg
+  -  /images/front_cafe/eonport-45065.jpg
+  -  /images/front_cafe/eonport-45116.jpg
+  -  /images/front_cafe/eonport-45131.jpg
+  -  /images/front_cafe/eonport-45156.jpg
+  -  /images/front_cafe/eonport-45198.jpg
+  -  /images/front_cafe/eonport-45205.jpg
+  -  /images/front_cafe/eonport-45210.jpg
+  -  /images/front_cafe/eonport-46026.jpg
+  -  /images/front_cafe/eonport-46097.jpg
+  -  /images/front_cafe/eonport-46256.jpg
+  -  /images/front_cafe/eonport-46275.jpg
+  -  /images/front_cafe/eonport-46364.jpg
+  -  /images/front_cafe/eonport-46385.jpg
+  -  /images/front_cafe/eonport-46514.jpg
+  -  /images/front_cafe/eonport-46539.jpg
+  -  /images/front_cafe/eonport-46669.jpg
+  -  /images/front_cafe/eonport-46794.jpg
 ---

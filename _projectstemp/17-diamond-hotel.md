@@ -16,24 +16,24 @@ categories:
 type: work
 location: 'Marrakech, Morocco'
 images:
-  - image_path: /images/diamond_hotel/eonport-42513.jpg
-  - image_path: /images/diamond_hotel/eonport-42526.jpg
-  - image_path: /images/diamond_hotel/eonport-42567.jpg
-  - image_path: /images/diamond_hotel/eonport-42600.jpg
-  - image_path: /images/diamond_hotel/eonport-42617.jpg
-  - image_path: /images/diamond_hotel/eonport-42639.jpg
-  - image_path: /images/diamond_hotel/eonport-42644.jpg
-  - image_path: /images/diamond_hotel/eonport-42658.jpg
-  - image_path: /images/diamond_hotel/eonport-42665.jpg
-  - image_path: /images/diamond_hotel/eonport-42677.jpg
-  - image_path: /images/diamond_hotel/eonport-42701.jpg
-  - image_path: /images/diamond_hotel/eonport-42726.jpg
-  - image_path: /images/diamond_hotel/eonport-42734.jpg
-  - image_path: /images/diamond_hotel/eonport-42785.jpg
-  - image_path: /images/diamond_hotel/eonport-42801.jpg
-  - image_path: /images/diamond_hotel/eonport-42811.jpg
-  - image_path: /images/diamond_hotel/eonport-42901.jpg
-  - image_path: /images/diamond_hotel/eonport-42995.jpg
-  - image_path: /images/diamond_hotel/eonport-43022.jpg
-  - image_path: /images/diamond_hotel/eonport-43025.jpg
+  -  /images/diamond_hotel/eonport-42513.jpg
+  -  /images/diamond_hotel/eonport-42526.jpg
+  -  /images/diamond_hotel/eonport-42567.jpg
+  -  /images/diamond_hotel/eonport-42600.jpg
+  -  /images/diamond_hotel/eonport-42617.jpg
+  -  /images/diamond_hotel/eonport-42639.jpg
+  -  /images/diamond_hotel/eonport-42644.jpg
+  -  /images/diamond_hotel/eonport-42658.jpg
+  -  /images/diamond_hotel/eonport-42665.jpg
+  -  /images/diamond_hotel/eonport-42677.jpg
+  -  /images/diamond_hotel/eonport-42701.jpg
+  -  /images/diamond_hotel/eonport-42726.jpg
+  -  /images/diamond_hotel/eonport-42734.jpg
+  -  /images/diamond_hotel/eonport-42785.jpg
+  -  /images/diamond_hotel/eonport-42801.jpg
+  -  /images/diamond_hotel/eonport-42811.jpg
+  -  /images/diamond_hotel/eonport-42901.jpg
+  -  /images/diamond_hotel/eonport-42995.jpg
+  -  /images/diamond_hotel/eonport-43022.jpg
+  -  /images/diamond_hotel/eonport-43025.jpg
 ---
