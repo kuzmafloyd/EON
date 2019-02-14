@@ -6,7 +6,8 @@
             <h4 class="uppercase"> {{project.title}} </h4>
             <p> {{project.description}}</p>
           </a>
-          {% for category in project.categories %} <a href="/project_archives/{{category}}" class="tag"> {{category}}</a> {% endfor %}
+          {% for category in project.categories %}
+          <a href="/project_archives/{{category}}" class="tag"> {{category}}</a> {% endfor %}
         </div>
         {% if project.style == 'vertical' %}
 
@@ -18,7 +19,7 @@
             <div class="vert-image" style="background-image:url('{{project.image2_path}}');"></div>
           </div>
           <div class="col-4 no-padding">
-            <div class="vert-image" style="background-image:url('{{project.image4_path}}');"></div>
+            <div class="vert-image" style="background-image:url('{{project.image3_path}}');"></div>
           </div>
         </a>
 
