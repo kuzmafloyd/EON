@@ -19,4 +19,4 @@ images:
   - /images/jolyn/eonport-41470.jpg
 ---
 
-Jolyn Swimwear is designed for the active woman that wants swimwear to be functional, sexy & comfortable and thats exactly what we set out to achieve with this campaign shoot.&nbsp;
+Jolyn Swimwear is designed for the active woman that wants swimwear to be functional, sexy & comfortable and thats exactly what we set out to showcase with this campaign shoot.&nbsp;
