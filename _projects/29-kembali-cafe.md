@@ -1,20 +1,17 @@
 ---
 layout: project
-title: 'Kembali Cafe'
-description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+title: Kembali Cafe
+description: "The guys\_at Kembali are all about beautiful food in a gorgeous space. They wanted bright & airy photos that showcased the bright colors of the food & garden."
 number: 27
 style: vertical
 image1_path: /images/kembali_cafe/eonport-41832.jpg
 image2_path: /images/kembali_cafe/eonport--2.jpg
 image3_path: /images/kembali_cafe/eonport--3.jpg
 categories:
-  - hotel
-  - lifestyle
+  - Venue
+  - Food
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
   - /images/kembali_cafe/eonport-41832.jpg
   - /images/kembali_cafe/eonport--2.jpg
@@ -62,3 +59,5 @@ images:
   - /images/kembali_cafe/eonport-49930.jpg
   - /images/kembali_cafe/eonport-49931.jpg
 ---
+
+The guys at Kembali are all about beautiful food in a gorgeous space. They wanted bright & airy photos that showcased the bright colors of the food & garden.&nbsp;
