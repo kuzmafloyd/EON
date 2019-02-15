@@ -6,7 +6,7 @@ number: 22
 style: vertical
 image1_path: /images/goldust/eonport-45724.jpg
 image2_path: /images/goldust/eonport-40307.jpg
-image3_path: /images/goldust/eonport-40326.jpg
+image3_path: /images/goldust/eonport-45534.jpg
 categories:
   - lifestyle
   - Product
