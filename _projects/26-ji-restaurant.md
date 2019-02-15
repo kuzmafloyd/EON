@@ -1,10 +1,7 @@
 ---
 layout: project
-title: 'Ji Restaurant'
-description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+title: Ji Restaurant
+description: "Tugu Hotels\_wanted me to capture both their traditional balinese dance night held\_in the great hall\_& their geisha\_dinner at Ji, their main\_Restaurant, which is\_built around a 311-year old Japanese temple and is the jewel of the Bali Tugu Hotel."
 number: 26
 style: vertical
 image1_path: /images/ji_restaurant/eonport-48254.jpg
@@ -14,7 +11,7 @@ categories:
   - hotel
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
   - /images/ji_restaurant/eonport-48254.jpg
   - /images/ji_restaurant/eonport-40414.jpg
@@ -40,3 +37,5 @@ images:
   - /images/ji_restaurant/eonport-48290.jpg
   - /images/ji_restaurant/eonport-48327.jpg
 ---
+
+Tugu Hotels wanted me to capture both their traditional balinese dance night held in the great hall & their geisha dinner at Ji, their main Restaurant, which is built around a 311-year old Japanese temple and is the jewel of the Bali Tugu Hotel.&nbsp;
