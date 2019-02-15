@@ -1,9 +1,7 @@
 ---
 layout: project
-title: 'Joshua District'
-description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in Morocco.
+title: Joshua District
+description: "Joshua District is a group of villas west of Canggu built entirely from recycled shipping containers. Ive been\_lucky enough to be invited time and again to shoot this amazing series of villas. I have always been interested in the concept of shipping container houses & am constantly\_blown away by just how incredible these villas are, a true testament to the vision of\_the guys at\_Joshua District."
 number: 27
 style: vertical
 image1_path: /images/joshua_district/eonport-44207.jpg
@@ -13,7 +11,7 @@ categories:
   - hotel
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
   - /images/joshua_district/eonport-44207.jpg
   - /images/joshua_district/eonport-44050.jpg
@@ -35,3 +33,5 @@ images:
   - /images/joshua_district/eonport-46871.jpg
   - /images/joshua_district/eonport-46927.jpg
 ---
+
+Joshua District is a group of villas west of Canggu built entirely from recycled shipping containers. Ive been lucky enough to be invited time and again to shoot this amazing series of villas. I have always been interested in the concept of shipping container houses & am constantly blown away by just how incredible these villas are, a true testament to the vision of the guys at Joshua District. They wanted me to showcase the villa through curated lifestyle photos.&nbsp;
