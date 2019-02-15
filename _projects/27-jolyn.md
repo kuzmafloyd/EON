@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Jolyn Swimwear
-description: "Jolyn Swimwear is\_designed for the active woman that wants swimwear to be functional, sexy & comfortable and thats exactly what we set out to achieve with this campaign shoot."
+description: "Jolyn Swimwear is\_designed for the active woman that wants swimwear to be functional, sexy & comfortable and thats exactly what we set out to showcase\_with this campaign shoot."
 number: 27
 style: vertical
 image1_path: /images/jolyn/eonport-47790.jpg
