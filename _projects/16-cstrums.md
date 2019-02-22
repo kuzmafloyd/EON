@@ -12,6 +12,7 @@ image2_path: /images/cstrums/eonport-44509.jpg
 image3_path: /images/cstrums/eonport-44577.jpg
 categories:
   - lifestyle
+  - travel
 type: work
 location: 'Bali, Indonesia'
 images:

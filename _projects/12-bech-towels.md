@@ -13,7 +13,7 @@ image2_path: /images/bech_towel/eonport-44252.jpg
 image3_path: /images/bech_towel/eonport-44299.jpg
 categories:
   - lifestyle
-  - Product
+  - product
 type: work
 location: 'Marrakech, Morocco'
 images:

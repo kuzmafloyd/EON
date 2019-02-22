@@ -13,7 +13,7 @@ image1_path: /images/boudoir_rachel/eonport--2.jpg
 image2_path: /images/boudoir_rachel/eonport-40711.jpg
 image3_path: /images/boudoir_rachel/eonport-41054.jpg
 categories:
-  - Fashion
+  - fashion
 type: work
 location: 'Bali, Indonesia'
 images:

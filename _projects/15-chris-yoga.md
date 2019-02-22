@@ -13,7 +13,7 @@ image2_path: /images/chris_yoga/eonport-40494.jpg
 image3_path: /images/chris_yoga/eonport-40502.jpg
 categories:
   - lifestyle
-  - Yoga
+  - yoga
 type: work
 location: 'Canggu, Bali'
 images:

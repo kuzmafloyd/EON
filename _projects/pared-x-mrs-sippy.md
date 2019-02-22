@@ -14,8 +14,7 @@ image4_path:
 image5_path:
 categories:
   - lifestyle
-  - Fashion
-  - Venue
+  - fashion
 type: work
 location: 'Bali, Indonesia'
 images:

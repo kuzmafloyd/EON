@@ -18,26 +18,15 @@ contact: false
 </section>
 
 <section>
-  <h2 class="center"> Projects I've worked on </h2>
+  <h2 class="center"> Recent Projects </h2>
   <div class="portfolio-images left">
   <div id="new-portfolio">
-      {% for project in site.projects %}
-        <div class="portfolio-item {% for item in project.category %} {{item}} {% endfor %}">
-          <a href="{{project.url}}" class="grid">
-                <div class="col-3 horiz-padded ">
-                  <h3> No. {{project.number}} </h3>
-                  <h4 class="uppercase"> {{project.title}} </h4>
-                  {% for category in project.categories %} <span class="tag"> {{category}}</span> {% endfor %}
-                </div>
-                <div class="col-6 no-padding">
-                  <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
-                </div>
-                <div class="col-3 no-padding">
-                  <div class="sm-image" style="background-image:url('{{project.image2_path}}');"></div>
-                  <div class="sm-image" style="background-image:url('{{project.image3_path}}');"></div>
-                </div>
-          </a>
-        </div>
+      {% assign sorted_projects = site.projects | sort: 'number' | reverse %}
+
+      {% for project in sorted_projects limit:4 %}
+
+      {% include project-item.html %}
+
       {% endfor %}
   </div>
 </div> <!-- closes the portfolio-images div -->

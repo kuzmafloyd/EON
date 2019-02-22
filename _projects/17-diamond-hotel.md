@@ -12,7 +12,6 @@ image2_path: /images/diamond_hotel/eonport-42526.jpg
 image3_path: /images/diamond_hotel/eonport-42567.jpg
 categories:
   - hotel
-  - lifestyle
 type: work
 location: 'Marrakech, Morocco'
 images:

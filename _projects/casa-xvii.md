@@ -16,42 +16,25 @@ categories:
 type: work
 location: 'Seville, Spain'
 images:
-  - image_path: /images/casa-xvii/eonport-44847.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44818.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44807.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44837.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44861.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44863.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44868.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44881.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44892.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44935.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-44962.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-45008.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-45014.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-45049.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-45062.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-45336.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-45349.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
-  - image_path: /images/casa-xvii/eonport-45350.jpg
-    alt: 'Casa XVII, Boutique Apartment in Seville, Spain'
+  - /images/seville_villa/eonport-44847.jpg
+  - /images/seville_villa/eonport-44818.jpg
+  - /images/seville_villa/eonport-44807.jpg
+  - /images/seville_villa/eonport-44837.jpg
+  - /images/seville_villa/eonport-44861.jpg
+  - /images/seville_villa/eonport-44863.jpg
+  - /images/seville_villa/eonport-44868.jpg
+  - /images/seville_villa/eonport-44881.jpg
+  - /images/seville_villa/eonport-44892.jpg
+  - /images/seville_villa/eonport-44935.jpg
+  - /images/seville_villa/eonport-44962.jpg
+  - /images/seville_villa/eonport-45008.jpg
+  - /images/seville_villa/eonport-45014.jpg
+  - /images/seville_villa/eonport-45049.jpg
+  - /images/seville_villa/eonport-45062.jpg
+  - /images/seville_villa/eonport-45336.jpg
+  - /images/seville_villa/eonport-45349.jpg
+  - /images/seville_villa/eonport-45350.jpg
+
 intro_html: >-
   <p><iframe width="100%" height="360"
   src="https://www.youtube.com/embed/PFTNqbuD46w" frameborder="0"

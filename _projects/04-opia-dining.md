@@ -8,7 +8,7 @@ image2_path: /images/opia_dining/eonport-42782.jpg
 image3_path: /images/opia_dining/eonport-42908.jpg
 categories:
   - lifestyle
-  - Venue
+  - restaurant & cafe
 type: work
 location: 'Jimbaran, Bali'
 images:
