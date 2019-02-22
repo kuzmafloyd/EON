@@ -9,8 +9,6 @@ image2_path: /images/goldust/eonport-40307.jpg
 image3_path: /images/goldust/eonport-45534.jpg
 categories:
   - lifestyle
-  - Product
-  - Fashion
 type: work
 location: 'Bali, Indonesia'
 images:

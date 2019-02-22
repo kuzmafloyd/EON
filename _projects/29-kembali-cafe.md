@@ -2,14 +2,13 @@
 layout: project
 title: Kembali Cafe
 description: "The guys\_at Kembali are all about beautiful food in a gorgeous space. They wanted bright & airy photos that showcased the bright colors of the food & garden."
-number: 27
+number: 29
 style: vertical
 image1_path: /images/kembali_cafe/eonport-41832.jpg
 image2_path: /images/kembali_cafe/eonport--2.jpg
 image3_path: /images/kembali_cafe/eonport--3.jpg
 categories:
-  - Venue
-  - Food
+  - restaurant & cafe
 type: work
 location: 'Bali, Indonesia'
 images:

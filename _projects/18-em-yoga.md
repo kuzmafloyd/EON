@@ -2,16 +2,14 @@
 layout: project
 title: 'Em Maident Yoga'
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+  Em & I spent the day shooting around Bali, focusing on capturing the essence of her yoga practice. 
 number: 18
 style: vertical
 image1_path: /images/em_yoga/eonport-44206.jpg
 image2_path: /images/em_yoga/eonport--2.jpg
 image3_path: /images/em_yoga/eonport-.jpg
 categories:
-  - hotel
+  - yoga
   - lifestyle
 type: work
 location: 'Marrakech, Morocco'

@@ -11,8 +11,7 @@ image1_path: /images/gin_bar/eonport-45068.jpg
 image2_path: /images/gin_bar/eonport-.jpg
 image3_path: /images/gin_bar/eonport-44921.jpg
 categories:
-  - hotel
-  - lifestyle
+  - restaurant & cafe
 type: work
 location: 'Marrakech, Morocco'
 images:

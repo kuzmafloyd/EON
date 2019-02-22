@@ -11,7 +11,7 @@ image1_path: /images/feather_noise/eonport-2-2.jpg
 image2_path: /images/feather_noise/eonport-2.jpg
 image3_path: /images/feather_noise/eonport-42563.jpg
 categories:
-  - hotel
+  - fashion
   - lifestyle
 type: work
 location: 'Marrakech, Morocco'

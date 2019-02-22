@@ -2,7 +2,7 @@
 layout: project
 title: Joshua District
 description: "Joshua District is a group of villas west of Canggu built entirely from recycled shipping containers. Ive been\_lucky enough to be invited time and again to shoot this amazing series of villas. I have always been interested in the concept of shipping container houses & am constantly\_blown away by just how incredible these villas are, a true testament to the vision of\_the guys at\_Joshua District."
-number: 27
+number: 28
 style: vertical
 image1_path: /images/joshua_district/eonport-44207.jpg
 image2_path: /images/joshua_district/eonport-44050.jpg

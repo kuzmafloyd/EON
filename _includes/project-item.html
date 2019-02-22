@@ -4,10 +4,10 @@
           <a href="{{project.url}}">
             <h3> No. {{project.number}} </h3>
             <h4 class="uppercase"> {{project.title}} </h4>
-            <p> {{project.description}}</p>
+            <p> {{project.description | truncatewords:30 }}</p>
           </a>
           {% for category in project.categories %}
-          <a href="/project_archives/{{category}}" class="tag"> {{category}}</a> {% endfor %}
+          <a href="/project_archives/{{category | slugify}}" class="tag"> {{category}}</a> {% endfor %}
         </div>
         {% if project.style == 'vertical' %}
 

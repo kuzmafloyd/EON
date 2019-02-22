@@ -11,7 +11,6 @@ image1_path: /images/good_clean/eonport-2447.jpg
 image2_path: /images/good_clean/eonport-2461.jpg
 image3_path: /images/good_clean/eonport-2463.jpg
 categories:
-  - hotel
   - lifestyle
 type: work
 location: 'Marrakech, Morocco'

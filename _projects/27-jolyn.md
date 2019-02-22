@@ -9,7 +9,7 @@ image2_path: /images/jolyn/eonport-40889.jpg
 image3_path: /images/jolyn/eonport-41156.jpg
 categories:
   - lifestyle
-  - Fashion
+  - fashion
 type: work
 location: 'Melbourne, Australia'
 images:

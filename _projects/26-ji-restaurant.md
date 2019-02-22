@@ -8,8 +8,7 @@ image1_path: /images/ji_restaurant/eonport-48254.jpg
 image2_path: /images/ji_restaurant/eonport-40414.jpg
 image3_path: /images/ji_restaurant/eonport-40428.jpg
 categories:
-  - hotel
-  - lifestyle
+  - restaurant & cafe
 type: work
 location: 'Bali, Indonesia'
 images:

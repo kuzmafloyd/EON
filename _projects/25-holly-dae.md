@@ -11,10 +11,10 @@ image1_path: /images/hollydae/eonport-40952.jpg
 image2_path: /images/hollydae/eonport-41201.jpg
 image3_path: /images/hollydae/eonport-42714.jpg
 categories:
-  - hotel
+  - fashion
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
   - /images/hollydae/eonport-40952.jpg
   - /images/hollydae/eonport-41201.jpg

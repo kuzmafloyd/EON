@@ -8,7 +8,6 @@ image1_path: /images/hana_wedding/eonport-40020.jpg
 image2_path: /images/hana_wedding/eonport-40033.jpg
 image3_path: /images/hana_wedding/eonport-40039.jpg
 categories:
-  - hotel
   - lifestyle
 type: work
 location: 'Lombok, Indonesia'
