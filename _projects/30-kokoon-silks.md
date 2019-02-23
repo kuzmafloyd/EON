@@ -1,20 +1,17 @@
 ---
 layout: project
-title: 'Kembali Cafe'
+title: 'Kokoon Silks'
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
-number: 29
+  This was a really fun campaign to get creative playing with the luxury silk, creating an atmosphere of sophistication and elegance.
+number: 30
 style: vertical
 image1_path:  /images/kokoon_silks/eonport-46559.jpg
 image2_path:  /images/kokoon_silks/eonport-46595.jpg
 image3_path:  /images/kokoon_silks/eonport-46624.jpg
 categories:
-  - hotel
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
   - /images/kokoon_silks/eonport-46559.jpg
   - /images/kokoon_silks/eonport-46595.jpg
