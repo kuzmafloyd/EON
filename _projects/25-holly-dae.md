@@ -2,9 +2,7 @@
 layout: project
 title: 'Holly Dae Swimwear'
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+  For this luxury swimwear brand I created a completely new visual aesthetic, providing both regular photography and social media management.
 number: 25
 style: vertical
 image1_path: /images/hollydae/eonport-40952.jpg

@@ -1,0 +1,57 @@
+---
+layout: default
+comments: false
+contact: false
+gallery:
+  - image_path: /images/coast-tall2.jpg
+    name:
+  - image_path: /images/coast-tall2.jpg
+    name:
+  - image_path: /images/coast-tall2.jpg
+    name:
+  - image_path: /images/coast-tall2.jpg
+    name:
+  - image_path: /images/coast-tall2.jpg
+    name:
+  - image_path: /images/coast-tall2.jpg
+    name:
+---
+
+{% include header.html %}
+
+<section class="portfolio">
+    <div class="padded editable">
+      <h1 class="center">Hotel & Villa Photography</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+    <div class="grid">
+      {% for item in page.gallery %}
+      <div class="col-4">
+        <div class="bg-image landscape" style="background-image:url({{item.image_path}})"> </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="padded editable">
+      <p> Hotel & Villa photography packages in Bali start at $_____ USD for a 2 hour shoot with X images, and goes up from there. For an exact quote send an enquiry below. </p>
+      <p> Have a luxury villa or hotel elsewhere in the world? Reach out and let's discuss. </p>
+    </div>
+    <div class="padded center pgwdth">
+      <h2> Let's talk </h2>
+      {% include contact-form.html %}
+    </div>
+
+
+
+    <div class="portfolio-images left">
+      <h2 class="center"> Latest Hotel Projects </h2>
+      <div id="new-portfolio">
+          {% for project in site.projects reversed %}
+          {% if project.categories contains 'hotel' %}
+
+            {% include project-item.html %}
+
+          {% endif %}
+          {% endfor %}
+      </div>
+    </div> <!-- closes the portfolio-images div -->
+</section> <!-- closes the portfolio section -->

@@ -2,9 +2,7 @@
 layout: project
 title: 'Front Cafe'
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+  Front is a gorgeous little cafe in sleepy Pererenan, with a very cool vibe and amazing food. 
 number: 20
 style: vertical
 image1_path: /images/front_cafe/eonport-42345.jpg
@@ -14,7 +12,7 @@ categories:
   - restaurant & cafe
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Canggu, Bali'
 images:
   -  /images/front_cafe/eonport-42345.jpg
   -  /images/front_cafe/eonport-42426.jpg

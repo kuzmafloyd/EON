@@ -2,9 +2,7 @@
 layout: project
 title: 'Synkonah Gin Bar'
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+  Gin + Mediteranean food are probably two of my favourite things, combine that with an epic decor and shooting with Synkonah is just too much fun. 
 number: 21
 style: vertical
 image1_path: /images/gin_bar/eonport-45068.jpg
@@ -13,7 +11,7 @@ image3_path: /images/gin_bar/eonport-44921.jpg
 categories:
   - restaurant & cafe
 type: work
-location: 'Marrakech, Morocco'
+location: 'Canggu, Bali'
 images:
   -  /images/gin_bar/eonport-45068.jpg
   -  /images/gin_bar/eonport-.jpg
