@@ -40,18 +40,4 @@ gallery:
       {% include contact-form.html %}
     </div>
 
-
-
-    <div class="portfolio-images left">
-      <h2 class="center"> Latest Hotel Projects </h2>
-      <div id="new-portfolio">
-          {% for project in site.projects reversed %}
-          {% if project.categories contains 'hotel' %}
-
-            {% include project-item.html %}
-
-          {% endif %}
-          {% endfor %}
-      </div>
-    </div> <!-- closes the portfolio-images div -->
 </section> <!-- closes the portfolio section -->
