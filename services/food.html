@@ -26,7 +26,22 @@ gallery:
       <p>I am able to provide professional images that showcase your venue.&nbsp;</p>
     </div>
     <div class="grid">
-      {% for item in page.gallery %}
+      {% for item in page.gallery limit:3 %}
+      <div class="col-4">
+        <div class="bg-image" style="background-image:url({{item.image_path}})"> </div>
+      </div>
+      {% endfor %}
+      {% for item in page.gallery limit:3 offset:3 %}
+      <div class="col-4">
+        <div class="bg-image landscape" style="background-image:url({{item.image_path}})"> </div>
+      </div>
+      {% endfor %}
+      {% for item in page.gallery  limit:3 offset:6 %}
+      <div class="col-4">
+        <div class="bg-image" style="background-image:url({{item.image_path}})"> </div>
+      </div>
+      {% endfor %}
+      {% for item in page.gallery  limit:3 offset:9 %}
       <div class="col-4">
         <div class="bg-image landscape" style="background-image:url({{item.image_path}})"> </div>
       </div>
