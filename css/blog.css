@@ -200,6 +200,11 @@ li {
   padding: 0;
   padding-bottom: 60%;
 }
+.bg-image.tall {
+  min-height: 0;
+  padding: 0;
+  padding-bottom: 110%;
+}
 
 .bg-text {
   background-color: white;
