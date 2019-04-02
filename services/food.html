@@ -31,12 +31,12 @@ gallery:
 
 {% include header.html %}
 
-<section class="portfolio pgwdth">
-    <div class="padded editable">
+<section class="portfolio">
+    <div class="padded editable  pgwdth">
       <h1 class="center">Cafe &amp; restaurant<br />&nbsp;Photography</h1>
       <p>I've worked with restaurants and cafes around the world to capture not only the food, but also the atmosphere, venue and experience. For each venue, I work to tell a cohesive story as well as a consistent aesthetic though each image -- whether thats playful and fun, or sophisticated elegance.</p>
     </div>
-    <div class="grid">
+    <div class="grid  pgwdth">
       {% for item in page.gallery limit:3 %}
       <div class="col-4">
         <div class="bg-image tall" style="background-image:url({{item.image_path}})"> </div>
@@ -58,7 +58,7 @@ gallery:
       </div>
       {% endfor %}
     </div>
-    <div class="padded editable">
+    <div class="padded editable pgwdth">
       <p>I offer both one-off packages for venue, food and lifestyle photography as well as monthly content creation packages. I have packages starting from as little $250 USD to suit every budget and can customise packages to suit your needs.&nbsp;</p>
       <p>I also offer social media management, where I work with you to create a consistent aesthetic for your social media profiles and then handle everything from the styling, photography, editing, curating the feed, writing engaging hashtags, and strategic use of hashtags and location tags.</p>
       <p>Here are some examples of past work, as well as mockups of instagram feeds provided to past clients.&nbsp;</p>
