@@ -37,26 +37,6 @@ images:
   - /images/kembali_cafe/eonport-44533.jpg
   - /images/kembali_cafe/eonport-44573.jpg
   - /images/kembali_cafe/eonport-45035.jpg
-  - /images/kembali_cafe/eonport-49111.jpg
-  - /images/kembali_cafe/eonport-49140.jpg
-  - /images/kembali_cafe/eonport-49178.jpg
-  - /images/kembali_cafe/eonport-49279.jpg
-  - /images/kembali_cafe/eonport-49358-2.jpg
-  - /images/kembali_cafe/eonport-49358.jpg
-  - /images/kembali_cafe/eonport-49380.jpg
-  - /images/kembali_cafe/eonport-49412.jpg
-  - /images/kembali_cafe/eonport-49421.jpg
-  - /images/kembali_cafe/eonport-49423.jpg
-  - /images/kembali_cafe/eonport-49463.jpg
-  - /images/kembali_cafe/eonport-49478.jpg
-  - /images/kembali_cafe/eonport-49489.jpg
-  - /images/kembali_cafe/eonport-49667.jpg
-  - /images/kembali_cafe/eonport-49704.jpg
-  - /images/kembali_cafe/eonport-49758.jpg
-  - /images/kembali_cafe/eonport-49770.jpg
-  - /images/kembali_cafe/eonport-49836.jpg
-  - /images/kembali_cafe/eonport-49930.jpg
-  - /images/kembali_cafe/eonport-49931.jpg
 ---
 
 The guys at Kembali are all about beautiful food in a gorgeous space. They wanted bright & airy photos that showcased the bright colors of the food & garden.&nbsp;
