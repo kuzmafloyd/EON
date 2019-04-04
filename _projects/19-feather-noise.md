@@ -2,9 +2,7 @@
 layout: project
 title: 'Feather & Noise'
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+  I couldn't think of a better spot to shoot this iconic Australian brand than at at Wilson's Promontory, one of my favourite places in all of Australia where I have been camping every year since I was a kid.
 number: 19
 style: vertical
 image1_path: /images/feather_noise/eonport-2-2.jpg
@@ -14,7 +12,7 @@ categories:
   - fashion
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Wilsons Promontory, Australia'
 images:
   -  /images/feather_noise/eonport-2-2.jpg
   -  /images/feather_noise/eonport-2.jpg

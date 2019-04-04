@@ -15,7 +15,7 @@ categories:
   - lifestyle
   - product
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
   - /images/bech_towel/eonport-44309.jpg
   - /images/bech_towel/eonport-44252.jpg

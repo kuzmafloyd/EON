@@ -2,7 +2,7 @@
 layout: project
 title: 'Em Maident Yoga'
 description: >-
-  Em & I spent the day shooting around Bali, focusing on capturing the essence of her yoga practice. 
+  Em & I spent the day shooting around Bali, focusing on capturing the essence of her yoga practice.
 number: 18
 style: vertical
 image1_path: /images/em_yoga/eonport-44206.jpg
@@ -12,7 +12,7 @@ categories:
   - yoga
   - lifestyle
 type: work
-location: 'Marrakech, Morocco'
+location: 'Bali, Indonesia'
 images:
   -  /images/em_yoga/eonport-44206.jpg
   -  /images/em_yoga/eonport--2.jpg

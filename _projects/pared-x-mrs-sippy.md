@@ -18,34 +18,20 @@ categories:
 type: work
 location: 'Bali, Indonesia'
 images:
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44188.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44229.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44364.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44324.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44263.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44368.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44375.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44538.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44401.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44985.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44634.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM45427.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44678.jpg
-    alt: Pared x Mrs Sippy
-  - image_path: /images/pared-mrs-sippy/EONCLIENT_5DM44696.jpg
-    alt:
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44188.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44229.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44364.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44324.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44263.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44368.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44375.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44538.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44401.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44985.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44634.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM45427.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44678.jpg
+  - /images/pared-mrs-sippy/EONCLIENT_5DM44696.jpg
 ---
 
 This weekend I had chance to shoot a collaboration between Pared Eyewear and Mrs Sippy Pool Bar in Bali, Indonesia. We went for a tropical-luxe vibe with models [@hellotinamay](http://www.instagram.com/hellotinamay){: target="_blank"} and [@tiffany\_janes](http://www.instagram.com/tiffany_janes){: target="_blank"}. Showcasing both the sunglasses as a product & the venue.

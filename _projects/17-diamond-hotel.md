@@ -2,9 +2,7 @@
 layout: project
 title: 'Diamond Siesta Hotel'
 description: >-
-  I had an opportunity to work with this stunning traditional hotel in
-  Marrakech. Honestly, probably one of the most stunning places we visited in
-  Morocco.
+  This beautiful hotel in downtown Hanoi invited us to come and stay, shooting their space and promoting them on social media. 
 number: 17
 style: vertical
 image1_path: /images/diamond_hotel/eonport-42513.jpg
@@ -13,7 +11,7 @@ image3_path: /images/diamond_hotel/eonport-42567.jpg
 categories:
   - hotel
 type: work
-location: 'Marrakech, Morocco'
+location: 'Hanoi, Vietnam'
 images:
   -  /images/diamond_hotel/eonport-42513.jpg
   -  /images/diamond_hotel/eonport-42526.jpg

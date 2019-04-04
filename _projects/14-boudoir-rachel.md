@@ -2,7 +2,7 @@
 layout: project
 title: Boudoir Rachel
 description: >-
-  A shoot just for the love of shooting, my good friend @rachel_bowler_ & I
+  A shoot just for the love of shooting, my good friend @rachelbowler_ & I
   hunted for a unique location to showcase the most beautiful hand made dresses.
   Each dress is covered in thousands of individual, hand sewn sequence, making
   for a really special & unique dress to shoot. We wanted to pair that

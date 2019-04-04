@@ -2,19 +2,70 @@
 layout: default
 title: Work with me | Eyes of a Nomad
 contact: false
+services:
+  - name: Bali Adventure
+    image_path: /images/coast-tall2.jpg
+    link: #
+  - name: Cafe & Restaurant
+    image_path: /images/coast-tall2.jpg
+    link: #
+  - name: Fashion
+    image_path: /images/coast-tall2.jpg
+    link: #
+  - name: Product & Lifestyle
+    image_path: /images/coast-tall2.jpg
+    link: #
+  - name: Hotel & Villa
+    image_path: /images/coast-tall2.jpg
+    link: #
+  - name: Videography
+    image_path: /images/coast-tall2.jpg
+    link: #
 ---
 
 {% include header.html %}
 
-<section class="grid">
-  <div class="col-6_sm-12 horiz-padded" id="contact">
-    <h1> Work with me </h1>
-    <p> I'm always interested in collaborations, partnerships, and opportunities whether travel or photography/videography related. I've got all my own professional equipment, including a Canon 5D MkIV with a range of high-end professional lenses, a GoPro 4 Hero Black with 3-axis electronic stabilizer and Mavic Pro drone, among other things. Photography is my passion, and I do it because I love it! As a result, I take enormous pride in my work, so let me know what you are looking for, and hopefully we can make some incredible photos together!</p>
-    {% include contact-form.html %}
+<section class="padded grid-center">
+
+  <div class="col-8 center">
+      <h1> Work with me </h1>
   </div>
-  <div class="col-6_sm-12">
-    <img src="/images/about/cali.jpg">
+  <div class="col-5">
+      <img src="/images/emile-profile.png">
   </div>
+  <div class="col-5">
+      <h2 class="editable">I'm Emilio, aka Eyes of a Nomad </h2>
+
+      <p> I'm a content creator from Melbourne Australia currently living the dream in Bali, Indonesia. I love helping brands capture the essence of their personality and really telling a story through my work. </p>
+      <p> I split my time between travelling the world, doing photography & videography for brands, and teaching the next generation of content creators through my school <a href="http://www.instituteofcode.com"> the Institute of Code.</a></p>
+
+      <p> Over the past few years I've built a community of over 25,000 people on Instagram who love it when I share my favourite destinations, experiences, and brands. It's an audience of global travellers, aspiring photographers and creatives who look to me for inspiration for where and how to travel, as well as the latest photography tools. </p>
+  </div>
+  <div class="col-8">
+      <p> I've worked with local and international fashion & lifestyle brands, luxury villas and hotels, cafes and restaurants, tour companies and more. My work has been featured by BBC, NYtimes, CNN, Discovery and is regularly re-shared by major instagram accounts like @artofvisuals and @moodygrams. </p>
+
+      <h2 class="editable">Services I offer </h2>
+      <p> I can offer a full suite of photography and videography services, including the creative direction, location scouting, organising models / HMU, shooting, and professionally editing and re-touching. </p>
+      <p> For the right brands, I'm also available for influencer marketing and promotion to my audience of over 25,000 people on instagram. </p>
+      <p> I am based in Bali but regularly work with international brands who send me their content to shoot in Bali or on destination campaigns in exotic locations.  I'm also available to travel for the right projects, including press trips and tourism campaigns. </p>
+      <p> For a limited number of clients, I'm also able to offer combined content creation + social media management packages </p>
+
+    </div>
+
+      <!--<div class="col-12 grid">-->
+      <!--  {% for item in page.services %}-->
+      <!--  <a class="services-links col-4" href="{{item.link}}">-->
+      <!--    <div class="bg-image overlay" style="background-image:url({{item.image_path}})">-->
+      <!--      <h2> {{item.name}} </h2>-->
+      <!--    </div>-->
+      <!--  </a>-->
+      <!--  {% endfor %}-->
+      <!--</div> <!-- close grid -->
+
+    <div class="col-8 padded">
+      <h2 class="editable center">Let's Work Together </h2>
+      {% include contact-form.html %}
+    </div>
 </section>
 
 <section>
