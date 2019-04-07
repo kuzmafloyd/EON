@@ -3,37 +3,74 @@ layout: default
 comments: false
 contact: false
 gallery:
-  - image_path: /images/coast-tall2.jpg
+  - image_path: /images/services/hotel/eyesofanomad-hotel-6.jpg
     name:
-  - image_path: /images/coast-tall2.jpg
+  - image_path: /images/services/hotel/eyesofanomad-hotel-11.jpg
     name:
-  - image_path: /images/coast-tall2.jpg
+  - image_path: /images/services/hotel/eyesofanomad-hotel-8.jpg
     name:
-  - image_path: /images/coast-tall2.jpg
+  - image_path: /images/services/hotel/eyesofanomad-hotel-5.jpg
     name:
-  - image_path: /images/coast-tall2.jpg
+  - image_path: /images/services/hotel/eyesofanomad-hotel-9.jpg
     name:
-  - image_path: /images/coast-tall2.jpg
+  - image_path: /images/services/hotel/eyesofanomad-hotel-4.jpg
+    name:
+  - image_path: /images/services/hotel/eyesofanomad-hotel-7.jpg
+    name:
+  - image_path: /images/services/hotel/eyesofanomad-hotel-10.jpg
+    name:
+  - image_path: /images/services/hotel/eyesofanomad-hotel-2.jpg
+    name:
+  - image_path: /images/services/hotel/eyesofanomad-hotel-3.jpg
+    name:
+  - image_path: /images/services/hotel/eyesofanomad-hotel-1.jpg
+    name:
+  - image_path: /images/services/hotel/eyesofanomad-hotel-12.jpg
     name:
 ---
 
 {% include header.html %}
 
 <section class="portfolio">
-    <div class="padded editable">
-      <h1 class="center">Hotel & Villa Photography</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <div class="padded editable  pgwdth">
+      <h1 class="center"> Hotel & Villa Photography</h1>
+      <p>I've worked with luxury hotels and villas around the world to capture the beauty and key features of the venue, both though location and lifestyle photos. For each venue, I work to tell a cohesive story as well as a consistent aesthetic through each image -- whether thats bright and family-friendly, or sophisticated luxury.</p>
+      <p> I offer photography and/or videogrpahy using a Canon 5D MkIV with professional stabilisers and lenses and a Mavic 2 Pro Drone. </p>
     </div>
-    <div class="grid">
-      {% for item in page.gallery %}
+    <div class="grid  pgwdth">
+      {% for item in page.gallery limit:3 %}
+      <div class="col-4">
+        <div class="bg-image tall" style="background-image:url({{item.image_path}})"> </div>
+      </div>
+      {% endfor %}
+      {% for item in page.gallery limit:3 offset:3 %}
+      <div class="col-4">
+        <div class="bg-image landscape" style="background-image:url({{item.image_path}})"> </div>
+      </div>
+      {% endfor %}
+      {% for item in page.gallery  limit:3 offset:6 %}
+      <div class="col-4">
+        <div class="bg-image tall" style="background-image:url({{item.image_path}})"> </div>
+      </div>
+      {% endfor %}
+      {% for item in page.gallery  limit:3 offset:9 %}
       <div class="col-4">
         <div class="bg-image landscape" style="background-image:url({{item.image_path}})"> </div>
       </div>
       {% endfor %}
     </div>
-    <div class="padded editable">
-      <p> Hotel & Villa photography packages in Bali start at $_____ USD for a 2 hour shoot with X images, and goes up from there. For an exact quote send an enquiry below. </p>
-      <p> Have a luxury villa or hotel elsewhere in the world? Reach out and let's discuss. </p>
+    <div class="padded editable pgwdth">
+      <p>I offer both one-off packages for venue and lifestyle photography & videography as well as monthly content creation packages. I have packages starting from as little $250 USD to suit every budget and can customise packages to suit your needs.&nbsp;</p>
+      <p>I also offer social media management, where I work with you to create a consistent aesthetic for your social media profiles and then handle everything from the styling, photography, editing, curating the feed, writing engaging hashtags, and strategic use of hashtags and location tags.</p>
+      <p>Here are some examples of past work, as well as mockups of instagram feeds that I created using photos I captured for the venues.&nbsp;</p>
+
+    </div>
+    <div class="padded grid">
+        <div class="col-6_sm-12"><img src="/images/services/hotel/riad.png"></div>
+        <div class="col-6_sm-12"><img src="/images/services/hotel/vale.png"></div>
+        <div class="col-4_sm-12"><img src="/images/services/hotel/kozue.png"></div>
+        <div class="col-4_sm-12"><img src="/images/services/hotel/nest.png"></div>
+        <div class="col-4_sm-12"><img src="/images/services/hotel/uluwatusurfvillas.png"></div>
     </div>
     <div class="padded center pgwdth">
       <h2> Let's talk </h2>
