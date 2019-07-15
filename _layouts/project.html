@@ -6,15 +6,32 @@ layout: default
 
 <section class="grid capped-width mob-reverse">
 
-    <div class="col-8_sm-12">
+    <div class="col-8_sm-12 right">
 
-      <div>  {{page.intro_html}} </div>
+      <span class="gallery-button active" id="gallery-view">
+        <img src="/images/icons/gallery-view.png">
+      </span>
+      <span class="gallery-button" id="single-view">
+          <img src="/images/icons/single-view.png">
+      </span>
 
-      {% for image in page.images %}
+      {% if page.video == true %}
 
-      <img src='{{image}}'>
+      <span class="gallery-button" id="video-button">
+          <img src="/images/icons/video.png">
+      </span>
 
-      {% endfor %}
+      <div id="video-popup">  {{page.intro_html}} </div>
+
+      {% endif %}
+
+      <div class="gallery gallery-view" id="gallery-container">
+
+        {% for image in page.images %}
+        <img src='{{image}}'>
+        {% endfor %}
+
+      </div>
     </div>
     <div class="col-4_sm-12 horiz-padded">
       <h3> No. {{page.number}} </h3>
@@ -26,5 +43,6 @@ layout: default
       <a href="/project_archives/{{category | slugify }}" class="tag"> {{category}}</a> {% endfor %}
 
       {{content}}
+
     </div>
 </section>

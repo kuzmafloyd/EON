@@ -34,6 +34,7 @@ images:
   - /images/gandys/EONCLIENT_5DB_2371-2.jpg
   - /images/gandys/EONCLIENT_5DB_2388-2.jpg
   - /images/gandys/EONCLIENT_5DB_2398.jpg
+video: true
 intro_html: >-
   <p><iframe width="100%" height="315"
   src="https://www.youtube.com/embed/oLvbM24ONS0" frameborder="0"

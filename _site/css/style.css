@@ -35,6 +35,7 @@ h1, h2, h3, .nav-bar {
 
 img {
   max-width: 100%;
+  display: block;
 }
 
 .dropdown-content {
@@ -224,6 +225,38 @@ ul#filter li {
 .portfolio-images {
     margin-top: 10vh;
 }
+
+.gallery-view {
+  column-count: 3;
+  column-gap: 0.5rem;
+  transition: all;
+}
+
+.gallery-button {
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+    opacity: 0.3;
+    cursor: pointer;
+}
+.gallery-button img {
+  max-width:1.5rem;
+  display:inline-block;
+}
+
+.gallery-button:hover,
+.gallery-button.active {
+  opacity:1;
+}
+
+.gallery img {
+  margin-bottom: 0.5rem;
+}
+
+#video-popup {
+  display: none;
+}
+
 /* ----- About ----- */
 
 .about {
