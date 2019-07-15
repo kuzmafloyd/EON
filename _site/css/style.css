@@ -249,8 +249,21 @@ ul#filter li {
   opacity:1;
 }
 
-.gallery img {
+.lightbox-gallery img {
   margin-bottom: 0.5rem;
+}
+
+ /* lightbox gallery background */
+.mfp-bg  {
+  background: rgb(60,60,65);
+  opacity: 0.9;
+}
+
+.mfp-arrow-left:before {
+  border-right: none;
+}
+.mfp-arrow-right:before {
+  border-left: none;
 }
 
 #video-popup {
