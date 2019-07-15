@@ -5,20 +5,20 @@ contact: false
 services:
   - name: Bali Adventure
     image_path: /images/coast-tall2.jpg
-    link: #
+    link: /services//adventure
   - name: Cafe & Restaurant
     image_path: /images/coast-tall2.jpg
-    link: #
+    link: /services/food
   - name: Fashion
+    image_path: /images/coast-tall2.jpg
+    link: /services/fashion
+  - name: Hotel & Villa
+    image_path: /images/coast-tall2.jpg
+    link: /services/hotel
+  - name: Videography
     image_path: /images/coast-tall2.jpg
     link: #
   - name: Product & Lifestyle
-    image_path: /images/coast-tall2.jpg
-    link: #
-  - name: Hotel & Villa
-    image_path: /images/coast-tall2.jpg
-    link: #
-  - name: Videography
     image_path: /images/coast-tall2.jpg
     link: #
 ---
@@ -48,19 +48,19 @@ services:
       <p> I can offer a full suite of photography and videography services, including the creative direction, location scouting, organising models / HMU, shooting, and professionally editing and re-touching. </p>
       <p> For the right brands, I'm also available for influencer marketing and promotion to my audience of over 25,000 people on instagram. </p>
       <p> I am based in Bali but regularly work with international brands who send me their content to shoot in Bali or on destination campaigns in exotic locations.  I'm also available to travel for the right projects, including press trips and tourism campaigns. </p>
-      <p> For a limited number of clients, I'm also able to offer combined content creation + social media management packages </p>
+      <p> For a limited number of clients, I'm also able to offer combined content creation + social media management packages. For more details, click on the relevant link below or send through an enquiry for more details. </p>
 
     </div>
 
-      <!--<div class="col-12 grid">-->
-      <!--  {% for item in page.services %}-->
-      <!--  <a class="services-links col-4" href="{{item.link}}">-->
-      <!--    <div class="bg-image overlay" style="background-image:url({{item.image_path}})">-->
-      <!--      <h2> {{item.name}} </h2>-->
-      <!--    </div>-->
-      <!--  </a>-->
-      <!--  {% endfor %}-->
-      <!--</div> <!-- close grid -->
+      <div class="col-12 grid">
+        {% for item in page.services limit:4 %}
+        <a class="services-links col-3" href="{{item.link}}">
+          <div class="bg-image overlay" style="background-image:url({{item.image_path}})">
+            <h2> {{item.name}} </h2>
+          </div>
+        </a>
+        {% endfor %}
+      </div> <!-- close grid 
 
     <div class="col-8 padded">
       <h2 class="editable center">Let's Work Together </h2>
