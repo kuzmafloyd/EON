@@ -2,7 +2,7 @@
 layout: project
 title: A Gleam in Her Eyes
 description: >-
-  A Gleam in the Night was an editorial campaign shoot which involved everything from location scouting through to the finished images. This was part of a large project where we shot multiple campaigns, ecommerce shoots and social media content for luxury fashion brand Uma & Leopold.
+  A Gleam in her Eyes was an editorial campaign shoot which involved everything from location scouting through to the finished images. This was part of a large project where we shot multiple campaigns, ecommerce shoots and social media content for luxury fashion brand Uma & Leopold.
 number: 32
 style: horizontal
 image1_path: /images/uma/uma-leopold-campaign-1.jpg
@@ -31,4 +31,4 @@ intro_html: >-
   <p><iframe width="100%" height="664" src="https://www.youtube.com/embed/ZFb177wtTEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 ---
 
-A Gleam in the Night was an editorial campaign shoot which involved everything from location scouting through to the finished images. This was part of a large project where we shot multiple campaigns, ecommerce shoots and social media content for luxury fashion brand Uma & Leopold.
+A Gleam in her Eyes was an editorial campaign shoot which involved everything from location scouting through to the finished images. This was part of a large project where we shot multiple campaigns, ecommerce shoots and social media content for luxury fashion brand Uma & Leopold.
