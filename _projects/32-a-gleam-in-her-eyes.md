@@ -5,9 +5,9 @@ description: >-
   A Gleam in her Eyes was an editorial campaign shoot which involved everything from location scouting through to the finished images. This was part of a large project where we shot multiple campaigns, ecommerce shoots and social media content for luxury fashion brand Uma & Leopold.
 number: 32
 style: horizontal
-image1_path: /images/uma/uma-leopold-campaign-1.jpg
-image2_path: /images/uma/uma-leopold-campaign-2.jpg
-image3_path: /images/uma/uma-leopold-campaign-14.jpg
+image1_path: /images/uma/uma-leopold-campaign-17.jpg
+image2_path: /images/uma/uma-leopold-campaign-20.jpg
+image3_path: /images/uma/uma-leopold-campaign-21.jpg
 categories:
   - fashion
 type: work

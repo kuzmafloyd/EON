@@ -4,10 +4,10 @@ title: Uma & Leopold Beach Retreat
 description: >-
   This campaign shoot aimed to capture the essense of summer at a beachside retreat. This was part of a large project where we shot multiple campaigns, ecommerce shoots and social media content for luxury fashion brand Uma & Leopold.
 number: 33
-style: horizontal
-image1_path: /images/uma/uma-leopold-campaign-3.jpg
-image2_path: /images/uma/uma-leopold-campaign-4.jpg
-image3_path: /images/uma/uma-leopold-campaign-5.jpg
+style: vertical
+image1_path: /images/uma/uma-leopold-campaign-9.jpg
+image2_path: /images/uma/uma-leopold-campaign-6.jpg
+image3_path: /images/uma/uma-leopold-campaign-15.jpg
 categories:
   - fashion
 type: work

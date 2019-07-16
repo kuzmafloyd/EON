@@ -6,9 +6,9 @@ description: >-
   lava fields and shoot this adventurous campaign for Gandys.
 number: 31
 style: vertical
-image1_path: /images/gandys/EONCLIENT_5DB_2103.jpg
-image2_path: /images/gandys/EONCLIENT_5DB_2163-2.jpg
-image3_path: /images/gandys/EONCLIENT_5DB_2164-2.jpg
+image1_path: /images/gandys/EONCLIENT_5DB_2279-2.jpg
+image2_path: /images/gandys/EONCLIENT_5DB_2215-2.jpg
+image3_path: /images/gandys/EONCLIENT_5DB_2191-2.jpg
 categories:
   - lifestyle
   - fashion
