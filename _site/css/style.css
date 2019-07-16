@@ -389,8 +389,12 @@ nav.social a img {
   .mob-reverse {
     flex-direction: row-reverse;
   }
-
+  .mob-first {
+    order: -1;
   }
+  
+
+}
 
 /* -------- Phone Styles -------- */
 
