@@ -2,7 +2,7 @@
 layout: project
 title: 'Synkonah Gin Bar'
 description: >-
-  Gin + Mediteranean food are probably two of my favourite things, combine that with an epic decor and shooting with Synkonah is just too much fun. 
+  Gin + Mediteranean food are probably two of my favourite things, combine that with an epic decor and shooting with Synkonah is just too much fun.
 number: 21
 style: vertical
 image1_path: /images/gin_bar/eonport-45068.jpg
@@ -10,6 +10,7 @@ image2_path: /images/gin_bar/eonport-.jpg
 image3_path: /images/gin_bar/eonport-44921.jpg
 categories:
   - restaurant & cafe
+  - food
 type: work
 location: 'Canggu, Bali'
 images:

@@ -9,6 +9,7 @@ image2_path: /images/kembali_cafe/eonport--2.jpg
 image3_path: /images/kembali_cafe/eonport--3.jpg
 categories:
   - restaurant & cafe
+  - food
 type: work
 location: 'Bali, Indonesia'
 images:

@@ -2,7 +2,7 @@
 layout: project
 title: 'Diamond Siesta Hotel'
 description: >-
-  This beautiful hotel in downtown Hanoi invited us to come and stay, shooting their space and promoting them on social media. 
+  This beautiful hotel in downtown Hanoi invited us to come and stay, shooting their space and promoting them on social media.
 number: 17
 style: vertical
 image1_path: /images/diamond_hotel/eonport-42513.jpg
@@ -10,6 +10,7 @@ image2_path: /images/diamond_hotel/eonport-42526.jpg
 image3_path: /images/diamond_hotel/eonport-42567.jpg
 categories:
   - hotel
+  - food
 type: work
 location: 'Hanoi, Vietnam'
 images:

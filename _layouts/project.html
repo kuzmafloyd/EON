@@ -20,10 +20,10 @@ layout: default
             <img src="/images/icons/video.png">
         </span>
 
-        <div id="video-popup"> {{page.intro_html}} </div>
+        <div id="video-popup" class="embed-container"> {{page.intro_html}} </div>
       {% endif %}
 
-      <div class="lightbox-gallery gallery-view" id="gallery-container">
+      <div class="lightbox-gallery single-view" id="gallery-container">
 
         {% for image in page.images %}
         <a href="{{image}}">

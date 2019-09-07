@@ -101,6 +101,24 @@ p a {
   border-bottom: 1px solid rgb(240,240,240);
 }
 
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* ----- Masonry ----- */
 
 .grid-item {
@@ -227,6 +245,10 @@ ul#filter li {
 }
 
 
+.video-portfolio .embed-container {
+  margin-bottom: 2rem;
+}
+
 /* Portfolio page */
 
 .portfolio-images {
@@ -282,6 +304,7 @@ ul#filter li {
 
 #video-popup {
   display: none;
+  margin-bottom: 0.5rem;
 }
 
 /* ----- About ----- */

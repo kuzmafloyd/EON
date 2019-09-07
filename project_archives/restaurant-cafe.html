@@ -24,9 +24,9 @@ categories:
     <div class="portfolio-images left">
       <div id="new-portfolio">
 \          {% for project in site.projects reversed %}
-          {% if project.categories contains 'restaurant & cafe' %}
+          {% if project.categories contains 'restaurant & cafe' or 'food' %}
 
-            {% include project-item.html %}
+          {% include project-item.html %}
 
           {% endif %}
           {% endfor %}

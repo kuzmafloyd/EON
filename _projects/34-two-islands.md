@@ -11,7 +11,7 @@ style: vertical
 categories:
   - product
   - lifestyle
-  - restaurant & cafe
+  - food
 type: work
 location: 'Bali, Indonesia'
 images:
