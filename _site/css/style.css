@@ -85,6 +85,12 @@ section {
   font-size: 1.2rem;
 }
 
+img.float-left {
+    max-width: 50%;
+    float: left;
+    margin-right: 2rem;
+    margin-bottom: 0.5rem;
+}
 
 p a {
   /* Links inside paragraphs */
@@ -392,7 +398,13 @@ nav.social a img {
   .mob-first {
     order: -1;
   }
-  
+
+  img.float-left {
+    float: none;
+    width: 100%;
+    margin:auto;
+  }
+
 
 }
 

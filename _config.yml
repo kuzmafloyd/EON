@@ -5,3 +5,11 @@ collections:
     output: true
 
 url: http://www.eyesofanomad.com
+
+project-categories:
+  - yoga
+  - fashion
+  - lifestyle
+  - restaurant & cafe
+  - hotel
+  - product

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Lifestyle Projects | Eyes of a Nomad
+title: Product Projects | Eyes of a Nomad
 categories:
- - lifestyle
+ - product
 ---
 
 {% include header.html %}
 
 <section class="portfolio center">
-    <h2>Lifestyle Portfolio</h2>
+    <h2>Product Portfolio</h2>
 
     <div class="portfolio-images left">
       <div id="new-portfolio">
-        {% for project in site.projects reversed %}
-        {% if project.categories contains 'lifestyle' %}
+          {% for project in site.projects reversed %}
+          {% if project.categories contains 'product' %}
 
-          {% include project-item.html %}
+            {% include project-item.html %}
 
-        {% endif %}
-        {% endfor %}
+          {% endif %}
+          {% endfor %}
       </div>
     </div> <!-- closes the portfolio-images div -->
 </section> <!-- closes the portfolio section -->

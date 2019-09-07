@@ -9,22 +9,10 @@ categories:
 
 <section class="portfolio center">
     <h2>Yoga Portfolio</h2>
-    <h3>A collection of images.</h3>
-
-    <!-- <div class="portfolio-buttons">
-      <ul id="portfolio-filter">
-        <li class="current"><a class="button" href="">All</a></li>
-        <li><a class="button" href="">Landscape</a></li>
-        <li><a class="button" href="">Lifestyle</a></li>
-        <li><a class="button" href="">Events</a></li>
-        <li><a class="button" href="">Product</a></li>
-      </ul>
-    </div> --->
-    <!-- closes portfolio-buttons -->
 
     <div class="portfolio-images left">
       <div id="new-portfolio">
-\          {% for project in site.projects reversed %}
+          {% for project in site.projects reversed %}
           {% if project.categories contains 'yoga' %}
 
             {% include project-item.html %}

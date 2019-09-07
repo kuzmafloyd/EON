@@ -3,45 +3,30 @@ layout: default
 title: Work with me | Eyes of a Nomad
 contact: false
 services:
-  - name: Bali Adventure
-    image_path: /images/coast-tall2.jpg
-    link: /services//adventure
   - name: Cafe & Restaurant
-    image_path: /images/coast-tall2.jpg
+    image_path: /images/services/food/eonport-41795.jpg
     link: /services/food
   - name: Fashion
-    image_path: /images/coast-tall2.jpg
+    image_path: /images/uma/uma-leopold-campaign-17.jpg
     link: /services/fashion
   - name: Hotel & Villa
-    image_path: /images/coast-tall2.jpg
+    image_path: /images/opia_dining/eonport-42729.jpg
     link: /services/hotel
-  - name: Videography
-    image_path: /images/coast-tall2.jpg
-    link: #
-  - name: Product & Lifestyle
-    image_path: /images/coast-tall2.jpg
-    link: #
 ---
 
 {% include header.html %}
 
 <section class="padded grid-center">
 
-  <div class="col-8 center">
-      <h1> Work with me </h1>
-  </div>
-  <div class="col-5">
-      <img src="/images/emile-profile.png">
-  </div>
-  <div class="col-5">
+  <div class="col-8">
+    <h1 class="center padded-1"> Work with me </h1>
+    <img src="/images/emile-profile.png" class="float-left">
       <h2 class="editable">I'm Emilio, aka Eyes of a Nomad </h2>
 
       <p> I'm a content creator from Melbourne Australia currently living the dream in Bali, Indonesia. I love helping brands capture the essence of their personality and really telling a story through my work. </p>
       <p> I split my time between travelling the world, doing photography & videography for brands, and teaching the next generation of content creators through my school <a href="http://www.instituteofcode.com"> the Institute of Code.</a></p>
 
       <p> Over the past few years I've built a community of over 25,000 people on Instagram who love it when I share my favourite destinations, experiences, and brands. It's an audience of global travellers, aspiring photographers and creatives who look to me for inspiration for where and how to travel, as well as the latest photography tools. </p>
-  </div>
-  <div class="col-8">
       <p> I've worked with local and international fashion & lifestyle brands, luxury villas and hotels, cafes and restaurants, tour companies and more. My work has been featured by BBC, NYtimes, CNN, Discovery and is regularly re-shared by major instagram accounts like @artofvisuals and @moodygrams. </p>
 
       <h2 class="editable">Services I offer </h2>
@@ -52,7 +37,7 @@ services:
 
     </div>
 
-      <div class="col-12 grid">
+      <div class="col-12 grid-center">
         {% for item in page.services limit:4 %}
         <a class="services-links col-3" href="{{item.link}}">
           <div class="bg-image overlay" style="background-image:url({{item.image_path}})">
@@ -60,7 +45,7 @@ services:
           </div>
         </a>
         {% endfor %}
-      </div> <!-- close grid 
+      </div> <!-- close grid
 
     <div class="col-8 padded">
       <h2 class="editable center">Let's Work Together </h2>
