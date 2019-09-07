@@ -12,17 +12,15 @@ categories:
 type: work
 location: 'Jimbaran, Bali'
 images:
+  - /images/opia_dining/eonport-43394.jpg
   - /images/opia_dining/eonport-42729.jpg
   - /images/opia_dining/eonport-42782.jpg
-  - /images/opia_dining/eonport-42898.jpg
+  - /images/opia_dining/eonport-42899.jpg
   - /images/opia_dining/eonport-42908.jpg
+  - /images/opia_dining/eonport-42928.jpg
   - /images/opia_dining/eonport-43005.jpg
-  - /images/opia_dining/eonport-43178.jpg
-  - /images/opia_dining/eonport-43335.jpg
-  - /images/opia_dining/eonport-43394.jpg
-  - /images/opia_dining/eonport-43510.jpg
-  - /images/opia_dining/eonport-43541.jpg
-  - /images/opia_dining/eonport-43595.jpg
+  - /images/opia_dining/eonport-43217.jpg
+  - /images/two_islands/eonport-43335.jpg
 ---
 
 Opia Bali Restaurant, is a stunning cliff-top restaurant and wedding venue in Jimbaran with some of the most beautiful facilities/gardens in the area. I was asked to capture some lifestyle photography, showcasing the venue & its uniqueness as a wedding venue.
