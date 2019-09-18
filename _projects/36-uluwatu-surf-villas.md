@@ -3,7 +3,7 @@ layout: project
 title: Uluwatu Surf Villas
 description: >-
   One of my favourite places to stay on the island, it was such a pleasure having an opportunity to capture the space through venue and food photography.
-number: 34
+number: 36
 image1_path: /images/uluwatu_surf_villas/eonport-.jpg
 image2_path: /images/uluwatu_surf_villas/eonport-40108.jpg
 image3_path: /images/uluwatu_surf_villas/eonport-42491.jpg
@@ -55,4 +55,4 @@ images:
   - /images/uluwatu_surf_villas/eonport-49937.jpg
 ---
 
-  Two Islands approached me looking to capture some fresh content for their website and social media, going beyond product photography for a more authentic experiential shoot.
+One of my favourite places to stay on the island, it was such a pleasure having an opportunity to capture the space through venue and food photography.
