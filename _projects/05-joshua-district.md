@@ -32,6 +32,7 @@ images:
   - /images/joshua_district/eonport-46821.jpg
   - /images/joshua_district/eonport-46871.jpg
   - /images/joshua_district/eonport-46927.jpg
-    ---
+
+---
 
 The folks at Joshua District invited me to stay at two of their epic shipping container villas on the coast west of Canggu to capture some lifestyle photography for them. Ive always loved the concept of reusing old shipping containers as homes & I did not expect to find them almost unrecognisable - a true reflection of how good the guys at Joshua District are at design!&nbsp;
