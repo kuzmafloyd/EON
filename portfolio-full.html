@@ -17,7 +17,7 @@ title: Extended Portfolio | Eyes of a Nomad
       <div id="new-portfolio">
         {% assign sorted_projects = site.projects | sort: 'number' | reverse %}
 
-          {% for project in sorted_projects limit:15 %}
+          {% for project in sorted_projects %}
 
           <p>
           <a href="{{project.url}}"> {{project.number}} | {{project.title}} </a>
