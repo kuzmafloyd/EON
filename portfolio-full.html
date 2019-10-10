@@ -19,8 +19,9 @@ title: Extended Portfolio | Eyes of a Nomad
 
           {% for project in sorted_projects limit:15 %}
 
-          <a href="{{project.url}}"> {{project.title}} </a>
-
+          <p>
+          <a href="{{project.url}}"> {{project.number}} | {{project.title}} </a>
+          </p>
           {% endfor %}
       </div>
     </div> <!-- closes the portfolio-images div -->
