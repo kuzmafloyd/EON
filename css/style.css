@@ -428,6 +428,10 @@ nav.social a img {
     margin:auto;
   }
 
+  .sticky {
+    postion: static;
+  }
+
 
 }
 
