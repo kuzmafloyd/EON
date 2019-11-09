@@ -412,6 +412,12 @@ nav.social a img {
 
 @media screen and (max-width:768px) {
 
+  html, body {
+    overflow-x: hidden;
+    max-width:100%;
+  }
+
+
   .mob-hide {
     display:none!important;
   }
