@@ -11,6 +11,7 @@ image3_path: /images/em_yoga/eonport-.jpg
 categories:
   - yoga
   - lifestyle
+  - featured
 type: work
 location: 'Bali, Indonesia'
 images:

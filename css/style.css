@@ -396,11 +396,44 @@ nav.social a img {
     width: 1.5rem;
 }
 
+
+/* Mobile Nav Styles */
+
+.active {
+  color: teal; /* When the mobile nav is active, the hamburger button changes color to orange. */
+}
+.hamburger {
+  font-size: 3rem;
+  line-height: 0.2; /* this makes the dashes sit close on top of each other */
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  z-index: 4; /* the keeps the menu in front of everything else on the page, including the mobile nav */
+  display: none;
+}
+
+.mobile-nav {
+  display: none;
+  position: absolute;
+  top: 0;
+  left:0;
+  right:0;
+  bottom: 0;
+  background-color: rgba(230,230,235,0.95);
+  padding: 10%;
+  z-index:3;
+}
+.mobile-nav a {
+  padding: 1rem;
+  display: block;
+  text-decoration: none;
+}
+
 /* ---------- Resolution Styles ----------*/
 
 /* ------ Large Tablet Styles ------ */
 
-@media screen and (max-width:900px) {
+@media(max-width:900px) {
 
   .mob-show {
     display: block;
@@ -410,22 +443,30 @@ nav.social a img {
 
 /* ------ Small Tablet Styles ------ */
 
-@media screen and (max-width:768px) {
+@media(max-width:768px) {
 
   html, body {
     overflow-x: hidden;
     max-width:100%;
   }
 
+  .hamburger {
+    display: block;
+  }
 
   .mob-hide {
-    display:none!important;
+    display: none;
   }
   .mob-reverse {
     flex-direction: row-reverse;
   }
   .mob-first {
     order: -1;
+  }
+
+  h1.logo {
+    letter-spacing: 6px;
+    font-size: 1.3rem;
   }
 
   img.float-left {
@@ -438,11 +479,5 @@ nav.social a img {
     postion: static;
   }
 
-
-}
-
-/* -------- Phone Styles -------- */
-
-@media screen and (max-width:450px) {
 
 }

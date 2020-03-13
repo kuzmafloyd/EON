@@ -10,14 +10,14 @@ contact: true
       <h1 class="logo">Eyes of a Nomad</h1>
     </a>
   </div><!-- closes title-area -->
-  <nav class="nav-bar pgwdth">
+  <nav class="nav-bar pgwdth mob-hide">
       <a href="/index.html">Home</a>
       <a href="/portfolio.html">Portfolio</a>
       <!--<a href="/blog.html">Blog</a>-->
       <a href="/work-with-me.html">Work with Me</a>
       <a href="#contact">Contact</a>
   </nav>
-</header>
+</section>
   </div><!-- closes nav-bar -->
   <div class="headline pgwdth">
     <h2 class="editable">Photography by Emilio Kuzma-Floyd</h2>
@@ -31,13 +31,14 @@ contact: true
   <div class="portfolio-images left">
   <div id="new-portfolio">
 
-    {% assign sorted_projects = site.projects | sort: 'number' | reverse %}
+    {% for project in site.projects reversed %}
+    {% if project.categories contains 'featured' %}
 
-      {% for project in sorted_projects limit:4 %}
+      {% include project-item.html %}
 
-        {% include project-item.html %}
+    {% endif %}
+    {% endfor %}
 
-      {% endfor %}
   </div>
 </div> <!-- closes the portfolio-images div -->
 </section>

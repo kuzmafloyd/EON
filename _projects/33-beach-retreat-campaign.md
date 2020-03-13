@@ -10,6 +10,7 @@ image2_path: /images/uma/uma-leopold-campaign-6.jpg
 image3_path: /images/uma/uma-leopold-campaign-15.jpg
 categories:
   - fashion
+  - featured
 type: work
 location: 'Bali, Indonesia'
 images:
