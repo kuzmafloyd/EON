@@ -11,6 +11,7 @@ style: vertical
 categories:
   - hotel
   - lifestyle
+  - featured
 type: work
 location: 'Bali, Indonesia'
 images:

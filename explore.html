@@ -3,14 +3,34 @@
 
 {% include head.html %}
 
-<section class="padded center ig-nav">
+<section class="ig-nav bg-nude">
   <a href="/index">
-    <h1 class="logo">Eyes of a Nomad</h1>
+    <h1 class="logo center">Eyes of a Nomad</h1>
   </a>
   <nav>
-    <a href="/portfolio">Portfolio</a>
+    <a href="/portfolio">View Portfolio</a>
     <a href="/free-tutorial">Free Skin Re-touching Tutorial</a>
-    <a href="http://www.instituteofcode.com/courses/7-day-coding">IOC Free Coding Mini-Course</a>
-    <a href="http://www.instituteofcode.com/courses/7-day-instagram">IOC Free Instagram Mini-Course</a>
+    <a href="http://www.instituteofcode.com/courses/7-day-photography">Mini Photography Course $29</a>
+    <a href="/work-with-me"> Work with me</a>
   </nav>
+</section>
+<section>
+  <h3> Latest Projects </h3>
+  <div id="new-portfolio" class="horizontal-scroll grid">
+
+    {% assign counter = 0 %}
+    {% for project in site.projects reversed %}
+    {% if counter < 12 and project.categories contains 'featured' %}
+
+            <a href="{{project.url}}" class="mob-portfolio-item col-3_md-6_sm-10 padded-1">
+              <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
+              <h4 class="uppercase"> {{project.title}} </h4>
+            </a>
+
+        {% assign counter = counter | plus: 1 %}
+    {% endif %}
+    {% endfor %}
+
+  </div>
+
 </section>

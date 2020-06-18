@@ -18,7 +18,7 @@ services:
 
 <section class="padded grid-center">
 
-  <div class="col-8">
+  <div class="col-8_sm-12">
     <h1 class="center padded-1"> Work with me </h1>
     <img src="/images/emile-profile.png" class="float-left">
       <h2 class="editable">I'm Emilio, aka Eyes of a Nomad </h2>
@@ -39,15 +39,15 @@ services:
 
       <div class="col-12 grid-center">
         {% for item in page.services limit:4 %}
-        <a class="services-links col-3" href="{{item.link}}">
+        <a class="services-links col-3_sm-12" href="{{item.link}}">
           <div class="bg-image overlay" style="background-image:url({{item.image_path}})">
             <h2> {{item.name}} </h2>
           </div>
         </a>
         {% endfor %}
-      </div> <!-- close grid
+      </div>
 
-    <div class="col-8 padded">
+    <div class="col-8_sm-12 padded">
       <h2 class="editable center">Let's Work Together </h2>
       {% include contact-form.html %}
     </div>
@@ -56,14 +56,21 @@ services:
 <section>
   <h2 class="center"> Recent Projects </h2>
   <div class="portfolio-images left">
-  <div id="new-portfolio">
-      {% assign sorted_projects = site.projects | sort: 'number' | reverse %}
+    <div id="new-portfolio" class="horizontal-scroll grid">
 
-      {% for project in sorted_projects limit:4 %}
+      {% assign counter = 0 %}
+      {% for project in site.projects reversed %}
+      {% if counter < 12 and project.categories contains 'featured' %}
 
-      {% include project-item.html %}
+              <a href="{{project.url}}" class="mob-portfolio-item col-3_md-6_sm-10 padded-1">
+                <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
+                <h4 class="uppercase"> {{project.title}} </h4>
+              </a>
 
+          {% assign counter = counter | plus: 1 %}
+      {% endif %}
       {% endfor %}
-  </div>
+
+    </div>
 </div> <!-- closes the portfolio-images div -->
 </section> <!-- closes the portfolio section -->

@@ -8,7 +8,7 @@
 /* ----- Universial ----- */
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', sans-serif;
   font-weight: 400;
   margin: 0;
   max-width: 100vw;
@@ -21,15 +21,17 @@ body {
   text-align: center;
 }
 
+.bg-nude {
+  background-color: #F2EEE9;
+}
 
 a {
   text-decoration: none;
   color: inherit;
-
 }
 
-h1, h2, h3, .nav-bar {
-
+h1, h2, h3, .nav-bar, nav a {
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
 }
 
@@ -352,8 +354,8 @@ ul#filter li {
 }
 
 .contact-form input {
-  border: 2px solid rgb(90,90,95);
-  color: rgb(90,90,95);
+  border: 1px solid rgb(95,90,90);
+  color: rgb(95,90,90);
   font-size: 0.8rem;
   border-radius: 0;
   padding: 1.2rem 0.5rem;
@@ -433,23 +435,27 @@ nav.social a img {
   text-decoration: none;
 }
 
-
 .ig-nav nav a {
-  text-transform: uppercase;
+  font-family: 'Lora';
   display: block;
   padding: 0.5rem;
-  border: 1px solid rgb(150,150,155);
-  color: rgb(150,150,155);
-  margin: 0.5rem;
-}
-
-.ig-nav nav a:hover {
-  color: rgb(90,90,90);
-  border-color: rgb(90,90,90);
+  text-transform: none;
 }
 
 .ig-nav h1 {
   margin-bottom: 1rem;
+  border: 1px solid;
+  padding: 0.5rem;
+}
+
+.horizontal-scroll {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: auto;
+}
+
+.horizontal-scroll .big-image {
+  padding-bottom: 100%;
 }
 
 /* ---------- Resolution Styles ----------*/
@@ -467,6 +473,13 @@ nav.social a img {
 /* ------ Small Tablet Styles ------ */
 
 @media(max-width:768px) {
+  img.float-left {
+    max-width: 100%;
+  }
+
+  section {
+    padding: 5vh;
+  }
 
   html, body {
     overflow-x: hidden;

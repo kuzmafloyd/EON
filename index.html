@@ -26,10 +26,12 @@ contact: true
   <div class="portfolio-images left">
   <div id="new-portfolio">
 
+    {% assign counter = 0 %}
     {% for project in site.projects reversed %}
-    {% if project.categories contains 'featured' %}
+    {% if counter < 4 and project.categories contains 'featured' %}
 
       {% include project-item.html %}
+      {% assign counter = counter | plus: 1 %}
 
     {% endif %}
     {% endfor %}

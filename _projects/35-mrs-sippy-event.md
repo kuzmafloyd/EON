@@ -10,7 +10,6 @@ image3_path: /images/sippy_event/eonport-46782.jpg
 style: vertical
 categories:
   - lifestyle
-  - fashion
 type: work
 location: 'Bali, Indonesia'
 images:

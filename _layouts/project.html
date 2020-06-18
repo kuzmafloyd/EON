@@ -38,7 +38,7 @@ layout: default
       <!-- <h3> No. {{page.number}} </h3> -->
       <h1> {{page.title}} </h1>
 
-      <h3> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{page.location}} </h3>
+      <!-- <h3> <i class="fa fa-map-marker" aria-hidden="true"></i>  {{page.location}} </h3> -->
       {% for category in page.categories %}
 
       <a href="/project_archives/{{category | slugify }}" class="tag"> {{category}}</a> {% endfor %}
@@ -47,4 +47,23 @@ layout: default
 
     </div>
 
+</section>
+<section class="bg-nude">
+
+<h2 class="padded"> Related Projects </h2>
+<div class="horizontal-scroll grid">
+
+{% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
+{% for project in site.projects reversed %}
+  {% if project.categories contains pageCategory %}
+  {% if project.url != page.url %}
+
+      <a href="{{project.url}}" class="col-4_sm-7_xs-10 padded-2 centered">
+        <div class="bg-image padded" style="background-image:url({{project.image1_path}})"> </div>
+        <p class="emphasis"> {{project.title}} </p>
+      </a>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
 </section>
