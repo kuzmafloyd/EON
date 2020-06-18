@@ -2,7 +2,28 @@
 layout: default
 title: Eyes of a Nomad | Emilio Kuzma-Floyd
 contact: true
+banner_image: /images/uma/uma-leopold-campaign-1.jpg
+banner-mobile_image: /images/uma/uma-leopold-campaign-1.jpg
+banner-text_color: white
 ---
+
+<style>
+  .main {
+    background-image: url({{page.banner_image}});
+  }
+
+  @media(max-width:767px) {
+    .main {
+      background-image: url({{page.banner-mobile_image}});
+    }
+  }
+
+  .main *,
+  .hamburger {
+    color: {{page.banner-text_color}};
+  }
+
+</style>
 
 <section class="main">
   <div class="title-area pgwdth">

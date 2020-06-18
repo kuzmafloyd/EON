@@ -158,6 +158,7 @@ header nav a {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
+  background-position: center;
 }
 
 .main .title-area {
@@ -475,6 +476,10 @@ nav.social a img {
 @media(max-width:768px) {
   img.float-left {
     max-width: 100%;
+  }
+
+  .main {
+      background-attachment: scroll;
   }
 
   section {
