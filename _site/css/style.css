@@ -457,6 +457,7 @@ nav.social a img {
 
 .horizontal-scroll .big-image {
   padding-bottom: 100%;
+  border: none;
 }
 
 /* ---------- Resolution Styles ----------*/
