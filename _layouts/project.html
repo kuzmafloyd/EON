@@ -8,10 +8,10 @@ layout: default
 
     <div class="col-8_sm-12 right">
 
-      <span class="gallery-button" id="gallery-view">
+      <span class="gallery-button active" id="gallery-view">
         <img src="/images/icons/gallery-view.png">
       </span>
-      <span class="gallery-button active" id="single-view">
+      <span class="gallery-button" id="single-view">
           <img src="/images/icons/single-view.png">
       </span>
 
@@ -23,7 +23,7 @@ layout: default
         <div id="video-popup" class="embed-container"> {{page.intro_html}} </div>
       {% endif %}
 
-      <div class="lightbox-gallery single-view" id="gallery-container">
+      <div class="lightbox-gallery gallery-view" id="gallery-container">
 
         {% for image in page.images %}
         <a href="{{image}}">
@@ -50,7 +50,7 @@ layout: default
 </section>
 <section class="bg-nude">
 
-<h2 class="padded"> Related Projects </h2>
+<h2 class="padded center"> Related Projects </h2>
 <div class="horizontal-scroll grid">
 
 {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
@@ -58,7 +58,7 @@ layout: default
   {% if project.categories contains pageCategory %}
   {% if project.url != page.url %}
 
-      <a href="{{project.url}}" class="col-4_sm-7_xs-10 padded-2 centered">
+      <a href="{{project.url}}" class="col-3_md-4_sm-7_xs-10 padded-2 centered">
         <div class="big-image padded" style="background-image:url({{project.image1_path}})"> </div>
         <h4> {{project.title}} </h4>
       </a>
